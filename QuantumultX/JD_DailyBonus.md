@@ -2,20 +2,20 @@
 
 ### 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 safari 中 或者手动在 safari 中粘贴 https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
-1-3
+第1至3步(图片顺序从左往右)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_1.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_2.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_3.png)
 
-4-6
+第4至6步(图片顺序从左往右)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_4.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_5.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_6.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_7.png)
 
-7-9
+第7至9步(图片顺序从左往右)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_8.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_9.png)
