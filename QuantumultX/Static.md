@@ -12,8 +12,6 @@
 
 完成~~~
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/Static_1.3.png)
-
 ### 第二种方法：在编辑内添加(需要懂[policy]格式)
 
 格式如下：
