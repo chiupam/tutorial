@@ -16,6 +16,8 @@
 
 ## 二、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
 
+先复制右侧这串地址 https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+
 网址为： http://boxjs.com
 
 ### 进入 BoxJS 页面
