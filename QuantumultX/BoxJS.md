@@ -11,3 +11,9 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote_v.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
+
+### 至此 重新开关一次 VPN
+
+### 二、 safari 内进入 BoxJS
+
+网址为： http://boxjs.com
