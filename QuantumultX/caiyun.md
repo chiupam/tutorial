@@ -20,3 +20,15 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_6.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_7.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_8.png)
+
+## 申请腾讯地图令牌：
+
+先打开右侧这串地址：https://lbs.qq.com/dev/console/user/info
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_1.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_2.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_3.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_4.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_5.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_6.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_7.png)
