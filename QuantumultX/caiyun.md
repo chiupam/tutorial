@@ -49,12 +49,6 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_5.png)
 
-## 进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
-
-### 确保自己手机内的天气 app 中只有一个城市的天气预报
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
-
 ## 进入 QX 进行 [rewrite_local] 与 [mitm] 相关配置(未包含 [task] )：
 
 先打开右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 再进行下面的操作
@@ -70,4 +64,9 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
 
+## 进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
+
+### 确保自己手机内的天气 app 中只有一个城市的天气预报
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
 
