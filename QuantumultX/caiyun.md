@@ -1,4 +1,4 @@
-# [caiyun.js](https://github.com/Peng-YM/QuanX/blob/master/Tasks/caiyun.js) 来自 [Peng-YM](https://github.com/Peng-YM) 大神的 github 库
+# [caiyun.js](https://github.com/Peng-YM/QuanX/blob/master/Tasks/caiyun.js) 来自 [Peng-YM](https://github.com/Peng-YM) 大神的 [github 库](https://github.com/Peng-YM/QuanX/tree/master/Tasks)
 
 ### 功能：
 
@@ -86,7 +86,7 @@ cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执�
 
 脚本路径：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 
 
-图标：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自[Orz-3 契阔大佬](https://github.com/Orz-3/task)
+图标：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自 [Orz-3 契阔大佬](https://github.com/Orz-3/task)
 
 ### 此处的正确写法
 
