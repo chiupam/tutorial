@@ -4,7 +4,7 @@
 
 先复制右侧这串地址 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
 
-进入QX内
+## 进入QX内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote.png)
