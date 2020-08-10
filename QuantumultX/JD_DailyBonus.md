@@ -1,6 +1,6 @@
 # 京东京豆签到脚本配置方法
 
-### 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到safari中
+### 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 safari 中 或者手动在 safari 中粘贴 https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 1-3
 
@@ -31,6 +31,6 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_11.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_12.png)
 
-### 这一步会有弹窗提醒 如果没有 可能是已经获取并存储在BoxJS中
+### 出现下图时会有弹窗提醒 如果没有 可能是已经获取并存储在BoxJS中
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_13.png)
 
