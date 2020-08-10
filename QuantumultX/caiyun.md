@@ -62,11 +62,11 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
 
-### 五、QX 内正确配置应该如下图所示
+### QX 内正确配置应该如下图所示
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
 
-## 进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
+## 五、进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
 
 ### 确保自己手机内的天气 app 中只有一个城市的天气预报
 
@@ -75,8 +75,6 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ### 如果没有弹窗提醒请点击 [这里](https://t.me/hellcell321) 前往 Telegram 询问 @chiupam (此教程作者) or @PengYM (脚本作者)
 
 ## 六、进入 QX 配置 [task] 即添加任务请求
-
-### 推荐 cron 时间 0 7-22/3 * * *
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/task_ui.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_1.png)
@@ -90,7 +88,7 @@ cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执�
 
 图标：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自[Orz-3 契阔大佬](https://github.com/Orz-3/task)
 
-正确写法
+### 此处的正确写法
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_5.png)
 
