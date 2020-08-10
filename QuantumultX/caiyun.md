@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 此时，打开系统天气应用，会提示获取位置成功，如果没有提示，请确认上面的步骤是否配置正确。
 
-### 确保自己手机内的天气 app 中只有一个城市的天气预报
+确保自己手机内的天气 app 中只有一个城市的天气预报
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
 
