@@ -12,8 +12,16 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
 
-### 至此 重新开关一次 VPN
+### 至此 重新开关一次 VPN !!! 这一步很关键!!!
 
-### 二、 safari 内进入 BoxJS
+## 二、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
 
 网址为： http://boxjs.com
+
+### 进入 BoxJS 页面
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_1.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_2.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_3.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_4.png)
+
