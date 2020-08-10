@@ -55,10 +55,12 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/bianji.png)
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_local.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_rewrite.png)
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/hostname.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_local.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_hostname.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/hostname.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
 
 ### 五、QX 内正确配置应该如下图所示
 
