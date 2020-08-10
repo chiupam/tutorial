@@ -23,7 +23,7 @@ https://dashboard.caiyunapp.com/user/sign_up/
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_7.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_8.png)
 
-## 二、申请腾讯地图令牌：
+## 二、申请腾讯地图令牌：(正确填入申请信息可立马通过审核)
 
 ### 先打开下面这串地址：
 
