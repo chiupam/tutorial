@@ -18,7 +18,7 @@
 
 先复制右侧这串地址 https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 
-网址为： http://boxjs.com
+BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 
 ### 进入 BoxJS 页面
 
