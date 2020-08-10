@@ -93,6 +93,6 @@ cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执�
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_5.png)
 
 ## 再次鸣谢此教程中提及的各位大佬
-- [Peng-YM](https://github.com/Peng-YM)
-- [Orz-3](https://github.com/Orz-3) [TG频道](https://t.me/Orzmini)
-- HellCell[TG频道](https://t.me/HellCellZC123)
+- Peng-YM [github库](https://github.com/Peng-YM)
+- Orz-3 [github库](https://github.com/Orz-3) [TG频道](https://t.me/Orzmini)
+- HellCell [TG频道](https://t.me/HellCellZC123)
