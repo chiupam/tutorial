@@ -43,6 +43,8 @@ https://lbs.qq.com/dev/console/user/info
 
 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
+safari 中进入 BoxJS http://boxjs.com
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_2.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_3.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
