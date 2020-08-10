@@ -1,4 +1,4 @@
-# [caiyun.js](https://github.com/Peng-YM/QuanX/blob/master/Tasks/caiyun.js) 来自 [Peng-YM](https://github.com/Peng-YM) 大神的 [github 库](https://github.com/Peng-YM/QuanX/tree/master/Tasks)
+# [caiyun.js](https://github.com/Peng-YM/QuanX/blob/master/Tasks/caiyun.js) 来自 [Peng-YM](https://github.com/Peng-YM) 大佬的 [github 库](https://github.com/Peng-YM/QuanX/tree/master/Tasks)
 
 ### 功能：
 
@@ -37,7 +37,7 @@ https://lbs.qq.com/dev/console/user/info
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_6.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_7.png)
 
-## 三、进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 配置)
+## 三、进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 并完成教程中第一步的配置)
 
 ### 先复制下面这串地址：
 
