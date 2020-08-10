@@ -82,11 +82,13 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_3.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_4.png)
 
+cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执行一次脚本，即7点、10点、13点，以此类推)
+
 脚本远链：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 
 
 图标远链：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自[Orz-3 契阔大佬](https://github.com/Orz-3/task)
 
 正确写法
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_5.png)
 
