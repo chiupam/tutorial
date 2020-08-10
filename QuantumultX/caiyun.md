@@ -99,6 +99,10 @@ cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_task_5.png)
 
+## 七、配置已经完成了，别想下一步了
+
+嘿嘿嘿~~~尽情享用 caiyun.js 给你带来的快乐吧~~~
+
 ## 再次鸣谢此教程中提及的各位大佬
 - Peng-YM [github库](https://github.com/Peng-YM)
 - Orz-3 [github库](https://github.com/Orz-3) [TG频道](https://t.me/Orzmini)
