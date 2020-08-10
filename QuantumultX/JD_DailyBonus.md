@@ -13,10 +13,9 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_4.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_5.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_6.png)
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_7.png)
 
 第7至9步(图片顺序从左往右)(完成第9步后请不要关闭刚刚 safari 打开的页面)
-
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_7.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_8.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_9.png)
 
