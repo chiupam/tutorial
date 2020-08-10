@@ -84,9 +84,9 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 cron表达式：0 7-22/3 * * * (意思为 每天7-22点每3小时的第0分执行一次脚本，即7点、10点、13点，以此类推)
 
-脚本远链：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 
+脚本路径：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 
 
-图标远链：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自[Orz-3 契阔大佬](https://github.com/Orz-3/task)
+图标：https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png 来自[Orz-3 契阔大佬](https://github.com/Orz-3/task)
 
 正确写法
 
