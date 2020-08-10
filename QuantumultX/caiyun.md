@@ -8,7 +8,7 @@
 √ 降雨提醒
 √ 每日睡前预报
 
-## 申请彩云天气令牌：
+## 一、申请彩云天气令牌：
 
 ### 先打开下面这串地址：
 
@@ -23,7 +23,7 @@ https://dashboard.caiyunapp.com/user/sign_up/
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_7.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_api_8.png)
 
-## 申请腾讯地图令牌：
+## 二、申请腾讯地图令牌：
 
 ### 先打开下面这串地址：
 
@@ -37,7 +37,7 @@ https://lbs.qq.com/dev/console/user/info
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_6.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_7.png)
 
-## 进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 配置)
+## 三、进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 配置)
 
 ### 先复制下面这串地址：
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_5.png)
 
-## 进入 QX 进行 [rewrite_local] 与 [mitm] 相关配置(未包含 [task] )：
+## 四、进入 QX 进行 [rewrite_local] 与 [mitm] 相关配置(此处并未包含 [task] 的配置)：
 
 先打开右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js 再进行下面的操作
 
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/hostname.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_hostname.png)
 
-### QX 内正确配置应该如下图所示
+### 五、QX 内正确配置应该如下图所示
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
 
@@ -70,5 +70,10 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
 
-### 如果没有弹窗提醒请点击 [这里](https://t.me/hellcell321) 前往 Telegram @chiupam (此教程作者) or @PengYM (脚本作者)
+### 如果没有弹窗提醒请点击 [这里](https://t.me/hellcell321) 前往 Telegram 询问 @chiupam (此教程作者) or @PengYM (脚本作者)
+
+## 六、进入 QX 配置 [task] 即添加任务请求
+
+### 推荐 cron 时间 0 7-22/3 * * *
+
 
