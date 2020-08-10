@@ -37,7 +37,7 @@
 
 先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
-## 进入 QX 进行配置：
+## 进入 QX 进行 [rewrite_local] 与 [mitm] 相关配置(未包含 [task] )：
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/bianji.png)
