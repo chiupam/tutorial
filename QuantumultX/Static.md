@@ -16,4 +16,5 @@
 
 ### 第二种方法：在编辑内添加(需要懂[policy]格式)
 
-### 格式如下：1、static=策略组名称, 节点1, 节点2, direct, proxy, reject, img-url=图标链接 2、static=策略组名称, resource-tag-regex=正则筛选订阅, server-tag-regex=正则筛选节点, img-url=图标链接
+### 格式如下：1、static=策略组名称, 节点1, 节点2, direct, proxy, reject, img-url=图标链接 
+2、static=策略组名称, resource-tag-regex=正则筛选订阅, server-tag-regex=正则筛选节点, img-url=图标链接
