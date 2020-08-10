@@ -32,3 +32,22 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_5.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_6.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/tencent_api_7.png)
+
+## 进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 配置)
+
+先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
+
+## 进入 QX 进行配置：
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/bianji.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_local.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_rewrite.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/hostname.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_hostname.png)
+
+### QX 内正确配置应该如下图所示
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
+
+
