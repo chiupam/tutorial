@@ -67,11 +67,17 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ## 五、进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
 
+打开手机设置 > 隐私 > 定位服务
+
+(1) 打开定位服务
+
+(2) 选择天气，设置永远允许天气访问位置信息，并允许使用精确位置。
+
+此时，打开系统天气应用，会提示获取位置成功，如果没有提示，请确认上面的步骤是否配置正确。
+
 ### 确保自己手机内的天气 app 中只有一个城市的天气预报
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
-
-### 如果没有弹窗提醒请点击 [这里](https://t.me/hellcell321) 前往 Telegram 询问 @chiupam (此教程作者) or @PengYM (脚本作者)
 
 ## 六、进入 QX 配置 [task] 即添加任务请求
 
