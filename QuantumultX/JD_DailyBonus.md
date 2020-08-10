@@ -20,9 +20,9 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_8.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_9.png)
 
-完成后请不要关闭刚刚 safari 打开的页面
+### 完成后请不要关闭刚刚 safari 打开的页面
 
-正确配置如下图：
+### 正确配置如下图：
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_10.png)
 
