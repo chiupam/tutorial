@@ -8,4 +8,4 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote.png)
-
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote_v.png)
