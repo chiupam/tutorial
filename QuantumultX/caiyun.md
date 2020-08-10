@@ -70,3 +70,5 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_weatherapp.png)
 
+### 如果没有弹窗提醒请点击 [这里](https://t.me/hellcell321) 前往 Telegram @chiupam (此教程作者) or @PengYM (脚本作者)
+
