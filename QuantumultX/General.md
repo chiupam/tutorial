@@ -23,7 +23,7 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/bianji.png)
 
-#### 将上面的代码复制粘贴到下图所示位置
+将上面的代码复制粘贴到下图所示位置
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/general.png)
 
