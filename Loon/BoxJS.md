@@ -58,7 +58,14 @@ safari 中进入 BoxJS 网址为：http://boxjs.com
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_7.png)
 
-## 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
+# 多说几句
 
-## 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
 
+更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+
+# 鸣谢
+
+- [chavyleung](https://github.com/chavyleung)
+
+- [Peng-YM](https://github.com/Peng-YM)
