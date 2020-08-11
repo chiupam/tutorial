@@ -29,6 +29,6 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_11.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_12.png)
 
-### 出现下图时会有弹窗提醒 如果没有 可能是已经获取并存储在BoxJS中 cookie失效重新获取需要前往BoxJS中 点击 [这里]() 跳转到教程
+### 出现下图时会有弹窗提醒 如果没有 可能是已经获取并存储在 QX 缓存中 cookie失效重新获取需要前往BoxJS中 点击 [这里]() 跳转到教程
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_13.png)
 
