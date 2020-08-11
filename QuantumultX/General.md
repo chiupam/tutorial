@@ -4,7 +4,7 @@
 
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 
-server_check_url=http://www.google.com/generate_204
+server_check_url=http://www.gstatic.com/generate_204
 
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 
@@ -13,6 +13,10 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 - resource_parser_url 资源解析器
 
 - server_check_ur 俗称的 ping 延迟 (如果没有此段代码在节点列表下拉不会显示节点延迟)
+
+- - 等号后的地址还可以变更为：
+
+- - - 1
 
 - geo_location_checker 查看节点信息 (如果没有此段代码无法长按节点查看下级菜单)
 
