@@ -38,7 +38,7 @@ BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽�
 
 ## 四、添加 BoxJs 订阅
 
-以添加 Peng-YM 订阅为例
+以添加 Peng-YM 订阅为例（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
 先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
@@ -48,9 +48,7 @@ safari 中进入 BoxJS 网址为：http://boxjs.com
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_3.png)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_5.png)
+### 如果回到 订阅 界面发现格式错误，请尝试删除订阅并重复第四步或者点更新按钮更新一下
 
 ## 五、为了以后方便进入 BoxJS 可以这样操作
 
