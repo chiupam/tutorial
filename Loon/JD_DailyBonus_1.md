@@ -32,17 +32,25 @@ safari 与 Loon 之间切换进行操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/hostname.jpg)
 
+正确的配置如下图所示
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_2.jpg)
 
 右上角保存即可
 
 ### 三、完成上述配置后 请回到 safari 中
 
+拷贝如下图所示的网址，或者点击 [这里]() 跳转
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_3.jpg)
+
+打开 safari 粘贴并前往获取 cookie 的网址
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_1.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_2.jpg)
+点击箭头所指区域
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_2.png)
 
 最后一张图片时会弹窗提示获取 cookie 成功，如果没有提示可能原因是：
 
@@ -52,9 +60,15 @@ safari 与 Loon 之间切换进行操作
 
 ## 四、对脚本执行时间进行修改(此步是按需操作)
 
+打开 Loon 点击下方配置栏
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Local_Script.jpg)
 
+点击此处
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_4.jpg)
+
+按需要修改，如果不懂 cron 语法，请点击 [这里](https://tool.lu/crontab/)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_5.jpg)
 
