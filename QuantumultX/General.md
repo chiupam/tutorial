@@ -35,7 +35,7 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/resource_parser.png)
 
-### 如果没有看到如上图所示的界面请开关一次 VPN 连接
+#### 如果没有看到如上图所示的界面请开关一次 VPN 连接
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/START-STOP.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/STOP-START.png)
