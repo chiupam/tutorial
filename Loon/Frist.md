@@ -36,7 +36,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/mitm_8.jpg)
 
-### 三、添加订阅节点 (第三步与第四步必须一起做)
+### 三、添加订阅节点 (第三步与第四步必须连贯做)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy.png)
 
@@ -47,3 +47,17 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy_4.jpg)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy_5.jpg)
+
+### 四、筛选订阅节点 (在此之前必须完成第三步)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_1.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_2.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_3.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_4.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_5.jpg)
