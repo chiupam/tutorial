@@ -26,11 +26,11 @@
 
 BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 
-首次进入如下图显示：
+首次进入如下图显示：（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_1.png)
 
-BoxJS 页面介绍:
+BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_2.png)
 
