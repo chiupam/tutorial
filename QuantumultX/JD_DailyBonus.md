@@ -2,22 +2,28 @@
 
 ### 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 safari 中
 
-第1至3步复制粘贴(图片顺序从左往右)
+第1至3步复制粘贴
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_1.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_2.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_3.png)
 
-第4至6步复制粘贴(图片顺序从左往右)
+第4至6步复制粘贴
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_4.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_5.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_6.png)
 
-第7至9步复制粘贴(图片顺序从左往右)(完成第9步后请不要关闭刚刚 safari 打开的页面)
+第7至9步复制粘贴(完成第9步后请不要关闭刚刚 safari 打开的页面)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_7.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_8.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_9.png)
 
 ### 正确配置如下图：
