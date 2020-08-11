@@ -22,4 +22,16 @@ safari 与 Loon 之间切换进行操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_hostname.jpg)
 
+hostname 每两个地址的间隔方法：前一个地址与后一个地址用一个英文逗号隔开
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/hostname.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_2.jpg)
+
+左上角保存即可
+
+### 完成上述配置后 请回到 safari 中
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_11.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/jd_12.png)
