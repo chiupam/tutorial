@@ -44,11 +44,11 @@ safari 与 Loon 之间切换进行操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_3.jpg)
 
-打开 safari 粘贴并前往获取 cookie 的网址
+打开 safari 粘贴并前往获取 cookie 的网址，点击箭头所指区域
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_1.jpg)
 
-点击箭头所指区域
+完成
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_2.png)
 
