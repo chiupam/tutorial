@@ -7,14 +7,19 @@
 ### 进入 QX 内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/dianji.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_remote_v.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
 
 ### 开关一次 QX VPN 连接
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/START-STOP.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/STOP-START.png)
 
 ## 二、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
@@ -36,7 +41,9 @@ BoxJS 页面介绍:
 ## 三、为了以后方便进入 BoxJS 可以这样操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_5.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_6.png)
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_7.png)
 
 ## 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
