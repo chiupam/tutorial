@@ -76,7 +76,7 @@
 
 ## 第二种方法与第三种方法
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/Dadong111/tutorial/blob/master/JD_DailyBonus_2%263.md)
+这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/Dadong111/tutorial/blob/master/JD_DailyBonus_2%263.md)
 
 # 鸣谢
 
