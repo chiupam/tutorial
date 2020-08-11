@@ -1,5 +1,7 @@
 # 首次使用 Loon
 
+此教程仅让首次使用 Loon 的用户成功科学上网，更多详细教程后面会更新，敬请期待
+
 ## 一、通过 URL 下载功能下载一份简易版配置
 
 先复制右侧这串地址：https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_example.conf
