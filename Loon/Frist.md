@@ -137,7 +137,7 @@
 
 第二步：
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.png)
 
 ### 如果选择了 手动选择 策略组请进行下列操作
 
