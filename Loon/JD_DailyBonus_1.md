@@ -12,9 +12,11 @@
 
 ### 二、进入 Loon 进行编辑配置
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 点击下方配置栏
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/bianji.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) safari 与 Loon 之间切换进行操作，先拷贝如下图所示的代码片段
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以下几步会在 safari 与 Loon 之间切换进行操作复制粘贴代码片段的操作，先进入刚才在 safari 打开的网页拷贝如下图所示的代码片段
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
