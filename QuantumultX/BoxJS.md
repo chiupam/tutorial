@@ -12,7 +12,10 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
 
-### 至此 重新开关一次 VPN !!! 这一步很关键!!!
+### 开关一次 QX VPN 连接
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/START-STOP.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/STOP-START.png)
 
 ## 二、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
 
@@ -20,15 +23,15 @@
 
 BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 
-### 进入 BoxJS 页面
+首次进入如下图显示：
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_1.png)
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_2.png)
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_3.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_1.png)
 
-#### 如果需要重新获取 cookie 请操作下面这一步
+BoxJS 页面介绍:
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_4.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_2.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_dingyue.png)
 
 ## 三、为了以后方便进入 BoxJS 可以这样操作
 
