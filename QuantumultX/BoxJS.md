@@ -50,10 +50,9 @@ BoxJS 页面介绍:
 
 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
 
-更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts 并关注
 
 # 鸣谢
 
 - [chavyleung](https://github.com/chavyleung)
 
-- [Peng-YM](https://github.com/Peng-YM)
