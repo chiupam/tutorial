@@ -26,7 +26,7 @@ safari 与 Loon 之间切换进行操作，先拷贝如下图所示的代码片�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_hostname.jpg)
 
-![#f03c15](将上图拷贝下来的代码片段粘贴到下图指定位置，注意：hostname 每两个地址的间隔方法：前一个地址与后一个地址用一个英文逗号隔开)
+将上图拷贝下来的代码片段粘贴到下图指定位置，注意：hostname 每两个地址的间隔方法：前一个地址与后一个地址用一个英文逗号隔开)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/hostname.jpg)
 
