@@ -67,6 +67,8 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
 
+添加 hostname 的时候，每个地址之间用英文逗号加空格间隔
+
 ## 五、进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
 
 打开手机设置 > 隐私 > 定位服务
