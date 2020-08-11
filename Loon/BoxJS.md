@@ -2,7 +2,7 @@
 
 ## 一、Loon 内的必要配置
 
-先复制右侧这串地址 https://raw.githubusercontent.com/chavyleung/scripts/master/loon.box.conf
+先复制右侧这串地址：https://raw.githubusercontent.com/chavyleung/scripts/master/loon.box.conf
 
 ### 进入 Loon 内
 
@@ -22,7 +22,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/START.jpg)
 
-## 、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
+## 三、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
 
 BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 
@@ -36,7 +36,23 @@ BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_dingyue.png)
 
-## 三、为了以后方便进入 BoxJS 可以这样操作
+## 四、添加 BoxJs 订阅
+
+以添加 Peng-YM 订阅为例
+
+先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
+
+safari 中进入 BoxJS 网址为：http://boxjs.com
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_2.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_3.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_5.png)
+
+## 五、为了以后方便进入 BoxJS 可以这样操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_5.png)
 
