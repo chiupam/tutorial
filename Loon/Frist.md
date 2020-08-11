@@ -18,7 +18,7 @@
 
 ## 二、配置证书
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/zhengshu.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/zhengshuguanli.png)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/mitm_1.jpg)
 
