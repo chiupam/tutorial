@@ -8,6 +8,6 @@
 
 - [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md)
 
-- [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_2&3.md)
+- [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) 前提是学习了第一种方法
 
 - [教程编写中，请不要点击这里](111111)
