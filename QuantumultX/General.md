@@ -14,9 +14,7 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 - server_check_ur 俗称的 ping 延迟 (如果没有此段代码在节点列表下拉不会显示节点延迟)
 
--- 等号后的地址还可以变更为：
-
---- 1
+- - 等号后的地址还可以变更为：http://www.instagram.com/204 或者 http://www.google.com/generate_204 (不推荐这个地址)
 
 - geo_location_checker 查看节点信息 (如果没有此段代码无法长按节点查看下级菜单)
 
