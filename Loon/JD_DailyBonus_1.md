@@ -6,7 +6,7 @@
 
 ### 一、查看脚本文件
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 safari 中直到配置完成
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 safari 中直到配置完成 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_1.jpg)
 
@@ -14,27 +14,25 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/bianji.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) safari 与 Loon 之间切换进行操作，先拷贝如下图所示的代码片段
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) safari 与 Loon 之间切换进行操作，先拷贝如下图所示的代码片段 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上图拷贝下来的代码片段粘贴到下图指定位置
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上图拷贝下来的代码片段粘贴到下图指定位置 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Script.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 继续回到 safari 中拷贝如下图所示的代码片段
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 继续回到 safari 中拷贝如下图所示的代码片段 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_hostname.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上图拷贝下来的代码片段粘贴到下图指定位置，注意：hostname 每两个地址的间隔方法：前一个地址与后一个地址用一个英文逗号隔开)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上图拷贝下来的代码片段粘贴到下图指定位置，完成后点右上角保存按钮保存，注意：hostname 每两个地址的间隔方法：前一个地址与后一个地址用一个英文逗号隔开) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/hostname.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确的配置如下图所示
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确的配置如下图所示 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_2.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 右上角保存即可
 
 ### 三、完成上述配置后 请回到 safari 中
 
