@@ -59,3 +59,7 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 ## 第二种方法与第三种方法
 
 这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_2&3.md)
+
+# 鸣谢
+
+- [NobyDa](https://github.com/NobyDa)    [JD_DailyBonus.js](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
