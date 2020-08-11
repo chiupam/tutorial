@@ -4,4 +4,4 @@
 
 - [首次使用 BoxJs 配置教程](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md)
 
-- [xxxxxxx](111111)
+- [模板](111111)
