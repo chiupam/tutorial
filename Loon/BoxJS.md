@@ -8,13 +8,13 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script.png)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_1.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_1.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_2.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_2.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_1.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_1.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_2.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_2.jpg)
 
 ## 二、重启 Loon 连接
 
