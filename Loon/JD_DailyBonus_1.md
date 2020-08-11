@@ -52,10 +52,10 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_5.jpg)
 
-- 5 0 * * * 表示 每日 12：00 执行一次
+- 5 0 * * * 表示 每日 12：05 执行一次
 
 - 学习更多 cron 语法，请点击 [这里](https://tool.lu/crontab/)
 
 ## 第二种方法与第三种方法
 
-这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里]()
+这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_2&3.md)
