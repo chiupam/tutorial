@@ -26,7 +26,7 @@ BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_2.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_3.png)
 
-#### 如果需要重新或许cookie请操作下面这一步
+#### 如果需要重新获取 cookie 请操作下面这一步
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_4.png)
 
