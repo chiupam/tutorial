@@ -151,4 +151,5 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Frist_end.png)
 
+# 欢迎进入 Loon 官方 Telegram 频道 点击 [这里](https://t.me/Loon0x00) 跳转
 
