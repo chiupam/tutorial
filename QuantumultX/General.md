@@ -42,4 +42,4 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 # 鸣谢解析器作者
 
-- Shawn [ithub库](https://github.com/KOP-XIAO)
+- Shawn [github库](https://github.com/KOP-XIAO)
