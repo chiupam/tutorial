@@ -8,7 +8,7 @@ server_check_url=http://www.google.com/generate_204
 
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 
-### 
+### 个人理解
 
 - resource_parser_url 资源解析器
 
