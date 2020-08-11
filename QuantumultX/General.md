@@ -23,9 +23,9 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 #### 将上面的代码复制粘贴到这里
 
-#### 注意：如果已经看到有 resource_parser_url=****** 这行代码，请直接覆盖而不是粘贴 (其他两个也同理)
-
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/general.png)
+
+#### 注意：如果在上图中已经看到有 resource_parser_url=****** 这行代码，请直接覆盖而不是粘贴 (其他两个也同理)
 
 ### 正确配置如下图所示
 
