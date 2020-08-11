@@ -2,7 +2,7 @@
 
 - 此方法比较简单粗暴，必须先学习第一种方法再来学习该方法
 
-- 如果浏览者未学习第一种方法，请点击 [这里]()
+- 如果浏览者未学习第一种方法，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md)
 
 ## 第二种方法（通过订阅脚本功能）
 
