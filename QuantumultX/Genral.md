@@ -35,3 +35,7 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/START-STOP.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/STOP-START.png)
+
+# 鸣谢解析器作者
+
+- Shawn [ithub库](https://github.com/KOP-XIAO)
