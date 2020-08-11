@@ -18,7 +18,7 @@
 
 ## 二、重启 Loon 连接
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/STOP.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/STOP.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/STAART.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/STAART.jpg)
 
