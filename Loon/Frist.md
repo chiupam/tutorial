@@ -147,4 +147,8 @@
 
 ## 完成~~~
 
+# 逻辑图帮助理解
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Frist_end.jpg)
+
 
