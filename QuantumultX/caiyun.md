@@ -59,6 +59,9 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_rewrite.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/rewrite_local.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_hostname.png)
+
+添加 hostname 的时候，每个地址之间用英文逗号加空格间隔
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/hostname.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/changan.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/up.png)
@@ -66,8 +69,6 @@ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 ### QX 内正确配置应该如下图所示
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_right.png)
-
-添加 hostname 的时候，每个地址之间用英文逗号加空格间隔
 
 ## 五、进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
 
