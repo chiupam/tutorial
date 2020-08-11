@@ -58,8 +58,14 @@
 
 ## 这两种方法的区别
 
-- 第二种方法优先级比第三种方法的低
+- 第二种方法优先级比第三种方法的低，三者关系可以表示为：本地脚本<订阅脚本<插件
 
 - 第二种方法可以修改执行时间，即可以修改 cron 表达式，第三种则不行，需要引用到的地址的作者在其库中修改
 
-- 感兴趣可以学习如何写 .plugin 文件放在个人 github 库中，在插件中引用个人链接，高度自定义
+- 感兴趣可以学习如何写订阅脚本的 .conf 文件放在个人 github 库中，在订阅脚本 URL 中引用个人链接，高度自定义
+
+- 感兴趣可以学习如何写订阅插件的 .plugin 文件放在个人 github 库中，在插件 URL 中引用个人链接，高度自定义
+
+# 鸣谢
+
+- [NobyDa](https://github.com/NobyDa)    [JD_DailyBonus.js](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
