@@ -26,7 +26,7 @@ BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_2.png)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_3.png)
 
-如果需要重新或许cookie请操作下面这一步
+#### 如果需要重新或许cookie请操作下面这一步
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_4.png)
 
@@ -37,3 +37,5 @@ BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_7.png)
 
 ## 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram
+
+## 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
