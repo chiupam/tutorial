@@ -26,9 +26,9 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/hostname.jpg)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_2.png)
 
-左上角保存即可
+右上角保存即可
 
 ### 三、完成上述配置后 请回到 safari 中
 
