@@ -40,7 +40,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy.png)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy_2.png)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Proxy_3.jpg)
 
