@@ -46,15 +46,15 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 完成
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 最后会弹窗提示获取 cookie 成功，如果没有弹窗，请往下看
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_safari_2.png)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 最后一张图片时会弹窗提示获取 cookie 成功，如果没有提示可能原因是：
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果没有提示可能原因是：
 
 - 没有正确配置
 
-- 曾经已经成功获取（需要重新获取 cookie 请学习 BoxJs 的使用方法并订阅 NobyDa 的 BoxJs）
+- 曾经已经成功获取（需要重新获取 cookie 请深入学习 BoxJs 的使用方法并订阅 NobyDa 的 BoxJs）
 
 ## 四、对脚本执行时间进行修改(此步是按需操作)
 
