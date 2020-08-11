@@ -48,7 +48,7 @@ safari 中进入 BoxJS 网址为：http://boxjs.com
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_3.png)
 
-### 如果回到 订阅 界面发现格式错误，请尝试删除订阅并重复第四步或者点更新按钮更新一下
+#### 如果回到 订阅界面 发现格式错误，请尝试删除订阅并重复第四步或者点更新订阅按钮更新一下
 
 ## 五、为了以后方便进入 BoxJS 可以这样操作
 
