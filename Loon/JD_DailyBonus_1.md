@@ -63,4 +63,5 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 # 鸣谢
 
 - [NobyDa](https://github.com/NobyDa)    
-- 以及 NobyDa 的京东京豆脚本 [JD_DailyBonus.js](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+
+- 以及 NobyDa 的京东京豆签到脚本 [JD_DailyBonus.js](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
