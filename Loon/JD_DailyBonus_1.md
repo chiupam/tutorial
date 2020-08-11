@@ -30,7 +30,7 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 
 左上角保存即可
 
-### 完成上述配置后 请回到 safari 中
+### 三、完成上述配置后 请回到 safari 中
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_3.jpg)
 
@@ -44,7 +44,7 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 
 - 曾经已经成功获取（需要重新获取 cookie 请学习 BoxJs 的使用方法并订阅 NobyDa 的 BoxJs）
 
-## 三、对脚本执行时间进行修改(此步是按需操作)
+## 四、对脚本执行时间进行修改(此步是按需操作)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Local_Script.jpg)
 
@@ -56,6 +56,6 @@ hostname 每两个地址的间隔方法：前一个地址与后一个地址用�
 
 - 学习更多 cron 语法，请点击 [这里](https://tool.lu/crontab/)
 
-## 第二种方法
+## 第二种方法与第三种方法
 
-写在另一个文档内，请点击 [这里]()
+这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里]()
