@@ -61,13 +61,15 @@
 #### 先学习正则表达式再往下看
 
 - (A).*(B) or (A.*B|B.*A)
-- --节点名既有A又有B 
+- 节点名既有A又有B 
 - (A)|(B) or ^.*(A|B)
-- -- 节点名有A或者B 
+- 节点名有A或者B 
 - ^((?!A).)*$
-- -- 节点名不含有 A 
+- 节点名不含有 A 
 - (?!.*(A)).*(B) or ^(?!.*?A).*B
-- -- 节点名不含有 A同时含有 B
+- 节点名不含有 A同时含有 B
+
+#### 看懂了再进行下一步
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Filter_4.jpg)
 
