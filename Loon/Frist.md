@@ -4,9 +4,15 @@
 
 先复制右侧这串地址：https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_example.conf
 
+第一步：
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/peizhi.png)
 
+第二步：
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL.png)
+
+第三步：
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL_1.png)
 
