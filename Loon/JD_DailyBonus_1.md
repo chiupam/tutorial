@@ -82,4 +82,4 @@
 
 - [NobyDa](https://github.com/NobyDa)    
 
-- 以及 NobyDa 的京东京豆签到脚本 [JD_DailyBonus.js](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+- 以及 NobyDa 的[京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
