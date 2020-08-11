@@ -1,4 +1,4 @@
-# BoxJS 的使用方法(以 NobyDa 大佬的 JD_DailyBonus.js 为例)
+# BoxJS 的使用方法
 
 ## 一、QX 内的必要配置
 
