@@ -14,6 +14,6 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_4.png)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图：按图操作即可
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图：按图说明操作即可，填写完成后必须点击保存设置，否则不生效
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_5.png)
