@@ -18,6 +18,6 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_example.png)
 
-# 引用自
+# 参考
 
 - [Loon 中 Rule 的类型](https://www.notion.so/Rule-878ced7042634ca994d4fc4846d60df4)
