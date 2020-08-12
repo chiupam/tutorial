@@ -1,15 +1,18 @@
-# 订阅分流并选择策略
+# 订阅规则/分流并选择策略（分流是 Quantumult X 的叫法）
 
 Q：我想在我使用 Netflix 时代理选择奈菲节点，我该如何操作？
 
 A：通过订阅规则，选择策略，达到想要的效果。
 
+Q：我想添加其他 APP 的订阅规则，我该如何操作？
+
+A：先学会如何订阅 Netflix 规则，再前往推荐的库内寻找需要的规则，自行操作。
+
 ## 一、新建策略（是的，就是新建策略）
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) 完成新建策略组的操作
 
-## 二、订阅规则/分流（分流是 Quantumult X 的叫法）
-
+## 二、订阅规则
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制/拷贝右侧这串地址：https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（订阅规则）
@@ -62,7 +65,7 @@ A：通过订阅规则，选择策略，达到想要的效果。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_9.jpg)
 
-- 如果需要添加更多分流，却不知道从哪里找，在这里推荐 ConnersHua 的订阅规则，请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
+- 如果需要添加更多分流，却不知道从哪里找，在这里推荐 ConnersHua 的订阅规则，请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转。找到需要的规则后点击 Raw ，在 Loon 中粘贴的订阅地址则为 Raw 后的地址
 
 # 鸣谢
 
