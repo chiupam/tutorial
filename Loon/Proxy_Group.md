@@ -48,7 +48,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_7.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（添加）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（添加），以添加另外一个策略组或者节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_8.jpg)
 
