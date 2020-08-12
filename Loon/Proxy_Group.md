@@ -69,3 +69,7 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_12.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 自此，手动选择策略组会使用 Netflix 策略组选择的节点，新建的 Netflix 策略组成功完成套娃工作
+
+# 多说几句
+
+- 因为此教程搭配了订阅规则的教程一起使用，所以在第一步和第二步的时候选择的策略组名皆命名为 Netflix ，实际请根据用户的需求自行定义策略组名称
