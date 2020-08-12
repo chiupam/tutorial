@@ -48,6 +48,18 @@ A：通过订阅规则，选择策略，达到想要的效果。
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果没有蓝色节点出现则手动选择一个
 
+## 多说几句
+
+订阅规则是有先后顺序的，访问请求匹配的订阅规则依次从上到下进行匹配
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果 Netflix 订阅规则位于国际媒体订阅规则之上，打开 Netflix 时走 Netflix 策略组下节点
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_8.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果国际媒体订阅规则位于 Netflix 订阅规则之上，打开 Netflix 时走 Proxy 策略组下节点
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_9.jpg)
+
 # 鸣谢
 
 - [ConnersHua](https://github.com/ConnersHua) 提供的分流
