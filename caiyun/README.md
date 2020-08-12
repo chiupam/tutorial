@@ -13,3 +13,11 @@
 - 四、APP 内配置，请点击使用的 APP [Quantumult X](https://github.com/chiupam/tutorial/blob/master/caiyun/QuantumultX.md) or [Surge](https://github.com/chiupam/tutorial/blob/master/caiyun/Surge.md) or [Loon](https://github.com/chiupam/tutorial/blob/master/caiyun/Loon.md)
 
 - [五、获取定位](https://github.com/chiupam/tutorial/blob/master/caiyun/location.md)
+
+# 鸣谢
+
+- Peng-YM
+
+- Orz-3
+
+- chavyleung
