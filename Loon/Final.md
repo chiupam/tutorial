@@ -4,6 +4,8 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example.jpg)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果本地规则匹配成功，则会往下走，不会往右边走
+
 ## 还不懂就再理解下图
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example_1.jpg)
