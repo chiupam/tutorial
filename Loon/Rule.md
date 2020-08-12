@@ -47,3 +47,7 @@ A：通过订阅规则，选择策略，达到想要的效果。
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果没有蓝色节点出现则手动选择一个
+
+# 鸣谢
+
+- [ConnersHua](https://github.com/ConnersHua) 提供的分流
