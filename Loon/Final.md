@@ -10,6 +10,10 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example_1.jpg)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 逻辑对应关系如下图所示
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example_2.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 上图中因为本地规则中没有匹配成功，就不往下走而是往右边走
 
 ## 实例完成一次访问理解规则的作用
