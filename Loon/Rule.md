@@ -65,7 +65,7 @@ A：先学会如何订阅 Netflix 规则，再前往推荐的库内寻找需要�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_9.jpg)
 
-- 如果需要添加更多分流，却不知道从哪里找，在这里推荐 ConnersHua 的订阅规则，请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转。找到需要的规则后点击 此规则.list 然后点击Raw ，在 Loon 中粘贴的订阅地址则为 Raw 后的地址
+- 如果需要添加更多分流，却不知道从哪里找，在这里推荐 ConnersHua 的订阅规则，请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转。找到需要的规则后点击 规则名称.list 然后点击Raw ，在 Loon 中粘贴的订阅地址则为 Raw 后的地址
 
 # 鸣谢
 
