@@ -10,6 +10,8 @@ A：通过订阅规则，选择策略，达到想要的效果。
 
 ## 二、订阅规则/分流（分流是 Quantumult X 的叫法）
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制/拷贝右侧这串地址：https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（订阅规则）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_1.jpg)
@@ -18,7 +20,7 @@ A：通过订阅规则，选择策略，达到想要的效果。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 填入 URL 和别名
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝下来的地址粘贴到 URL 处，填写分流别名
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_3.jpg)
 
