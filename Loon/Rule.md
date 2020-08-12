@@ -50,15 +50,17 @@ A：通过订阅规则，选择策略，达到想要的效果。
 
 ## 多说几句
 
-订阅规则是有先后顺序的，访问请求匹配的订阅规则依次从上到下进行匹配
+- 订阅规则是有先后顺序的，访问请求匹配的订阅规则依次从上到下进行匹配
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果 Netflix 订阅规则位于国际媒体订阅规则之上，打开 Netflix 时走 Netflix 策略组下节点
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果 Netflix 订阅规则位于国际媒体订阅规则之上，打开 Netflix 时走 Netflix 策略组下节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_8.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果国际媒体订阅规则位于 Netflix 订阅规则之上，打开 Netflix 时走 Proxy 策略组下节点
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，如果国际媒体订阅规则位于 Netflix 订阅规则之上，打开 Netflix 时走 Proxy 策略组下节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_9.jpg)
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果需要添加更多分流，却不知道从哪里找，在这里推荐 ConnersHua 的订阅规则，请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
 
 # 鸣谢
 
