@@ -4,16 +4,16 @@
 
 ## 教程
 
-- [申请彩云天气令牌](https://github.com/chiupam/tutorial/blob/master/caiyun/caiyun_api.md)
+- [一、申请彩云天气令牌](https://github.com/chiupam/tutorial/blob/master/caiyun/caiyun_api.md)
 
-- [申请腾讯地图令牌](https://github.com/chiupam/tutorial/blob/master/caiyun/tencent_api.md)
+- [二、申请腾讯地图令牌](https://github.com/chiupam/tutorial/blob/master/caiyun/tencent_api.md)
 
-- [进入 BoxJs 内设置](https://github.com/chiupam/tutorial/blob/master/caiyun/BoxJS.md)
+- [三、进入 BoxJs 内设置](https://github.com/chiupam/tutorial/blob/master/caiyun/BoxJS.md)
 
-- [Quantumult X 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/QuantumultX.md)
+- [四、Quantumult X 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/QuantumultX.md)
 
-- [Surge 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/Surge.md)
+- [四、Surge 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/Surge.md)
 
-- [Loon 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/Loon.md)
+- [四、Loon 内配置](https://github.com/chiupam/tutorial/blob/master/caiyun/Loon.md)
 
-- [获取定位](https://github.com/chiupam/tutorial/blob/master/caiyun/location.md)
+- [五、获取定位](https://github.com/chiupam/tutorial/blob/master/caiyun/location.md)
