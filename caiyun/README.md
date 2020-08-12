@@ -2,7 +2,7 @@
 
 教程包含彩云天气令牌的申请、腾讯地图令牌的申请、进入 BoxJs 内设置、三个软件（Quantumult X、Surge、Loon）的配置、获取定位等，点击下面的链接即可前往对应的教程。
 
-## 教程
+# 教程
 
 - [一、申请彩云天气令牌](https://github.com/chiupam/tutorial/blob/master/caiyun/caiyun_api.md)
 
