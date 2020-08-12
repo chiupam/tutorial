@@ -1,4 +1,4 @@
-# 进入 BoxJS (如果是第一次使用 BoxJS 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/QuantumultX/BoxJS.md) 并完成教程中第一步的配置)
+# 进入 BoxJS 内设置
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
