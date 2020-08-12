@@ -16,7 +16,7 @@
 
 # 鸣谢
 
-- Peng-YM 提供的脚本、BoxJs订阅
+- @Peng-YM 提供的脚本、BoxJs订阅
 
 - Orz-3 提供的图标
 
