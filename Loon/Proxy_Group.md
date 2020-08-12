@@ -68,4 +68,4 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_12.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 自此，新建的策略组成功完成套娃工作
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 自此，手动选择策略组会使用 Netflix 策略组选择的节点，新建的 Netflix 策略组成功完成套娃工作
