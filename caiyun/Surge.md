@@ -14,7 +14,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Surge/caiyun_hostname.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 粘贴到如图所示的执行位置 [mitm] 下的 hostname = 后面并点击右上角完成，注意：添加 hostname 的时候，每个地址之间用英文逗号加空格间隔
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 粘贴到如图所示的指定位置 [MITM] 下的 hostname = 后面并点击右上角完成，注意：添加 hostname 的时候，每个地址之间用英文逗号加空格间隔
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Surge/hostname.jpg)
 
@@ -28,11 +28,11 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Surge/Script_new.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按图填写内容，URL 正则表达式在教程下面，请自行复制粘贴，填写完成后点击右上角完成按钮
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按图填写内容，URL 正则表达式和脚本URL 都在教程下面，请自行复制粘贴，填写完成后点击右上角完成按钮
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Surge/caiyun_request.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将脚本类型由 HTTP Request 更改为 Cron 后，再将脚本位置由 本地 更改为 远程，最后按图填写内容，cron 表达式在教程下面，请自行复制粘贴，填写完成后点击右上角完成按钮
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将脚本类型由 HTTP Request 更改为 Cron 后，再将脚本位置由 本地 更改为 远程，最后按图填写内容，cron 表达式和脚本 URL 都在教程下面，请自行复制粘贴，填写完成后点击右上角完成按钮
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Surge/caiyun_cron.jpg)
 
