@@ -30,9 +30,42 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果是从分流教程跳转的，需要回到分流教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Rule.md)
 
-## 套娃（是的，就是套娃）
+## 二、套娃（是的，就是套娃）
 
-（请理解一下这句话：每个策略追溯至最上层策略，都会有一个分流在发生效果，因为刚刚新建的策略组没有被其他已经生效策略或规则选为子策略，所以刚刚新建的策略只是一个空壳，没有任何实质的功能）
+（请理解一下这句话：每个策略追溯至最上层策略，都会有一个分流在发生效果，因为刚刚新建的策略组没有被其他已经生效策略或订阅规则选为子策略，所以刚刚新建的策略只是一个空壳，没有任何实质的功能）
 
 （下面只教让新建的策略组成为其他已经生效策略组的子策略组{有点拗口，多读几次}）
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（策略组）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（编辑）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_6.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（手动选择）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_7.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（添加）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_8.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（Netflix），然后点击存储
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_9.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（保存）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_10.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（策略组）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_11.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（手动选择），然后点击 Netflix
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_12.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 自此，新建的策略组成功完成套娃工作
