@@ -12,11 +12,11 @@
 
 ## 实例完成一次访问理解规则的作用
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/local.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/local.png)
 
 # Loon 中 Rule 的类型
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_example.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_example.png)
 
 # 鸣谢
 
