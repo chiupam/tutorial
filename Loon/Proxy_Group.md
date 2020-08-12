@@ -28,7 +28,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 至此，成功新建一个策略组
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果是从分流教程跳转的，需要回到分流教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Rule.md)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果是从分流教程跳转，需要回到分流教程的，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Rule.md)
 
 ## 二、套娃（是的，就是套娃）
 
