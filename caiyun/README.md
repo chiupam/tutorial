@@ -16,8 +16,8 @@
 
 # 鸣谢
 
-- Peng-YM
+- Peng-YM 提供的脚本、BoxJs订阅
 
-- Orz-3
+- Orz-3 提供的图标
 
-- chavyleung
+- chavyleung 开发的 BoxJs 盒子
