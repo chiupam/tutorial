@@ -1,6 +1,6 @@
 # 进入 iOS 自带的天气 app 自动获取当前定位(会有弹窗提醒)
 
-前提是完成了应用内配置，如果没有完成，请点击对应软件跳转至教程
+前提是完成了对应软件内配置，如果没有完成，请点击对应软件跳转至教程
 
 - [Quantumult X](https://github.com/chiupam/tutorial/blob/master/caiyun/QuantumultX.md)
 
