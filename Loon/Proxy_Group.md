@@ -18,7 +18,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 添加可用策略，一般选择最后面的筛选订阅节点
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 添加可用策略，选择另外一个策略组或者节点，本教程选择最下面的筛选订阅节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_4.jpg)
 
