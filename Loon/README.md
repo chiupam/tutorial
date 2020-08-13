@@ -10,7 +10,7 @@
 
 - [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要那么懒，学习第一种方法再点击，第二、三种方法链接在第一种方法内）
 
-- [订阅 Netflix 规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md) 
+- [订阅 Netflix 规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md) （订阅特殊 APP 规则并选择特殊代理节点）
 
 - [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配`订阅 Netflix 规则`一起学习效果更佳）
 
