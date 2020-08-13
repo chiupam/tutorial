@@ -84,9 +84,11 @@
 
 # 多说几句
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
+- 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+- 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+
+- 以上只是粗略介绍 BoxJs 的使用，BoxJs 作者 chavyleung 已经写出了 BoxJs 官方介绍，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转
 
 # 鸣谢
 
