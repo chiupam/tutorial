@@ -6,8 +6,7 @@
 
 ## 一、复制订阅规则的 Raw 链接
 
-首先找到用户需要订阅的规则，推荐使用 [Conners Hua](https://github.com/ConnersHua?tab=repositories) 的规则，点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset
-) 前往 github 库
+首先找到用户需要订阅的规则，推荐使用 [Conners Hua](https://github.com/ConnersHua?tab=repositories) 的规则，点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 前往 github 库
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以订阅 China.list (国内规则) 规则为例，点击 China.list
 
@@ -41,8 +40,15 @@
 
 - 去广告类（策略选择 REJECT）
 
-- 国内直连类（策略选择DIRECT）
+- 国内直连类（策略选择 DIRECT）
 
-- 国外特定 APP 代理（建议学习[此教程](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md)）
+- 国外特定 APP 代理（必须学习[另一个教程](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md)后再订阅此类规则）
 
 - 国外代理类（策略选择 PROXY {此策略名字不一定，需要看配置具体而定}）
+
+# 多说几句
+
+- 去广告规则推荐订阅 NobyDa 野比的去广告规则，github 库请点击 [这里](https://github.com/NobyDa/Script/tree/master/Surge) 跳转
+
+- 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
+
