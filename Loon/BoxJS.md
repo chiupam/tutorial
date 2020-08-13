@@ -4,21 +4,33 @@
 
 先复制右侧这串地址：https://raw.githubusercontent.com/chavyleung/scripts/master/loon.box.conf
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内 点击下方配置栏，点击订阅脚本
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script.png)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如下图所示区域
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝的地址粘贴到 URL 栏内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_2.jpg)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 填入订阅脚本别名（BoxJs）然后点击保存
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐点击入下图所示区域更新一下
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_2.jpg)
 
 ## 二、重启 Loon 连接
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内点击下方仪表栏，点击右上角 Stop 关闭连接
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/STOP.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 再点击右上角 Start 开启连接
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/START.jpg)
 
@@ -32,29 +44,41 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图为 BoxJS 应用界面
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_2.png)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图为 BoxJS 引用界面
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_dingyue.png)
 
 ## 四、添加 BoxJs 订阅
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以添加 Peng-YM 订阅为例（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以添加 Peng-YM 订阅为例，safari 中进入 BoxJS 网址为：http://boxjs.com （左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制/拷贝右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
-safari 中进入 BoxJS 网址为：http://boxjs.com
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 safari 打开 BoxJS ，点击下方`引用`按钮后点击右上角（+）添加订阅
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_2.png)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 粘贴上面复制/拷贝的地址并点击添加
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/caiyun_boxjs_3.png)
 
-#### 如果回到 订阅界面 发现格式错误，请尝试删除订阅并重复第四步或者点更新订阅按钮更新一下
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果回到 订阅界面 发现格式错误，请尝试删除订阅并重复第四步或者点更新订阅按钮更新一下
 
 ## 五、为了以后方便进入 BoxJS 可以这样操作
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先进入 Boxjs 界面
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_5.png)
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（添加到主屏幕）
+
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_6.png)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图琐事区域（添加）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_7.png)
 
