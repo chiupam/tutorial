@@ -6,7 +6,7 @@
 
 ## 一、复制订阅规则的 Raw 链接
 
-首先找到用户需要订阅的规则，推荐使用 [Conners Hua](https://github.com/ConnersHua?tab=repositories) 的规则，点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 前往 github 库
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 首先找到用户需要订阅的规则，推荐使用 [Conners Hua](https://github.com/ConnersHua?tab=repositories) 的规则，点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 前往 github 库
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以订阅 China.list (国内规则) 规则为例，点击 China.list
 
