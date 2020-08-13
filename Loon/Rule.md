@@ -10,9 +10,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以订阅 China.list (国内规则) 规则为例，点击 China.list
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Raw
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 长按地址栏，并复制/拷贝地址
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
 ## 二、进入 Loon 内订阅规则
 
@@ -28,11 +34,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝下来的地址粘贴到 URL 处，填写分流别名
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（DIRECT）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 DIRECT 即可
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（保存）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
 ## 三、订阅规则的位次规定
 
