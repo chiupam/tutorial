@@ -60,7 +60,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_10.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（策略组）(图片弄错了，晚上改，其实是点左上角的策略组)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（策略组）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_11.jpg)
 
