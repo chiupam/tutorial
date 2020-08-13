@@ -10,4 +10,8 @@
 
 - [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) 不要那么懒，学习第一种方法再点击，第二、三种方法链接在第一种方法内
 
+- [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule.md) 
+
+- [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) 
+
 - [教程编写中，请不要点击这里](111111)
