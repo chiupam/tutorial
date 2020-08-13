@@ -66,3 +66,9 @@
 
 - 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
 
+# 鸣谢
+
+- [Conners Hua](https://github.com/ConnersHua?tab=repositories)
+
+- [NobyDa](https://github.com/NobyDa)
+
