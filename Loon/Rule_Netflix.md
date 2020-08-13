@@ -1,4 +1,4 @@
-# 订阅规则/分流并选择策略（分流是 Quantumult X 的叫法）
+# 订阅 Netflix 规则/分流并选择 Netflix 策略（分流是 Quantumult X 的叫法）
 
 Q：我想在我使用 Netflix 时代理选择奈菲节点，我该如何操作？
 
