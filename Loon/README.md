@@ -14,4 +14,4 @@
 
 - [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) 
 
-- [教程编写中，请不要点击这里](111111)
+- 教程编写中，有高度需求的教程请前往 [Loon 官方交流群](https://t.me/Loon0x00)并 @chiupam 提出
