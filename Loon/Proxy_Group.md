@@ -62,7 +62,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（策略组）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_11.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（手动选择），然后点击 Netflix
 
