@@ -12,6 +12,6 @@
 
 - [新键策略组的方法](https://github.com/chiupam/tutorial/blob/master/QuantumultX/Static.md)
 
-- [彩云天气脚本配置](https://github.com/chiupam/tutorial/blob/master/QuantumultX/caiyun.md)
+- [彩云天气脚本配置](https://github.com/chiupam/tutorial/tree/master/caiyun)
 
 - [教程编写中，请不要点击这里](111111)
