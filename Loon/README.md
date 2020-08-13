@@ -12,7 +12,7 @@
 
 - [订阅 Netflix 规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md) （订阅特殊 APP 规则并选择特殊代理节点）
 
-- [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配 订阅 Netflix 规则 一起学习效果更佳）
+- [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配上面 订阅 Netflix 规则 学习效果更佳）
 
 - [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule.md) （仅限策略选择为 DIRECT、REJECT、PROXY{此名称不一定}时学习）
 
