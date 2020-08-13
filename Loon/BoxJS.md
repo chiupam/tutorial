@@ -4,7 +4,7 @@
 
 先复制右侧这串地址：https://raw.githubusercontent.com/chavyleung/scripts/master/loon.box.conf
 
-### 进入 Loon 内
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script.png)
 
@@ -24,13 +24,13 @@
 
 ## 三、 safari 内进入 BoxJS(进入失败请重新开关一次 VPN !!!)
 
-BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) BoxJS 网址为： http://boxjs.com (注意前面是 http 不是 https)
 
-首次进入如下图显示：（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 首次进入如下图显示：（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_1.png)
 
-BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/QuantumultX/BoxJS_yingyong_2.png)
 
@@ -38,9 +38,9 @@ BoxJS 页面介绍:（左上角图标应该显示 Loon 图标才正确，请忽�
 
 ## 四、添加 BoxJs 订阅
 
-以添加 Peng-YM 订阅为例（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以添加 Peng-YM 订阅为例（左上角图标应该显示 Loon 图标才正确，请忽略此处细节）
 
-先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 先复制右侧这串地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
 safari 中进入 BoxJS 网址为：http://boxjs.com
 
@@ -60,12 +60,12 @@ safari 中进入 BoxJS 网址为：http://boxjs.com
 
 # 多说几句
 
-更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 更多大佬的 BoxJS 订阅请点击 [这里](https://t.me/chavyscripts/66) 跳转至 Telegram 频道 Chavy Scripts
 
-更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
 
 # 鸣谢
 
-- [chavyleung](https://github.com/chavyleung)
+- [chavyleung](https://github.com/chavyleung) 开发的 BoxJS 盒子
 
-- [Peng-YM](https://github.com/Peng-YM)
+- [Peng-YM](https://github.com/Peng-YM) 提供的订阅地址
