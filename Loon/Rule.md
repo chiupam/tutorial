@@ -35,9 +35,13 @@ A：先学会如何订阅 Netflix 规则，再前往推荐的库内寻找需要�
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_5.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确配置如下图所示，然后点击下图所示区域（保存）并确保订阅的 Netflix 规则处于的位置最低不得低于国际媒体规则之下
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确配置如下图所示，然后点击下图所示区域（保存）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_6.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保订阅的 Netflix 规则处于的位置最低不得低于国际媒体规则之下
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_8.jpg)
 
 ## 三、查看 Netfix 策略组情况
 
