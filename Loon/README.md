@@ -1,6 +1,6 @@
-# 文件夹说明
+# Loon 保姆教程
 
-## 该文件夹内存放 Loon 保姆教程，需要的点击对应文件查看即可
+## 需要学习的教程自行点击对应文件查看
 
 - [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md)
 
