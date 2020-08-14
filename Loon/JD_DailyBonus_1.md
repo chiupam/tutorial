@@ -96,7 +96,7 @@
 
 # 鸣谢
 
-- [NobyDa](https://github.com/NobyDa) 提供的 [京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+- [NobyDa](https://github.com/NobyDa) 提供的 [京东京豆签到脚本](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
 
 - [Sunert](https://github.com/Sunert) 提供的 [微博签到脚本](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
 
