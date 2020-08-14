@@ -6,9 +6,11 @@
 
 - [首次使用 BoxJs 配置](https://github.com/chiupam/tutorial/blob/master/Loon/BoxJS.md) （已有官方教程，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转）
 
-- [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md)
+- [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （本地配置）
 
 - [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要那么懒，学习第一种方法再点击，第二、三种方法链接在第一种方法内）
+
+- [全局代理与全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md)
 
 - [订阅 Netflix 规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md) （订阅特殊 APP 规则并选择特殊代理节点）
 
