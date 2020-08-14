@@ -141,11 +141,11 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.png)
 
-- 如果选择了 手动选择 策略组请进行下列操作
+- 如果选择了 `手动选择` 策略组请进行下列操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_select.jpg)
 
-- 如果选择了 优选地策略 or 健康检测 则不需要进行任何操作
+- 如果选择了 `优选低策略` 或者 `健康检测` 则不需要进行任何操作
 
 ## 完成~~~
 
