@@ -137,7 +137,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `𝐏𝐫𝐨𝐱𝐲` 并从下级菜单中选择
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `Proxy` 并从下级菜单中选择
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.png)
 
@@ -146,8 +146,6 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_select.jpg)
 
 - 如果选择了 `优选低策略` 或者 `健康检测` 则不需要进行任何操作
-
-## 完成~~~
 
 # 逻辑图帮助理解
 
