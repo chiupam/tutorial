@@ -93,6 +93,14 @@
   - [微博签到脚本](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)是打开微博APP
 
   - [顺丰速运签到脚本](https://github.com/chavyleung/scripts/blob/master/sfexpress/README.md)是在微信小程序中登陆顺丰账号并点击指定的位置
+  
+- 特殊的签到类脚本配置方法与京东京豆签到脚本大同小异，区别在于可能不需要获取 cookie ，例如
+  
+  - [京东农场脚本](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_fruit.js)是需要用户已经成功配置[京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)并已经获取 cookie 
+  
+- 提醒类脚本的配置方法与京东京豆签到脚本大同小异，唯一区别在于不需要获取 cookie ，例如
+
+  - [nCov-19全球疫情通报](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js)只需要用户配置正确的复/重写语句和 cron 语句，一般不需要再多操作，到了用户设置的时间就会自动执行脚本
 
 # 鸣谢
 
@@ -101,3 +109,7 @@
 - [Sunert](https://github.com/Sunert) 提供的 [微博签到脚本](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
 
 - [chavyleung](https://github.com/chavyleung) 提供的 [顺丰速运签到脚本](https://github.com/chavyleung/scripts/blob/master/sfexpress/README.md)
+
+- [lxk0301](https://github.com/lxk0301) 提供的 [京东农场脚本](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_fruit.js)
+
+- [Peng-YM](https://github.com/Peng-YM) 提供的 [nCov-19全球疫情通报](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js)
