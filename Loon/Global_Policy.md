@@ -4,7 +4,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) A：可能是因为用户没有正确选择全局策略。
 
-## 全局直连、自动分流、全局代理（小白语句）
+## 一、全局直连、自动分流、全局代理（小白语句）
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 全局直连：全部的请求均直接指向最终目的地，不经过任何节点
 
@@ -12,7 +12,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 全局代理：用户发起的访问请求全部使用代理，即科学上网
 
-## 全局策略
+## 二、全局策略
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 当分流模式选择全局代理时，用户发起的访问请求全部使用代理节点，由于 `Loon` 没有默认代理策略组全局策略，因而用户必须正确选择代理策略
 
@@ -28,7 +28,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_7.jpg)
 
-## 代理策略
+## 三、代理策略
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 每个策略追溯至最上层必定有一个分流在起作用，通过下面四张图片理解
 
