@@ -4,7 +4,7 @@
 
 ## 一、学习 cron 表达式的基本写法
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/cron.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/cron.png)
 
 - 从左到右依次
 
