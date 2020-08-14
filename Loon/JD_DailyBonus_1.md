@@ -96,6 +96,8 @@
 
 # 鸣谢
 
-- [NobyDa](https://github.com/NobyDa)    
+- [NobyDa](https://github.com/NobyDa) 提供的 [京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 
-- 以及 NobyDa 的[京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+- [NobyDa](https://github.com/NobyDa) 提供的 [京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+
+- [NobyDa](https://github.com/NobyDa) 提供的 [京东京豆签到脚本](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
