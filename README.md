@@ -1,8 +1,8 @@
 # 保姆级别教程
 
-## 以下是我一直关注的大佬，感谢他们的辛勤付出
+以下是我一直关注的大佬，感谢他们的辛勤付出
 
-### 脚本系列作者 (排名不分先后)
+## 脚本系列作者 (排名不分先后)
 
 - [chavyleung](https://github.com/chavyleung/scripts) 
 
@@ -28,7 +28,7 @@
 
 - [evilbutcher](https://github.com/evilbutcher/Quantumult_X/tree/master) 
 
-### 规则系列作者
+## 规则系列作者
 
 - [eHpo1](https://github.com/eHpo1/Rules)
 
