@@ -20,7 +20,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 每个策略追溯至最上层必定有一个分流在起作用，通过下面四张图片理解
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 第一张图片：国际媒体和国际网址需要代理节点才可以访问，这两条规则选择的母策略名为 `Proxy`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 第一张图片：`国际媒体` 和 `国际网址` 需要代理节点才可以访问，这两条规则选择的母策略名为 `Proxy`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_1.jpg)
 
