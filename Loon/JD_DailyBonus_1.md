@@ -66,6 +66,24 @@
 
 这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/Dadong111/tutorial/blob/master/JD_DailyBonus_2%263.md)
 
+## 四、修改本地脚本中的 cron 表达式
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 点击下方 `配置` 栏，下拉找到并点击 `本地脚本`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Local_Script.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到需要修改 cron 表达式的脚本并点击（左下角如果不是 `cron` 的不能修改）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_4.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `表达式` 右侧并按用户需要修改
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_local_5.jpg)
+
+- 5 0 * * * 表示 每日 12：05 执行一次
+
+- 学习更多 cron 语法，请点击 [这里](https://tool.lu/crontab/)
+
 # 多说几句
 
 - 每个签到类脚本的配置方法大同小异，最大的区别只是获取 cookie 的方式不一样，例如
