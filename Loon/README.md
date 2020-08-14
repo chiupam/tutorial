@@ -10,7 +10,7 @@
 
 - [脚本的高级配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要投机取巧，高级配置方法的链接在本地配置方法文档内）
 
-- [彩云天气脚本配置方法](https://github.com/chiupam/tutorial/tree/master/caiyun)
+- [彩云天气脚本配置方法](https://github.com/chiupam/tutorial/tree/master/caiyun) （学会京东京豆签到脚本配置再整一个彩云天气脚本配置加强学习）
 
 - [脚本执行时间](https://github.com/chiupam/tutorial/blob/master/Loon/cron.md) （学习完基本可以学会 cron 的写法）
 
