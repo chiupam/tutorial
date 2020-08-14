@@ -84,6 +84,10 @@
 
 这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/Dadong111/tutorial/blob/master/JD_DailyBonus_2%263.md)
 
+# 多说几句
+
+- 每个签到类脚本的配置方法大同小异，最大的区别只是获取 cookie 的方式不一样，例如京东京豆签到脚本是访问指定网址，微博签到脚本是打开微博APP，顺丰速运签到脚本是在微信小程序中登陆顺丰账号并点击指定的位置
+
 # 鸣谢
 
 - [NobyDa](https://github.com/NobyDa)    
