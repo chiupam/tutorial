@@ -82,7 +82,7 @@
 
 - 5 0 * * * 表示 每日 12：05 执行一次
 
-- 学习更多 cron 语法，请点击 [这里](https://tool.lu/crontab/)
+- 学习更多 cron 语法，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/cron.md)
 
 # 多说几句
 
