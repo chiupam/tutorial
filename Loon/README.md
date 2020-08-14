@@ -8,7 +8,7 @@
 
 - [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （本地配置）
 
-- [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要那么懒，学习第一种方法再点击，第二、三种方法链接在第一种方法内）
+- [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要投机取巧，第二、三种方法链接在第一种方法内）
 
 - [全局代理与全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) （解决使用全局代理时不走节点流量的问题）
 
