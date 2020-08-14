@@ -10,7 +10,9 @@
 
 - [脚本的高级配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要投机取巧，高级配置方法的链接在本地配置方法文档内）
 
-- [修改脚本执行时间](https://github.com/chiupam/tutorial/blob/master/Loon/cron.md) （学习完基本可以学会 cron 的写法）
+- [彩云天气脚本配置方法](https://github.com/chiupam/tutorial/tree/master/caiyun)
+
+- [脚本执行时间](https://github.com/chiupam/tutorial/blob/master/Loon/cron.md) （学习完基本可以学会 cron 的写法）
 
 - [全局代理与全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) （解决使用全局代理时不走节点流量的问题）
 
