@@ -6,9 +6,9 @@
 
 - [首次使用 BoxJs 配置](https://github.com/chiupam/tutorial/blob/master/Loon/BoxJS.md) （已有官方教程，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转）
 
-- [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （通过学习配置京东京豆签到脚本，学会如何自行添加脚本）
+- [签到类脚本的本地配置方法——以京东京豆签到脚本为例](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （通过学习配置京东京豆签到脚本，学会如何自行添加脚本）
 
-- [京东京豆签到脚本配置——第二、三种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要投机取巧，第二、三种方法链接在第一种方法内）
+- [脚本的高级配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md) （不要投机取巧，高级配置方法的链接在本地配置方法文档内）
 
 - [全局代理与全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) （解决使用全局代理时不走节点流量的问题）
 
