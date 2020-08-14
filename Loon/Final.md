@@ -24,6 +24,16 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_example.png)
 
+# 多说几句
+
+- 规则的匹配优先次序由优先级从高到低依次排序为
+
+  - 本地规则
+  
+  - 远程规则
+  
+  - Final,
+
 # 参考
 
 - [Loon 中 Rule 的类型](https://www.notion.so/Rule-878ced7042634ca994d4fc4846d60df4)
