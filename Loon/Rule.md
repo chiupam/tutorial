@@ -66,6 +66,8 @@
 
 - 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
 
+- 为什么说 `PROXY` 此名称不一定，想了解原因请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) 跳转并阅读 `三、代理策略`
+
 # 鸣谢
 
 - [Conners Hua](https://github.com/ConnersHua?tab=repositories)
