@@ -1,6 +1,6 @@
 # 首次使用 Loon
 
-此教程仅让首次使用 Loon 的用户成功科学上网，更多详细教程后面会更新，敬请期待
+此教程仅让首次使用 Loon 的用户成功科学上网，更多基础教程在教程底部，请按提示点击跳转，本人精力有限，如果没有想要的教程，请反映并耐心等待
 
 ## 一、通过 URL 下载功能下载一份简易版配置
 
@@ -154,4 +154,6 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Frist_end.png)
 
 # 欢迎进入 Loon 官方 Telegram 频道 点击 [这里](https://t.me/Loon0x00) 跳转
+
+# 更多基础教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/README.md) 跳转
 
