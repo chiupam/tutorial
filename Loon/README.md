@@ -20,7 +20,7 @@
 
 - [订阅 Netflix 规则](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md) （订阅特殊类 app 规则并选择特殊代理节点）
 
-- [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配上面 订阅 Netflix 规则 学习效果更佳）
+- [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配上面 `订阅 Netflix 规则` 学习效果更佳）
 
 - [Final策略组](https://github.com/chiupam/tutorial/blob/master/Loon/final.md) （图解 `Fianl` 策略组的作用）
 
