@@ -8,7 +8,7 @@
 
 ## 还不懂就再理解下图
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Final_example_1.png)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 逻辑对应关系如下图所示
 
