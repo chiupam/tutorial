@@ -32,6 +32,6 @@ A：可能是因为用户没有正确选择全局策略。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_3.jpg)
 
-第四张图片：当用户访问 `www.google.com` 时使用 `国际网站` 规则，该规则使用 `Proxy` 母策略组，该母策略组使用 `手动选择` 子策略组，该子策略组使用 `隧道 香港 01 #GZCM` 代理节点
+第四张图片：当用户访问 `www.google.com` 时使用 `国际网站` 规则，该规则使用 `Proxy` 母策略组，该母策略组使用 `手动选择` 子策略组，该子策略组使用 `[隧道] 香港 01 #GZCM` 代理节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_4.jpg)
