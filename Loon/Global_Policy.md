@@ -28,7 +28,7 @@ A：可能是因为用户没有正确选择全局策略。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_2.jpg)
 
-第三张图片：在子策略组 ` 手动选择` 下可以看到名为 '[隧道] 香港 01 #GZCM' 代理节点
+第三张图片：在子策略组 ` 手动选择` 下可以看到名为 `[隧道] 香港 01 #GZCM` 代理节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_3.jpg)
 
