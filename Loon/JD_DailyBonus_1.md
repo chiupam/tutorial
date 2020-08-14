@@ -101,6 +101,8 @@
 - 提醒类脚本的配置方法与京东京豆签到脚本大同小异，唯一区别在于不需要获取 cookie ，例如
 
   - [nCov-19全球疫情通报](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js)只需要用户配置正确的复/重写语句和 cron 语句，一般不需要再多操作，到了用户设置的时间就会自动执行脚本
+  
+- 更多好玩的脚本请点击 [这里](https://github.com/chiupam/tutorial/blob/master/README.md) 自行寻找
 
 # 鸣谢
 
