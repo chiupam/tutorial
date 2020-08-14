@@ -4,7 +4,7 @@
 
 ## 脚本系列作者 (排名不分先后)
 
-- [nzw9314](https://github.com/nzw9314/QuantumultX/tree/master) （于2020.08.09正式停止更新，以前收录的脚本能够正常使用）
+- [nzw9314](https://github.com/nzw9314/QuantumultX/tree/master) （脚本合集，作者宣布于2020.08.09正式停止更新，在此之前已经收录的脚本能够正常使用）
 
 - [chavyleung](https://github.com/chavyleung/scripts)  （签到狂魔）
 
