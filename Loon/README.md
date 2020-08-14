@@ -2,7 +2,7 @@
 
 ## 需要学习的教程自行点击对应文件查看
 
-- [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md)
+- [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md) （如导入其他懒人配置的用户请自行根据懒人配置顶部说明，选择阅读此教程的步骤）
 
 - [首次使用 BoxJs 配置](https://github.com/chiupam/tutorial/blob/master/Loon/BoxJS.md) （已有官方教程，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转）
 
