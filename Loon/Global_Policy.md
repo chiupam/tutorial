@@ -35,3 +35,9 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 第四张图片：当用户访问 `www.google.com` 时使用 `国际网站` 规则，该规则使用 `Proxy` 母策略组，该母策略组使用 `手动选择` 子策略组，该子策略组使用 `[隧道] 香港 01 #GZCM` 代理节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_4.jpg)
+
+# 多说几句
+
+- 图示 `Proxy` 策略组是用户自行命名，每个用户的命名方式可能不尽相同，实际需要看用户的配置内具体写的名称，据目前了解到的懒人配置中此类策略名称有
+
+  - 节点选择
