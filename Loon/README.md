@@ -1,6 +1,6 @@
 # Loon 保姆教程
 
-## 需要学习的教程自行点击对应文件查看
+## 基础篇
 
 - [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md) （如导入其他懒人配置的用户请自行根据懒人配置顶部说明进行操作，选择性阅读此教程的步骤）
 
@@ -24,4 +24,4 @@
 
 - [Final策略组](https://github.com/chiupam/tutorial/blob/master/Loon/final.md) （图解 `Fianl` 策略组的作用）
 
-- 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出
+# 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出
