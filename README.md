@@ -30,4 +30,6 @@
 
 ### 规则系列作者
 
-- 
+- [eHpo1](https://github.com/eHpo1/Rules)
+
+- [Conners Hua](https://github.com/ConnersHua/Profiles/tree/master)
