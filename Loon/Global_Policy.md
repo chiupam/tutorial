@@ -20,7 +20,7 @@ A：可能是因为用户没有正确选择全局策略。
 
 每个策略追溯至最上层必定有一个分流在起作用，通过下面四张图片理解
 
-第一张图片：国际媒体和国际网址需要代理节点才可以访问，这两条规则选择的策略名为 `Proxy`
+第一张图片：国际媒体和国际网址需要代理节点才可以访问，这两条规则选择的母策略名为 `Proxy`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_1.jpg)
 
@@ -32,6 +32,6 @@ A：可能是因为用户没有正确选择全局策略。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_3.jpg)
 
-第四张图片：当用户访问 `www.google.com` 时使用 `国际网站` 规则，该规则使用 `Proxy` 母策略组，该母策略组使用 `手动选择` 子策略组，该子策略组使用 `[隧道] 香港 01 #GZCM` 代理节点
+第四张图片：当用户访问 `www.google.com` 时使用 `国际网站` 规则，该规则使用 `Proxy` 母策略组，该母策略组使用 `手动选择` 子策略组，该子策略组使用 `隧道 香港 01 #GZCM` 代理节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Global_Policy_4.jpg)
