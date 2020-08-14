@@ -4,7 +4,7 @@
 
 - [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md)
 
-- [首次使用 BoxJs 配置](https://github.com/chiupam/tutorial/blob/master/Loon/BoxJS.md)
+- [首次使用 BoxJs 配置](https://github.com/chiupam/tutorial/blob/master/Loon/BoxJS.md) （已有官方教程，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转）
 
 - [京东京豆签到脚本配置——第一种方法](https://github.com/chiupam/tutorial/blob/master/Loon/JD_DailyBonus_1.md)
 
