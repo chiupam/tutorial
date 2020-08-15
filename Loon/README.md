@@ -5,7 +5,9 @@
 - 此教程仅供正版购买 Loon 的用户学习如何使用 Loon 这款软件，作者从未也绝不会提供机场服务或教唆大陆用户科学上网
 
 - 为了读者的方便，禁止将此教程 `链接` 或 `内容` 转发至大陆内任何社交平台上，如果发现，作者将删库处理
+
 ---
+
 ### 基础篇
 
 目的在于用户基本能利用 Loon 实现代理功能
@@ -31,6 +33,8 @@
 - [新创策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Proxy_Group.md) （搭配上面 `订阅 Netflix 规则` 学习效果更佳）
 
 - [Final策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Final.md) （图解 `Fianl` 策略组的作用）
+
+---
 
 ### 进阶篇
 
