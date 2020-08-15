@@ -64,7 +64,7 @@
 
 ## 第二种方法与第三种方法
 
-这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/Dadong111/tutorial/blob/master/JD_DailyBonus_2%263.md)
+这两种方法都比较类似，我将它们写在另一个文档内，请点击 [这里](https://github.com/chiupam/Proxy/blob/master/Loon/JD_DailyBonus_2%263.md)
 
 ## 四、修改本地脚本中的 cron 表达式
 
