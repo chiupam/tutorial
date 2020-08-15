@@ -38,7 +38,7 @@
 
 ## 脚本
 
-- 基础 cron 表达式的学习（修改定时脚本的执行时间）
+- [基础 cron 表达式的学习](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md)（修改定时脚本的执行时间）
 
 - 本机JS文件（需要搭配 `添加本地脚本` 的 `添加本地路径脚本` 教程学习）
 
