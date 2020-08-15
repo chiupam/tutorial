@@ -12,11 +12,13 @@
 
 ## 策略
 
-- [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
+- 母策略组与子策略组之间的逻辑关系
 
-- 理解 `俄罗斯套娃` 的小把戏 —— 子母策略组之间的嵌套
+  - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
 
-- 添加策略组（手动添加一个子策略组，注意此处是子策略组）
+  - 理解 `俄罗斯套娃` 的小把戏 —— 子母策略组之间的嵌套
+
+  - 添加子策略组（手动添加一个子策略组，注意此处是子策略组）
 
 - 常用三种自动策略组的区别    
 
