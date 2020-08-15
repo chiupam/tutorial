@@ -17,3 +17,5 @@
 - 用户希望自动选择可用节点时，策略类型选择 `fallback` ，教程请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) 跳转 
 
 - 用户希望符合预设条件的节点自动对同一主机名的请求锁定同意节点时，先在策略类型选择 `load-balance` ，然后在负载均衡算法选择 `pcc` ，教程请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) 跳转 
+
+完成设置后点击 `保存`
