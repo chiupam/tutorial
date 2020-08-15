@@ -118,7 +118,7 @@
 
 # 作者声明
 
-- 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出，教程编写者会安排时间加快写出教程
+- 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出，作者会安排时间加快写出教程
 
 - 作者非开发人员，不可能通过此教程完全解决用户所有问题，如果用户查阅教程后仍不能解决用户的问题，可以前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并进行友好交流
 
