@@ -20,9 +20,17 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐点击入下图所示区域更新一下
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐点击入下图所示区域更新一下，如果出现浅灰色的字体，请看下一步
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_2.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果出现浅灰色的字体导致不能更新一下，请左滑下图所示区域
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_3.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `启用`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_4.jpg)
 
 ## 二、重启 Loon 连接
 
@@ -89,6 +97,8 @@
 - 更多 BoxJS 的新奇用法请点击 [这里](https://t.me/chavyscripts) 跳转至 Telegram 频道 Chavy Scripts
 
 - 以上只是粗略介绍 BoxJs 的使用，BoxJs 作者 chavyleung 已经写出了 BoxJs 官方介绍，请点击 [这里](https://chavyleung.gitbook.io/boxjs/) 跳转
+
+- 记得启用 BoxJs 订阅复写，经典案例请点击 [这里](https://t.me/Loon0x00/345098) 跳转 Telegram
 
 # 鸣谢
 
