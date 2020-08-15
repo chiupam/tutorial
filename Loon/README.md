@@ -82,7 +82,7 @@
 
   - [添加脚本文件 - 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（未写）（利用 `从URL下载脚本` 功能并将脚本存储在 `iCloud` 中）
 
-- 本地脚本
+- 本地脚本（通过 UI 方法添加脚本）
 
   - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（未写）（脚本位置选择 `Local` 的方法，需要搭配 `本机JS文件` 的 `添加脚本文件` 教程学习）
   
