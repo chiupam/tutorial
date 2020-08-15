@@ -12,6 +12,8 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_2.jpg)
 
+## 二、设置 `策略类型`
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `select` 
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_1.jpg)
@@ -32,7 +34,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/PCC_4.jpg)
 
-## 二、添加代理节点
+## 三、添加代理节点
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组是不能进行延迟测速的，因而只能添加代理节点
 
