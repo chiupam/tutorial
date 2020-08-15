@@ -8,7 +8,9 @@
 
 - [订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md)（订阅一个节点合集，通常是用户购买的机场提供）
 
-- [筛选订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md)（利用正则表达式筛选订阅节点）
+- [筛选订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
+
+- [节点与策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Policy_Group.md)（将代理节点添加到策略组下，实现代理功能）
 
 ## 策略
 
@@ -18,9 +20,9 @@
 
   - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
 
-  - 理解 `俄罗斯套娃` 的小把戏 —— 子母策略组之间的嵌套
+  - 理解 `俄罗斯套娃` 的小把戏 —— [子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Policy_Group_in_Policy_Group.md)
 
-  - 添加子策略组（手动添加一个子策略组，注意此处是子策略组）
+  - 新建子策略组（手动添加一个子策略组，注意此处是子策略组）
 
 - 常用三种自动策略组的区别    
 
