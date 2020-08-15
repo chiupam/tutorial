@@ -32,19 +32,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组是不能进行延迟测速的，因而只能添加代理节点
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_5.jpg)
-
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 承接第一步的后面，点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_6.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_5.jpg)
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_7.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `储存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
 
