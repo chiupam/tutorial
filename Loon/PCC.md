@@ -2,7 +2,7 @@
 
 `PCC` 策略组可以通俗理解成 Loon 间隔一段时间自动测试`PCC` 策略组下节点延迟，并剔除用户设置最大延迟的节点，对用户发起的同一主机名的网络访问请求锁定同一节点
 
-# 一、进入 `策略组` 添加策略组
+## 一、进入 `策略组` 添加策略组
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
 
@@ -32,7 +32,11 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/PCC_4.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `添加`
+## 二、添加代理节点
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组是不能进行延迟测速的，因而只能添加代理节点
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 承接第一步的后面，点击 `添加`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/PCC_5.jpg)
 
