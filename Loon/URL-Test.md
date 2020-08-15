@@ -46,7 +46,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
 
