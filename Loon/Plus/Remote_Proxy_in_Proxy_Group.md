@@ -2,11 +2,15 @@
 
 将代理节点添加到策略组下，实现代理功能
 
-## 一、
+## 一、初步设置
 
 打开 Loon 并点击下方 `配置` 栏，点击 `策略组`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+
 点击需要添加代理节点的策略组，以下图所示中的 `手动选择` 策略组为例，点击 `手动选择`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
 
 点击并设置 `策略类型` ，分成 4种情况 
 
@@ -22,8 +26,16 @@
 
 以策略类型选择 `select` 为例，点击 `添加`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_1.jpg)
+
 从 `订阅节点` 或者 `筛选订阅节点` 的列表下选择需要的`订阅节点` 或者 `筛选订阅节点` ，点击名称
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_2.jpg)
 
 点击 `储存`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_3.jpg)
+
 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_4.jpg)
