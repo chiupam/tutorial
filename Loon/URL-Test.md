@@ -38,7 +38,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_6.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，严重会导致机场封号
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_7.jpg)
 
@@ -56,6 +56,6 @@
 
 - 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
 
-- `筛选订阅节点` 内也不允许有超过 `6个` 以上的节点，否则也容易出现 Loon 警告，甚至是机场封号等严重后果
+- `筛选订阅节点` 内也不允许有过多的节点，建议低于 `10` 个，否则也容易出现 Loon 警告，甚至是机场封号等严重后果
 
 - 如果不会利用正则表达式筛选适合的节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Regex.md) 跳转学习正则表达式
