@@ -38,7 +38,11 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `文本编辑`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Conf_1.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Proxy]` 并在其下一行写入
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Conf_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 格式如下所示
 
