@@ -14,7 +14,7 @@
 
 ## 策略
 
-- 没有默认 `Proxy` 策略组的 Loon
+- 没有默认 `Proxy` 代理策略组的 Loon 
 
 - 母策略组与子策略组之间的逻辑关系
 
@@ -22,7 +22,7 @@
 
   - 理解 `俄罗斯套娃` 的小把戏 —— [子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Proxy_Group_in_Proxy_Group.md)
 
-  - 新建子策略组（手动添加一个子策略组，注意此处是子策略组）
+  - [新建子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（手动添加一个子策略组，注意此处是子策略组）
 
 - 常用三种自动策略组的区别    
 
