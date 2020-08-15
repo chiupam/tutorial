@@ -8,7 +8,7 @@
 
 - [订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md)（订阅一个节点合集，通常是用户购买的机场提供）
 
-- 筛选订阅节点（利用正则表达式筛选订阅节点）
+- [筛选订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md)（利用正则表达式筛选订阅节点）
 
 ## 策略
 
