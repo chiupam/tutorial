@@ -1,6 +1,6 @@
 # Loon 保姆教程
 
-## 基础篇
+## 基础篇（目的在于用户基本能利用 Loon 实现科学上网）
 
 - [首次使用 Loon 教程](https://github.com/chiupam/tutorial/blob/master/Loon/Frist.md) （如导入其他懒人配置的用户请自行根据懒人配置顶部说明进行操作，选择性阅读此教程的步骤）
 
