@@ -18,15 +18,21 @@
 
 # 第一种方法：通过UI写入
 
-打开 Loon 并点击下方 `配置` 栏，点击 `单个节点`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `单个节点`
 
-点击右上角所示区域（+）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角所示区域（+）
 
-点击协议右侧 `Direct` 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击协议右侧 `Direct` 
 
-选择需要的协议并点击进入配置
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择需要的协议并点击进入配置
 
-# 在配置中写入
+# 第二种方法：通过在 `配置文件` 或 `文本编辑` 中写入 （`配置文件` 和 `文本编辑` 实质上是同一个功能）
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `文本编辑`
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Proxy]` 并在其下一行写入
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 格式如下所示
 
 ```
 [Proxy]
@@ -50,3 +56,7 @@ ProxyHTTP = http, 1.2.3.4, 8888
 # 多说几句
 
 - 由于协议的不同，需要用户自行写入配置，此教程不详细讲述
+
+# 参考
+
+[Loon 不完全教程](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
