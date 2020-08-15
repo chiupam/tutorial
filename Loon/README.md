@@ -24,4 +24,8 @@
 
 - [Final策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Final.md) （图解 `Fianl` 策略组的作用）
 
+## 进阶篇（目的在于提高用户自定义 Loon 配置的能力）
+
+- 常用三种自动策略组的区别 [URL-Test策略组](https://github.com/chiupam/tutorial/blob/master/Loon/URL-Test.md) [PCC策略组](https://github.com/chiupam/tutorial/blob/master/Loon/PCC.md) [Fallback策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Fallback.md)
+
 # 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出
