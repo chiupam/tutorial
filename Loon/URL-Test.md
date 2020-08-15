@@ -4,4 +4,56 @@
 
 # 一、进入 `策略组` 添加策略组
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（+）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_2.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `select` 
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `url-test`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_2.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按用户个人喜爱填入策略组别名，测试间隔单位为 `秒` ，按用户个人使用习惯修改，一般也不需要修改
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_3.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Test-URL` 一般不需要修改
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_4.jpg)
+
+# 二、添加代理节点
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组是不能进行延迟测速的，因而只能添加代理节点
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_5.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 承接第一步的后面，点击 `添加`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_6.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，严重会导致机场封号
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_7.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `储存`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
+
+# 多说几句
+
+- 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
+
+- `筛选订阅节点` 内也不允许有超过 `6个` 以上的节点，否则也容易出现 Loon 警告，甚至是机场封号等严重后果
+
+- 如果不会利用正则表达式筛选适合的节点，请点击 [这里]() 跳转学习正则表达式
