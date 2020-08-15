@@ -2,7 +2,7 @@
 
 ## 节点
 
-- [正则表达式]()（掌握基本的正则表达式写法）
+- [正则表达式](https://github.com/chiupam/tutorial/blob/master/Loon/Regex.md)（掌握基本的正则表达式写法）
 
 - [单个节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Proxy.md)（手动添加代理节点）
 
