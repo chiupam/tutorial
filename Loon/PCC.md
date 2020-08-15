@@ -28,7 +28,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/PCC_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Tes-URL` 一般不需要修改，`测试间隔` 的单位为 `秒` ， `最大超时` 的单位为 `毫秒` ，按用户个人使用习惯修改，推荐 `最大超时` 修改为 `1000`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Test-URL` 一般不需要修改，`测试间隔` 的单位为 `秒` ， `最大超时` 的单位为 `毫秒` ，按用户个人使用习惯修改，推荐 `最大超时` 修改为 `1000`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/PCC_4.jpg)
 
