@@ -20,11 +20,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `单个节点`
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_UI_1.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角所示区域（+）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_UI_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击协议右侧 `Direct` 
 
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_UI_3.jpg)
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择需要的协议并点击进入配置
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_UI_4.jpg)
 
 # 第二种方法：通过在 `配置文件` 或 `文本编辑` 中写入
 
