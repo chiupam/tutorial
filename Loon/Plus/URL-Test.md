@@ -2,7 +2,7 @@
 
 `URL-Test` 策略组可以通俗理解成 Loon 间隔一段时间自动测试 `URL-Test` 策略组下节点延迟，并自动为用户选择最低延迟的节点
 
-# 一、进入 `策略组` 添加策略组
+## 一、进入 `策略组` 添加策略组
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
 
@@ -11,6 +11,8 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（+）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_2.jpg)
+
+## 二、设置 `策略类型`
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `select` 
 
@@ -28,7 +30,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_4.jpg)
 
-# 二、添加代理节点
+## 三、添加代理节点
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组是不能进行延迟测速的，因而只能添加代理节点
 
