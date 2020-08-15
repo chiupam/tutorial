@@ -26,6 +26,18 @@
 
 ## 进阶篇（目的在于提高用户自定义 Loon 配置的能力）
 
+### 节点
+
+- 手动添加代理节点
+
+- 订阅节点
+
+- 筛选订阅节点
+
+### 策略
+
+- 添加策略组
+
 - 常用三种自动策略组的区别    
 
   - [URL-Test策略组](https://github.com/chiupam/tutorial/blob/master/Loon/URL-Test.md)     
@@ -34,5 +46,27 @@
   
   - [Fallback策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Fallback.md)
   
+## 规则
 
+- 单个规则
+
+- 订阅规则
+ 
+## 复写
+
+- 订阅复写
+
+## 脚本
+
+- 添加本地脚本
+
+- 订阅脚本
+
+  - 将订阅脚本内需要的脚本移到本地脚本中查看并修改相关数据（远链）
+  
+  - 将订阅脚本内需要的脚本移到本地脚本中查看并修改相关数据（本地）
+
+- 本机JS文件
+
+  - 从URL下载脚本并存储在 `iCloud` 中
 # 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出
