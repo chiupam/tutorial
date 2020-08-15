@@ -12,6 +12,8 @@
 
 ## 策略
 
+- 没有默认 `Proxy` 策略组的 Loon
+
 - 母策略组与子策略组之间的逻辑关系
 
   - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
