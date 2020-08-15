@@ -1,5 +1,7 @@
 ## Loon 保姆教程
 
+------
+
 ## 法律声明
 
 - 此教程仅供正版购买 Loon 的用户学习如何使用 Loon 这款软件，作者从未提供机场服务或教唆大陆用户非法建立信道
@@ -34,7 +36,7 @@
 
 - [Final策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Final.md) （图解 `Fianl` 策略组的作用）
 
----
+------
 
 ### 进阶篇
 
@@ -120,7 +122,7 @@
 
 - [证书管理](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/p12.md)（未写）（出现关于证书类弹窗的原因以及解决方法）
 
----
+------
 
 ### 作者声明
 
