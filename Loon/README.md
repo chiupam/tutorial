@@ -44,11 +44,11 @@
 
 - 常用三种自动策略组的区别    
 
-  - [URL-Test策略组](https://github.com/chiupam/tutorial/blob/master/Loon/URL-Test.md)     
+  - URL-Test策略组
   
-  - [PCC策略组](https://github.com/chiupam/tutorial/blob/master/Loon/PCC.md)     
+  - PCC策略组
   
-  - [Fallback策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Fallback.md)
+  - Fallback策略组
   
   - SSID策略组（不写此教程是因为SSID策略组在 Loon 有逻辑问题，需要等待开发者修改逻辑关系）
   
