@@ -71,4 +71,4 @@ ProxyHTTP = http, 1.2.3.4, 8888
 
 # 参考
 
-[Loon 不完全教程](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
+[Loon 不完全教程 - 节点导入](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
