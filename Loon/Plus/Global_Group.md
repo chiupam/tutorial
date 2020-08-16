@@ -6,7 +6,7 @@
 
 # 对 `全局策略` 的理解
 
-全局策略，即用户使用全局代理时所走的 `代理策略组`
+全局策略，即用户使用 `全局代理` 时所走的 `代理策略组`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Global_Group_1.jpg)
 
