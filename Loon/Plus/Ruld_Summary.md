@@ -35,6 +35,10 @@
 
 即代表，用户发起对 `www.google.com` 的一个访问请求，被匹配类型为 `DOMAIN-KEYWORD` 域名关键字匹配，匹配关键字为 `google` ，使用 `Proxy` 策略，策略下代理节点是 `[隧道]香港01#GZCM`
 
+# 多说几句
+
+- 兜底匹配，FINAL规则，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md) 跳转到 `Final规则` 教程
+
 # 参考
 
 - [Loon 不完全教程 —— 规则-Rule](https://www.notion.so/2-967c1a07462c43ab88906162bec475a4)
