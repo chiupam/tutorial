@@ -25,7 +25,7 @@
 
 ## 实例示范理解规则的作用
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图中的用户发起对 www.google.com 的一个访问请求中
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图中的用户发起对 `www.google.com` 的一个访问请求中
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Ruld_Example.jpg)
 
