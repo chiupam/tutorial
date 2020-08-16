@@ -10,7 +10,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Global_Group_1.jpg)
 
-## 如何为全局策略选择的 `代理策略组`
+## 如何为 `全局策略` 选择的 `代理策略组`
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 理解什么是 `代理策略组` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md) 跳转到 `代理策略组` 教程
 
