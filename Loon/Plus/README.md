@@ -36,6 +36,8 @@
 
 - 没有默认 `Proxy` 代理策略组的 Loon 
 
+  - [对全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Proxy.md)（未写）（全局代理必须需要搭配全局策略使用的原因，用户该如何正确选择全局策略下的代理策略组）
+
 - 母策略组与子策略组之间的逻辑关系
 
   - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
@@ -59,6 +61,8 @@
 - [单个规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md)（未写）（手动添加一个规则）
 
 - [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（未写）（订阅一个规则合集并选择母策略组）
+
+- [Final](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（未写）（）
  
 #### 复写
 
