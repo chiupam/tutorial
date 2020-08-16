@@ -16,7 +16,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `别名` 栏填入 `筛选订阅节点` 名称，按用户个人喜爱自行命名即可，但绝不允许与 `订阅节点` 名称相同，否则会发生错误循环
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `别名` 栏填入 `筛选订阅节点` 名称，按用户个人喜爱自行命名即可，但绝不允许与 `订阅节点` 名称相同，否则会发生循环错误
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_3.jpg)
 
