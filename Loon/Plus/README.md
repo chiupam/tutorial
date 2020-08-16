@@ -42,7 +42,7 @@
 
   - 理解 `俄罗斯套娃` 的小把戏 —— [子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md)
 
-  - [新建子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（未写）（手动添加一个子策略组，注意此处是子策略组）
+  - [新建子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（手动添加一个子策略组，注意此处是子策略组）
 
 - 常用的三种自动策略组 
 
