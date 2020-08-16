@@ -7,3 +7,6 @@
 匹配名称|匹配类型|说明
 -|-|-
 基于域名后缀|DOMAIN-SUFFIX|无
+基于域名完整匹配|DOMAIN|无
+基于域名关键字|DOMAIN-KEYWORD|无
+基于用户代理串|USER-AGENT|根据 Http 的 user-agent 值来进行匹配，支持带有*，？的通配符匹配
