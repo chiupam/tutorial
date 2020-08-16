@@ -34,3 +34,7 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `规则` 栏中，`DOMAIN-KEYWORD` 代表匹配类型， `google` 代表匹配关键字， `Proxy` 代表策略
 
 即代表，用户发起对 `www.google.com` 的一个访问请求，被匹配类型为 `DOMAIN-KEYWORD` 域名关键字匹配，匹配关键字为 `google` ，使用 `Proxy` 策略，策略下代理节点是 `[隧道]香港01#GZCM`
+
+# 参考
+
+- [Loon 不完全教程 —— 规则导入](https://www.notion.so/2-967c1a07462c43ab88906162bec475a4)
