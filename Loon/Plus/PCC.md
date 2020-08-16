@@ -4,13 +4,7 @@
 
 ## 一、进入 `策略组` 添加策略组
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_1.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（+）
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Proxy_Group_2.jpg)
+请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) 跳转到 `手动添加一个策略组` 教程，完成操作后返回设置 `PCC` 教程
 
 ## 二、设置 `策略类型`
 
