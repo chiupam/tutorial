@@ -64,7 +64,7 @@
 
 - [何为规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ruld_Summary.md)（代理软件中设计规则的原因）
 
-- [单个规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md)（未写）（通过 UI 手动添加一个本地规则）
+- [单个规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md)（通过 UI 手动添加一个本地规则）
 
 - [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（未写）（订阅一个规则合集并选择母策略组）
 
