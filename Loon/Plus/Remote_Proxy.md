@@ -16,7 +16,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `别名` 栏填入机场名称，按用户爱好自行命名即可
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `别名` 栏填入机场名称，按用户爱好自行命名即可，但不可与 `筛选订阅节点` 或者 `策略组` 名称相同
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_4.jpg)
 
