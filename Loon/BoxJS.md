@@ -2,9 +2,9 @@
 
 ## 一、Loon 内的必要配置
 
-先复制右侧这串地址：https://raw.githubusercontent.com/chavyleung/scripts/master/loon.box.conf
+- 商店版：拷贝右侧这串地址https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.conf
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内 点击下方配置栏，点击 `订阅脚本`
+   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内 点击下方配置栏，点击 `订阅脚本`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script.png)
 
