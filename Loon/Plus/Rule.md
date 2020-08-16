@@ -2,6 +2,8 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 通过 UI 手动添加一个本地规则，注意此处是一个规则，如若用户需要批量添加规则，请使用 `订阅规则` 功能，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md) 跳转到 `订阅规则` 教程
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果用户还不清楚什么是规则，规则的格式是什么，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ruld_Summary.md) 跳转到 `何为规则` 教程
+
 ## 操作步骤
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以添加一个匹配类型为 `DOMAIN-KEYWORD` ，策略为 `DIRECT` ,匹配内容为 `baidu` 的本地规则
