@@ -8,7 +8,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图 `手动选择` 策略组有节点，选择 `手动选择` 策略组作为全局代理的代理策略组即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Global_Group_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Default_Proxy.jpg)
 
 ## 添加一个 `代理策略组`
 
