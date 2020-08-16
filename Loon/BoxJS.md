@@ -2,7 +2,9 @@
 
 ## 一、Loon 内的必要配置
 
-1、商店版：拷贝右侧这串地址https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.conf
+1、商店版教程：
+
+拷贝右侧这串地址：https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.conf
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 进入 Loon 内 点击下方配置栏，点击 `订阅脚本`
 
@@ -31,6 +33,42 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `启用`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Remote_Script_BoxJs_4.jpg)
+
+2、TestFilght版教程：
+
+拷贝右侧这串地址：https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `插件`、
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plugin.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如下图所示区域（+）
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plugin_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝的地址粘贴到 `URL` 栏内
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 填入添加插件别名 `BoxJs` 
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_2.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `PROXY` 处不需要改动，直接点击 `保存`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_3.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐点击入下图所示区域更新一下，如果出现浅灰色的字体，请看下一步
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_4.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果出现浅灰色的字体导致不能更新一下，请左滑下图所示区域
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_5.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `启用`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/plugin_BoxJs_6.jpg)
 
 ## 二、重启 Loon 连接
 
