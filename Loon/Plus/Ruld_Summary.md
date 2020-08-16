@@ -31,9 +31,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `策略` 栏中， `Proxy` 代表策略， `[隧道]香港01#GZCM` 代表代理节点
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `规则` 栏中，`DOMAIN-KEYWORD` 代表匹配类型， `google` 代表匹配关键字， `Proxy` 代表策略
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `规则` 栏中，`DOMAIN-KEYWORD` 代表匹配类型， `google` 代表匹配内容， `Proxy` 代表策略名称
 
-即代表，用户发起对 `www.google.com` 的一个访问请求，被匹配类型为 `DOMAIN-KEYWORD` 域名关键字匹配，匹配关键字为 `google` ，使用 `Proxy` 策略，策略下代理节点是 `[隧道]香港01#GZCM`
+即代表，用户发起对 `www.google.com` 的一个访问请求，被匹配类型为 `DOMAIN-KEYWORD` 域名关键字匹配，匹配内容为 `google` ，使用名为 `Proxy` 策略，该策略内最下层代理节点是 `[隧道]香港01#GZCM`
 
 # 多说几句
 
