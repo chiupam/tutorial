@@ -10,9 +10,13 @@
 
 本教程让用户学习如何新建策略组通过主动添加 `订阅节点` 或者 `筛选订阅节点` 成为代理策略组
 
-## 一、`订阅节点` 
+## 一、订阅节点
 
-## 二、`筛选订阅节点`
+请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md) 跳转到 `订阅节点` 教程
+
+## 二、筛选订阅节点
+
+请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md) 跳转到 `筛选订阅节点` 教程
 
 ## 三、添加策略组
 
