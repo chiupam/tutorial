@@ -29,7 +29,7 @@
 
 - [彩云天气脚本配置方法](https://github.com/chiupam/tutorial/tree/master/caiyun)（学会京东京豆签到脚本配置再整一个彩云天气脚本配置加强学习）
 
-- [脚本执行时间](https://github.com/chiupam/tutorial/blob/master/Loon/cron.md)（学习完基本可以学会 cron 的写法）
+- [脚本执行时间](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md)（学习完基本可以学会 cron 的写法）
 
 - [全局代理与全局策略](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) （解决使用全局代理时不走节点流量的问题）
 
