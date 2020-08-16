@@ -6,7 +6,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 规则分为三个部分
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 匹配类型 ，匹配关键字，策略名称
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 匹配类型 ，匹配内容，策略名称
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如： `DOMAIN-SUFFIX,twimg.com,PROXY`
 
