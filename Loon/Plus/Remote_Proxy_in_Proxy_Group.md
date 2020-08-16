@@ -8,6 +8,8 @@
 
 - 用户已经成功添加一个策略组作为 `代理策略组` 嵌套节点，请继续浏览以下教程
 
+---
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `策略组`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
