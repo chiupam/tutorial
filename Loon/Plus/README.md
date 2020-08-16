@@ -30,6 +30,8 @@
 
 - [筛选订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
 
+- [节点与策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md)（将代理节点添加到策略组下，实现代理功能）
+
 #### 策略
 
 - 没有默认 `Proxy` 代理策略组的 Loon 
@@ -41,8 +43,6 @@
   - 理解 `俄罗斯套娃` 的小把戏 —— [子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md)
 
   - [新建子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（未写）（手动添加一个子策略组，注意此处是子策略组）
-  
-  - [节点与策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md)（将代理节点添加到策略组下，实现代理功能）
 
 - 常用的三种自动策略组 
 
