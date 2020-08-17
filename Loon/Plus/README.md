@@ -122,6 +122,10 @@
 
 - [证书管理](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/p12.md)（未写）（出现关于证书类弹窗的原因以及解决方法）
 
+#### 编辑
+
+- [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（未写）（Loon 后端配置文件）
+
 ---
 
 ### 作者声明
