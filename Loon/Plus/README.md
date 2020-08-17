@@ -124,7 +124,7 @@
 
 #### 编辑
 
-- [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（未写）（Loon 后端配置文件）
+- [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（Loon 后端配置文件）
 
 ---
 
