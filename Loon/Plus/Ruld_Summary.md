@@ -6,7 +6,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 因为使用代理软件时，用户访问防火墙内网站是不需要经过代理节点的，而当用户试图访问防火墙外的网站时是需要经过代理节点才能访问
 
-  - 如：中国大陆用户直连访问 `www.baidu.com` 会成功，直连 `www.google.com` 则会失败，但是设置规则后，利用代理节点访问 `www.google.com` 就成功
+   - 如：中国大陆用户直连访问 `www.baidu.com` 会成功，直连 `www.google.com` 则会失败，但是设置规则后，利用代理节点访问 `www.google.com` 就成功
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `自动分流` 模式下，为了让 Loon 能按需使用代理节点，必须为 Loon 设置规则
 
@@ -14,7 +14,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 规则分为三个部分，分别是：匹配类型 ，匹配内容，策略名称
 
-  - 如： `DOMAIN-SUFFIX,twimg.com,PROXY`
+   - 如： `DOMAIN-SUFFIX,twimg.com,PROXY`
 
 ## 匹配类型
 
