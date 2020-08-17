@@ -67,9 +67,9 @@
 
 - 国内直连类（策略选择 `DIRECT`）
 
-- 国外特定 APP 代理（必须学习[另一个教程](https://github.com/chiupam/tutorial/blob/master/Loon/Rule_Netflix.md)后再订阅此类规则）
+- 国外特定 APP 代理（策略选择  `代理策略组` 或者 `母策略组` {此策略名称每个用户不一定相同，需要看用户具体设置的名称而定}）
 
-- 国外代理类（策略选择 `PROXY` {此策略名字不一定，需要看配置具体而定}）
+- 国外代理类（策略选择  `代理策略组` 或者 `母策略组` {此策略名称每个用户不一定相同，需要看用户具体设置的名称而定}）
 
 # 多说几句
 
@@ -77,7 +77,7 @@
 
 - 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
 
-- 为什么说 `PROXY` 此名称不一定，想了解原因请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) 跳转并阅读 `三、代理策略`
+- 为什么说  `代理策略组` 或者 `母策略组`  名称每个用户不一定相同，需要看用户具体设置的名称而定，想了解原因请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) 跳转并阅读 `三、代理策略`
 
 # 鸣谢
 
