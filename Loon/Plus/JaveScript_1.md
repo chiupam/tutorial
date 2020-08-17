@@ -92,7 +92,7 @@
 
   - cron <===> 固定格式，表明语句类型
   
-  - "0 8 * * *" <===> cron 表达式，脚本执行时间，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
+  - "0 8 * * *" <===> cron 表达式，脚本执行时间，如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
   
   - script-path= <===> 固定格式，后接脚本路径
   
