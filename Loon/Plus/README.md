@@ -84,6 +84,8 @@
 
 - [基础 cron 表达式的学习](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md)（修改定时脚本的执行时间）
 
+- [脚本入门 —— 如何看懂一个脚本配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript.md)
+
 - 本机JS文件
 
   - [添加脚本文件 - 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（未写）（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
