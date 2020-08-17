@@ -72,7 +72,7 @@
 
 - [单个规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md)（通过 UI 手动添加一个本地规则）
 
-- [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（未写）（订阅一个规则合集并选择母策略组）
+- [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（订阅一个规则合集并选择母策略组）
 
 - [Final规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（未写）（本地规则与远程规则都无法匹配访问请求所走规则情况下的保留手段）
  
