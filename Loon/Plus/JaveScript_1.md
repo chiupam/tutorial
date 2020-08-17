@@ -92,7 +92,7 @@
 
   - cron == 固定格式，表明语句类型
   
-  - `"0 8 * * *"` === cron 表达式，脚本执行时间
+  - "0 8 * * *" === cron 表达式，脚本执行时间
   
   - script-path= === 固定格式，后接脚本路径
   
@@ -104,12 +104,24 @@
   
   - 小白理解：cron "cron 表达式" script-path=脚本路径,tag = 脚本名称,enable=脚本状态（脚本状态 `true` 为启用，`false` 为禁用）
 
-## 如何在 Loon 的配置文件中写入脚本相关代码
+## 初步了解脚本文件内使用说明和配置
 
-以京东京豆签到脚本为例，该脚本为 NobyDa(野比) 开发，由于脚本配置说明写在脚本文件内，所以首先打开脚本文件
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，该脚本为 NobyDa(野比) 开发，由于脚本配置说明写在脚本文件内，所以首先打开脚本文件
 
-点击 Raw ，此步为重要的一步，脚本配置说明写在脚本文件内的，都需要点击 Raw 后查看
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
 
-阅读脚本文件开头说明，寻找与 `Loon配置` 等相关字眼，明晰 Loon 内配置文件该如何写入语句
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Raw ，此步为重要的一步，脚本配置说明写在脚本文件内的，都需要点击 Raw 后查看
 
-寻找与 `使用说明` 等相关字眼，方便后续操作
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 阅读脚本文件开头说明，寻找与 `Loon配置` 等相关字眼，明晰 Loon 内配置文件该如何写入语句
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 寻找与 `使用说明` 等相关字眼，方便后续操作
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JD_DailyBonus_script.jpg)
+
+# 多说几句
+
+- 阅读完此教程后，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) 跳转到 `初级 —— 如何将脚本配置写入 Loon 内发挥作用` 教程，正式进入 Loon 配置文件内相关位置写入脚本配置的相关代码
