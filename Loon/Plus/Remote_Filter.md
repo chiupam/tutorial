@@ -44,7 +44,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_9.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 查看下方是否出现节点名称，如果没有出现，请再三检查是否输入正确的正则表达式
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 查看下方是否出现节点名称，如果没有出现，请再三检查是否输入正确的正则表达式，或 `订阅节点` 中是否有该类型的代理节点
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_10.jpg)
 
