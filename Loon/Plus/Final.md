@@ -6,15 +6,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `示例`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Example.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Rule]`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Example_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Rule]` 下最后一行代码 `FINAL,Final`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Example_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_2.jpg)
 
 ## 对 `FINAL,Final` 的理解
 
