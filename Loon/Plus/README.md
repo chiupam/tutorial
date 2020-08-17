@@ -86,9 +86,9 @@
 
 - 在 Loon 中使用脚本（从入门到放弃）
 
-  - [入门 —— 如何看懂一个脚本配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（在写，未完成）
+  - [入门 —— 如何看懂一个脚本配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（认真阅读并充分理解，对解决关于脚本的问题有巨大的帮助）
 
-  - [初级 —— 如何将脚本配置写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（未写）
+  - [初级 —— 如何将脚本配置写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（在写，未完成）
 
 - 本机JS文件
 
