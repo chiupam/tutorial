@@ -34,7 +34,7 @@
 
   - [筛选类型为 `NodeSelect` 的筛选方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NodeSelect.md)（手动筛选节点）
   
-  - [筛选类型为 `NameKeyword` 的筛选方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NameKeyword.md)（未写）（利用关键词筛选订阅节点，但不能排除节点，适用于不会写正则表达式的用户）
+  - [筛选类型为 `NameKeyword` 的筛选方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NameKeyword.md)（利用关键词筛选订阅节点，但不能排除节点，适用于不会写正则表达式的用户）
 
   - [筛选类型为 `NameRegex` 的筛选方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
 
