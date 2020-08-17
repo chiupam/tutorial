@@ -125,3 +125,7 @@
 # 多说几句
 
 - 阅读完此教程后，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) 跳转到 `初级 —— 如何将脚本配置写入 Loon 内发挥作用` 教程，正式进入 Loon 配置文件内相关位置写入脚本配置的相关代码
+
+# 鸣谢
+
+- [NobyDa](https://github.com/NobyDa)
