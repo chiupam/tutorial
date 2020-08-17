@@ -46,4 +46,24 @@
   
   - [songyangzz](https://github.com/songyangzz/QxScripts) 
   
+## 如何让 Loon 执行这些脚本
+
+- 对于需要获取 `cookie` 类的签到脚本，例如：京东京豆签到脚本，需要
+
+  - 在 Loon 配置文件中 `[Script]` 下添加以 `http-request` 和 `cron` 开头的语句，在 `[MITM]` 下的 `hostname = ` 后面添加域名
   
+  - 按照脚本配置方法获取 `cookie`
+  
+  - 偶尔需要配合 `BoxJs` 使用
+  
+- 对于不需要获取 `cookie` 类的签到脚本，例如：京东小游戏系列脚本，需要
+
+  - 在 Loon 配置文件中 `[Script]` 下添加以 `http-request` 和 `cron` 开头的语句，在 `[MITM]` 下的 `hostname = ` 后面添加域名
+  
+  - 偶尔需要配合 `BoxJs` 使用
+  
+- 对于仅提醒类，例如：nCov-19全球疫情通报脚本，需要
+
+  - 在 Loon 配置文件中 `[Script]` 下添加以 `cron` 开头的语句
+  
+- 对于一些配置方法较为复杂的脚本，需要根据具体脚本内配置方法说明在 Loon 的配置文件中写入相关代码
