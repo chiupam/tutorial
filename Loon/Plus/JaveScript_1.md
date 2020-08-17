@@ -108,19 +108,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，该脚本为 NobyDa(野比) 开发，由于脚本配置说明写在脚本文件内，所以首先打开脚本文件
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JaveScript_1_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Raw ，此步为重要的一步，脚本配置说明写在脚本文件内的，都需要点击 Raw 后查看
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JaveScript_1_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 阅读脚本文件开头说明，寻找与 `Loon配置` 等相关字眼，明晰 Loon 内配置文件该如何写入语句
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JaveScript_1_3.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 寻找与 `使用说明` 等相关字眼，方便后续操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/JaveScript_1_4.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_4.jpg)
 
 # 多说几句
 
