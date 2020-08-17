@@ -8,6 +8,8 @@
 
 如果没有订阅节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md) 跳转到 `订阅节点` 教程
 
+## 二、筛选订阅节点
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `筛选订阅节点`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_1.jpg)
