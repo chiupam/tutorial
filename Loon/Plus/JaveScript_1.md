@@ -72,35 +72,35 @@
 
 - `http-request` 语句，示例：http-request ^https?:\/\/(www.)?(example)\.com script-path=localscript.js,tag = requestScript,enable=true
 
-  - http-request === 固定格式，表明语句类型
+  - http-request <===> 固定格式，表明语句类型
   
-  - ^https?:\/\/(www.)?(example)\.com === 匹配访问地址的正则表达式
+  - ^https?:\/\/(www.)?(example)\.com <===> 匹配访问地址的正则表达式
   
-  - script-path= === 固定格式，后接脚本路径
+  - script-path= <===> 固定格式，后接脚本路径
   
-  - localscript.js === 脚本路径
+  - localscript.js <===> 脚本路径
   
   - tag = === 固定格式，意思为：标签，即用户将该语句自定义名称
   
-  - requestScript === 语句名称，按用户个人喜爱命名即可
+  - requestScript <===> 语句名称，按用户个人喜爱命名即可
   
-  - enable= === 脚本状态，后接 `true` 为启用，`false` 为禁用
+  - enable= <===> 脚本状态，后接 `true` 为启用，`false` 为禁用
   
   - 小白理解：http-request 匹配访问地址的正则表达式 script-path=脚本路径,tag = 脚本名称,enable=脚本状态（脚本状态 `true` 为启用，`false` 为禁用）
   
 - `cron` 语句，实例：cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
 
-  - cron == 固定格式，表明语句类型
+  - cron <===> 固定格式，表明语句类型
   
-  - "0 8 * * *" === cron 表达式，脚本执行时间
+  - "0 8 * * *" <===> cron 表达式，脚本执行时间
   
-  - script-path= === 固定格式，后接脚本路径
+  - script-path= <===> 固定格式，后接脚本路径
   
-  - tag = === 固定格式，意思为：标签，即用户将该语句自定义名称
+  - tag = <===> 固定格式，意思为：标签，即用户将该语句自定义名称
   
-  - requestScript === 语句名称，按用户个人喜爱命名即可
+  - requestScript <===> 语句名称，按用户个人喜爱命名即可
   
-  - enable= === 启用状态，后接 `true` 为启用，`false` 为禁用
+  - enable= <===> 启用状态，后接 `true` 为启用，`false` 为禁用
   
   - 小白理解：cron "cron 表达式" script-path=脚本路径,tag = 脚本名称,enable=脚本状态（脚本状态 `true` 为启用，`false` 为禁用）
 
