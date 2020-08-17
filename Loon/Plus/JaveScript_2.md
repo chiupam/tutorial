@@ -34,7 +34,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_6.jpg)
 
-正确在 Loon 配置文件中写入脚本配置代码后，点击 `保存` 即可
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确在 Loon 配置文件中写入脚本配置代码后，点击 `保存` 即可
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_8.jpg)
 
@@ -49,7 +49,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_1.jpg)
 
-用户此时可以点击 Raw ，方便查看配置代码（此步目的只在于方便用户查看配置代码，并不是必要操作，主要看用户的个人感觉）
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 用户此时可以点击 Raw ，方便查看配置代码（此步目的只在于方便用户查看配置代码，并不是必要操作，主要看用户的个人感觉）
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_2.jpg)
 
