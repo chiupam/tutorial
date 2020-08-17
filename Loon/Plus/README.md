@@ -30,7 +30,11 @@
 
 - [订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md)（订阅一个节点合集，通常是用户购买的机场提供）
 
-- [筛选订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
+- 筛选订阅节点（将订阅节点筛选成用户需要的代理节点，减少过多代理节点出现在策略组内，方便用户选择需要的代理节点）
+
+  - [`NodeSelect`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NodeSelect.md)（手动筛选节点）
+
+  - [`NnameRegex`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
 
 - [节点与策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md)（将代理节点添加到策略组下）
 
