@@ -16,7 +16,7 @@
 
 - [toulanboy](https://github.com/toulanboy/scripts/tree/master) 
 
-- [lxk0301](https://gitee.com/lxk0301/scripts/)  （京东系列小游戏）
+- [lxk0301](https://github.com/lxk0301/scripts)  （京东系列小游戏）
 
 - [vinewx](https://ooxx.be/js) 
 
