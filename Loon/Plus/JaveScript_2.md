@@ -14,7 +14,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，其中 `[Script]` 意思为需要用户自行在 Loon 配置文件内的 `[Script]` 下写入相关代码
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，其中 `[Script]` 意思为需要用户自行在 Loon 配置文件内的 `[Script]` 下写入相关代码，如果不知道如何打开 Loon `配置` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) 跳转到 `文本编辑` 教程
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2.jpg)
 
@@ -57,7 +57,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，其中 `[Script]` 意思为需要用户自行在 Loon 配置文件内的 `[Script]` 下写入相关代码
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，其中 `[Script]` 意思为需要用户自行在 Loon 配置文件内的 `[Script]` 下写入相关代码，如果不知道如何打开 Loon `配置` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) 跳转到 `文本编辑` 教程
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_4.jpg)
 
