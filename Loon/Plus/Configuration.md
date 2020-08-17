@@ -20,7 +20,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按住 `配置问价` 右侧所示区域，然后往上拖动
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按住 `配置文件` 右侧所示区域，然后往上拖动
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_2.jpg)
 
