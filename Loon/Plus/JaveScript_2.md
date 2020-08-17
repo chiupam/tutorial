@@ -10,7 +10,7 @@
 
 ## 在 Loon 中写入脚本配置语句（京东京豆签到脚本）
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 配置写在 `脚本文件` 内，如下图所示，以京东京豆签到脚本为例，请点击 [这里](https://github.com/NobyDa/Script/tree/master/JD-DailyBonus) 跳转到 `NobyDa` 的 `京东京豆签到脚本` 仓库
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，请点击 [这里](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js) 跳转到 `NobyDa` 的 `京东京豆签到脚本` Raw 链接，脚本配置写在 `脚本文件` 内，如下图所示，
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_1.jpg)
 
@@ -44,9 +44,8 @@
 
 ## 在 Loon 中写入脚本配置语句（淘宝历史价格）
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 配置写在 `REAMED.md` 文件内的，如下图所示，以淘宝历史价格脚本为例，请点击 [这里](https://github.com/yichahucha/surge) 跳转到 `yichahucha` 仓库
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 首先点击 `README.md` 文件，查看脚本文件
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以淘宝历史价格脚本为例，请点击 [这里](https://github.com/yichahucha/surge) 跳转到 `yichahucha` 仓库
+，配置写在 `REAMED.md` 文件内的，如下图所示，首先点击 `README.md` 文件，查看脚本文件
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_1.jpg)
 
