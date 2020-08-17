@@ -12,7 +12,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，如下图
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_6.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 其中 `[Script]` 意思为需要用户自行在 Loon 配置文件内的 `[Script]` 下写入相关代码
 
@@ -32,7 +32,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确在 Loon 配置文件中配置应该如下图所示
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_5.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_6.jpg)
 
 
 
