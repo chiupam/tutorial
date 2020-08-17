@@ -22,7 +22,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Default_Proxy_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 用户根据自身需求选择正确的 `代理策略组` 并点击该策略组名即可，因为下图中名为 `Proxy` 的策略组的名为 `手动选择` 子策略组是 `代理策略组` ，因此此教程选择该策略组
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 用户根据自身需求选择正确的 `代理策略组` 并点击该策略组名即可，因为下图中名为 `Proxy` 的策略组的名为 `手动选择` 子策略组是 `代理策略组` ，因此此教程选择该名为 `Proxy` 的策略组
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Default_Proxy_2.jpg)
 
