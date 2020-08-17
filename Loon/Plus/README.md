@@ -84,7 +84,7 @@
 
 - [基础 cron 表达式的学习](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md)（修改定时脚本的执行时间）
 
-- 脚本总起（从入门到放弃）
+- 在 Loon 中使用脚本（从入门到放弃）
 
   - [入门 —— 如何看懂一个脚本配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（在写，未完成）
 
