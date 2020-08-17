@@ -62,6 +62,8 @@
 
 # 多说几句
 
+-  `代理策略组` 的名字不是每位用户都相同，需要看用户设置的具体名称而定，更多关于 `代理策略组` 的教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md) 跳转到 `代理策略组` 教程
+
 - 去广告规则推荐订阅 NobyDa 野比的去广告规则，github 库请点击 [这里](https://github.com/NobyDa/Script/tree/master/Surge) 跳转
 
 - 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
