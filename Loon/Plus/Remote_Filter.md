@@ -36,11 +36,11 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_7.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `NameRegex`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `NameRegex`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_8.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `正则表达式` 右侧 `必填` 区域并输入正则表达式，再次提醒，如果用户没有学习过正则表达式的教程，请点击 [这里]() 跳转，学习后再进行下列操作
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `正则表达式` 右侧 `必填` 区域并输入正则表达式
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_9.jpg)
 
@@ -53,6 +53,8 @@
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Filter_11.jpg)
 
 # 多说几句
+
+- 在 `别名` 栏填入 `筛选订阅节点` 名称，按用户个人喜爱自行命名即可，但绝不允许与 `订阅节点` 名称相同，否则会发生循环错误
 
 - 该教程仅让用户筛选订阅节点，要让筛选订阅节点发挥代理功能，需要进行 `俄罗斯套娃` 的操作
 
