@@ -88,7 +88,7 @@
 
   - [入门 —— 如何看懂一个脚本配置方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（认真阅读并充分理解，对解决关于脚本的问题有巨大的帮助）
 
-  - [初级 —— 如何将脚本配置写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（在写，未完成）
+  - [初级 —— 如何将脚本配置写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)
 
 - 本机JS文件
 
