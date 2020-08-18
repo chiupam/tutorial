@@ -24,22 +24,36 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_2.jpg)
 
-长按地址栏，拷贝地址
- 
-打开 Loon 并点击下方 `配置`栏，点击 `本地JS文件`
- 
-点击如图所示区域（+）
- 
-选择 `从URL下载`
- 
-将上面复制/拷贝的地址粘贴到如图所示的区域内
- 
-选择 `确定`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 长按地址栏，拷贝地址
 
-点击 `保存` 即可
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+ 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置`栏，点击 `本地JS文件`
 
-# 多说几句
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+ 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如图所示区域（+）
 
-- `备份脚本` 功能是将本地脚本列表内的脚本上传到 iCloud/Loon/Script 文件夹内
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+ 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `从URL下载`
 
-- `恢复脚本` 功能是将存在 iCloud/Loon/Script 文件夹内的脚本显示在本地脚本列表内
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+ 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝的地址粘贴到如图所示的区域内
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `确定`
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存` 即可
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+
+## 其他功能按钮
+
+- `备份脚本` 功能是将本地脚本列表内的脚本上传到 **iCloud/Loon/Script** 文件夹内
+
+- `恢复脚本` 功能是将存在 **iCloud/Loon/Script** 文件夹内的脚本显示在本地脚本列表内
