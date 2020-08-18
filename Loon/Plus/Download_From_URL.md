@@ -54,11 +54,11 @@
 
 ## 其他功能按钮
 
-`备份脚本` 功能是将本地脚本列表内的脚本上传到 **iCloud/Loon/Script** 文件夹内
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `备份脚本` 功能是将本地脚本列表内的脚本上传到 **iCloud/Loon/Script** 文件夹内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Backup.jpg)
 
-`恢复脚本` 功能是将存在 **iCloud/Loon/Script** 文件夹内的脚本显示在本地脚本列表内
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `恢复脚本` 功能是将存在 **iCloud/Loon/Script** 文件夹内的脚本显示在本地脚本列表内
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Restore.jpg)
 
