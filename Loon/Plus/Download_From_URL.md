@@ -26,34 +26,44 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 长按地址栏，拷贝地址
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_1.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置`栏，点击 `本地JS文件`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如图所示区域（+）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_2.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `从URL下载`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_3.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝的地址粘贴到如图所示的区域内
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `确定`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_6.jpg)
 
 ## 其他功能按钮
 
-- `备份脚本` 功能是将本地脚本列表内的脚本上传到 **iCloud/Loon/Script** 文件夹内
+`备份脚本` 功能是将本地脚本列表内的脚本上传到 **iCloud/Loon/Script** 文件夹内
 
-- `恢复脚本` 功能是将存在 **iCloud/Loon/Script** 文件夹内的脚本显示在本地脚本列表内
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Backup.jpg)
+
+`恢复脚本` 功能是将存在 **iCloud/Loon/Script** 文件夹内的脚本显示在本地脚本列表内
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Restore.jpg)
+
+# 多说几句
+
+- 第一种情况目前较为少见，因为脚本开发者都在积极配合着 `BoxJs` 来使用需要用户**填入资料类**的脚本
+
+- 个人认为，第二种用户就是瞎折腾，噗嗤
