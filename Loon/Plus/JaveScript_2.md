@@ -30,7 +30,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_5.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，正确在 Loon 配置文件中配置应该如下图所示
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确在 Loon 配置文件中配置应该如下图所示
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_6.jpg)
 
