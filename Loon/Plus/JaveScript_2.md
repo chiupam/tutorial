@@ -53,7 +53,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 由于找不到 Loon 的脚本配置代码，但是由于 Surge 和 Loon 在 `[Script]` 下的语法有相通性，所以用户大部分情况下是完全可以直接照搬 Surge 的脚本配置代码
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 由于找不到 Loon 的脚本配置代码，但是 Surge 和 Loon 在 `[Script]` 下的语法有相通性，所以用户大部分情况下是完全可以直接照搬 Surge 的脚本配置代码
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_3.jpg)
 
@@ -73,7 +73,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_7.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图所示，正确在 Loon 配置文件中配置应该如下图所示
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确在 Loon 配置文件中配置应该如下图所示
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_8.jpg)
 
