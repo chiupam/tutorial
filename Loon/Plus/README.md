@@ -90,15 +90,13 @@
 
   - [初级 —— 如何将脚本配置写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)
 
-- 本机JS文件
-
-  - [添加脚本文件 - 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（未写）（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
+  - [添加脚本文件 - 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
 
 - 本地脚本（通过 UI 方法添加脚本）
 
-  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（未写）（脚本位置选择 `Local` 的方法，需要搭配 `本机JS文件` 的 `添加脚本文件` 教程学习）
+  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（未写）（脚本位置选择 `Local` ，需要搭配 `本机JS文件` 的 `添加脚本文件` 教程学习）
   
-  - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（未写）（脚本位置选择 `Remote` 的方法）
+  - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（未写）（脚本位置选择 `Remote` ）
 
 - 订阅脚本
 
@@ -118,9 +116,9 @@
 
 #### MITM
 
-- [域名](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)（未写）（添加域名 {`hostname`} 的两种方法）
+- [域名](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)（添加域名 { `hostname` } 的两种方法）
 
-- [证书管理](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/p12.md)（未写）（出现关于证书类弹窗的原因以及解决方法）
+- [证书管理](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/p12.md)（出现关于证书类弹窗的原因以及解决方法）
 
 #### 编辑
 
