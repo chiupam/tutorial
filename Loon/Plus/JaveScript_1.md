@@ -102,9 +102,9 @@ http-response ^https?:\/\/(www.)?(example)\.com script-path=https://example.com/
   
   - `https://example.com/loon.js` <===> 脚本路径
   
-  - `timeout=`  最大超时
+  - `timeout=` <===> 最大超时
   
-  - `requires-body =`  固定格式，是否包含Body，后接 `true` 为是，`false` 为否
+  - `requires-body =` <===> 固定格式，是否包含Body，后接 `true` 为是，`false` 为否
   
   - `tag =` <===> 固定格式，意思为：标签，即用户将该语句自定义名称
   
