@@ -91,6 +91,8 @@
   - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（认真阅读并充分理解，对解决关于脚本的问题有巨大的帮助）
 
   - [高级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（真正执行脚本的必备操作）
+  
+  - [放弃 —— 如果用户仍然不懂如何操作](https://t.me/Loon0x00)
 
 - [添加脚本文件 - 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
 
