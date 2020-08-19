@@ -90,7 +90,9 @@
 
   - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（认真阅读并充分理解，对解决关于脚本的问题有巨大的帮助）
 
-  - [高级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（真正执行脚本的必备操作）
+  - [中级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（真正执行脚本的必备操作）
+  
+  - 高级 —— ?????? （笔给你你来写）
   
   - [放弃 —— 如果用户仍然不懂如何操作](https://t.me/Loon0x00)（天知道哪个大佬能救得了这种用户，有偿代写配置，一次50RMB）
 
