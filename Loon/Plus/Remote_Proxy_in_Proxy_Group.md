@@ -22,11 +22,13 @@
 
 - 用户希望手动选择节点时，策略类型选择 `select` ，请直接本教程下面的 `二`
 
-- 用户希望自动选择最低延迟节点时，策略类型选择 `url-test` ，然后请浏览教程第二步以及第三步，点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md) 跳转 
+- 如果用户希望策略组发挥以下作用时，请点击对应的教程并浏览跳转教程中的第二步以及第三步的操作
 
-- 用户希望自动选择可用节点时，策略类型选择 `fallback` ，然后请浏览教程第二步以及第三步，点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) 跳转 
+  - 自动选择最低延迟节点时，即策略类型选择 `url-test` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md) 跳转到 `URL-Test 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
 
-- 用户希望符合预设条件的节点自动对同一主机名的请求锁定同意节点时，策略类型选择 `load-balance` ，然后请浏览教程第二步以及第三步，点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md) 跳转 
+  - 自动选择可用节点时，即策略类型选择 `fallback` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) 跳转到 `Fallback 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
+
+  - 符合预设条件的节点自动对同一主机名的请求锁定同意节点时，即策略类型选择 `load-balance` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md) 跳转到 `PCC 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
 
 ## 二、仅供策略类型选择 `select` 时浏览
 
