@@ -98,7 +98,7 @@
 
 - 本地脚本（通过 UI 方法添加脚本）
 
-  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（脚本位置选择 `Local` ，需要搭配 `本机JS文件` 的 `添加脚本文件` 教程学习）
+  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（脚本位置选择 `Local` ，需要搭配 `添加脚本文件 —— 从 URL 下载` 教程学习）
   
   - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（脚本位置选择 `Remote` ）
 
