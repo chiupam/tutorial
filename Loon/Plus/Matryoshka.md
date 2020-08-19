@@ -45,3 +45,5 @@
 # 多说几句
 
 - 为了充分理解 `正确嵌套示范` 步骤，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md) 学习 `正确分辨母策略组和子策略组`
+
+- 策略组之间的嵌套中 `策略类型` 只允许选择 `select`
