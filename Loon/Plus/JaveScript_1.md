@@ -88,7 +88,7 @@ http-request ^https?:\/\/(www.)?(example)\.com script-path=localscript.js,tag = 
   
   - `enable=` <===> 脚本状态，后接 `true` 为启用，`false` 为禁用
   
-  - 小白理解：http-request 匹配访问地址的正则表达式 script-path=脚本路径,tag = 脚本名称,enable=脚本状态（写 `true` 为启用，`false` 为禁用）
+  - 小白理解：http-request 正则表达式 script-path=脚本路径,tag = 脚本名称,enable=脚本状态（写 `true` 为启用，`false` 为禁用）
   
 - `http-response` 语句，示例：
 ```
