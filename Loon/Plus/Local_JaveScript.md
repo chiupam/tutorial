@@ -20,9 +20,9 @@
 
 - 用户不可自行修改的项目与填写位置
 
- - `http-request` <===> 脚本类型
+  - `http-request` <===> 脚本类型
 
- - ` https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean` <===> 表达式
+  - ` https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean` <===> 表达式
 
 - 用户可自行修改的项目与填写位置
 
