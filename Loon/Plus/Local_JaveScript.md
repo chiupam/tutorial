@@ -4,6 +4,8 @@
 
 此教程让用户通过对 Loon 的 UI 操作，在 Loon 内添加一个引用路径为**本地路径**的脚本
 
-## 熟悉三种语句 `http-request` 、 `http-response` 以及 `cron` 语句的格式
+## 熟悉三种脚本语句的格式
 
-**如果用户对这三种语句不了解，请点击 [这里](https) 跳转到 `某某某` 教程**
+**如果用户对这三种语句不了解，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程**
+
+## 通过 UI 添加脚本
