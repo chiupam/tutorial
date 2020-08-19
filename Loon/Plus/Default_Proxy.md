@@ -6,7 +6,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 根据上面对 `代理策略组` 的定义，只要策略组下有节点，即可以称该策略组为 `代理策略组`
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图 `手动选择` 策略组有节点，选择 `手动选择` 策略组作为全局代理的代理策略组即可
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 例如：下图中，因为 `手动选择` 策略组有节点，则名为 `手动选择` 的策略组就可以称之为 `代理策略组`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Default_Proxy.jpg)
 
