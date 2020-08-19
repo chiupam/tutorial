@@ -26,7 +26,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/hostname_1_3.jpg)
 
-## 在 Loon `域名` UI中添加域名
+## 在 Loon `域名` UI 中添加域名
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `域名`
 
