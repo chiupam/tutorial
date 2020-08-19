@@ -68,10 +68,12 @@
   
 - 对于一些配置方法较为复杂的脚本，需要根据具体脚本内配置方法说明在 Loon 的配置文件中写入相关代码
 
-## 对 `http-request` 和 `cron` 语句的基本认识
+## 对 `http-request` 、 `http-response` 以及 `cron` 语句格式的基本认识
 
-- `http-request` 语句，示例：http-request ^https?:\/\/(www.)?(example)\.com script-path=localscript.js,tag = requestScript,enable=true
-
+- `http-request` 语句，示例：
+```
+http-request ^https?:\/\/(www.)?(example)\.com script-path=localscript.js,tag = requestScript,enable=true
+```
   - http-request <===> 固定格式，表明语句类型
   
   - ^https?:\/\/(www.)?(example)\.com <===> 匹配访问地址的正则表达式
@@ -80,7 +82,7 @@
   
   - localscript.js <===> 脚本路径
   
-  - tag = === 固定格式，意思为：标签，即用户将该语句自定义名称
+  - tag = <===> 固定格式，意思为：标签，即用户将该语句自定义名称
   
   - requestScript <===> 语句名称，按用户个人喜爱命名即可
   
@@ -88,8 +90,30 @@
   
   - 小白理解：http-request 匹配访问地址的正则表达式 script-path=脚本路径,tag = 脚本名称,enable=脚本状态（脚本状态 `true` 为启用，`false` 为禁用）
   
-- `cron` 语句，实例：cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
-
+- `http-request` 语句，示例：
+```
+http-response ^https?:\/\/(www.)?(example)\.com script-path=https://example.com/loon.js,timeout=10,requires-body = true,tag = responseScript,enable=true
+```
+  - http-request <===> 固定格式，表明语句类型
+  
+  - ^https?:\/\/(www.)?(example)\.com <===> 匹配访问地址的正则表达式
+  
+  - script-path= <===> 固定格式，后接脚本路径
+  
+  - localscript.js <===> 脚本路径
+  
+  - tag = <===> 固定格式，意思为：标签，即用户将该语句自定义名称
+  
+  - requestScript <===> 语句名称，按用户个人喜爱命名即可
+  
+  - enable= <===> 脚本状态，后接 `true` 为启用，`false` 为禁用
+  
+  - 小白理解：http-request 匹配访问地址的正则表达式 script-path=脚本路径,tag = 脚本名称,enable=脚本状态（脚本状态 `true` 为启用，`false` 为禁用）
+  
+- `cron` 语句，实例：
+```
+cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
+```
   - cron <===> 固定格式，表明语句类型
   
   - "0 8 * * *" <===> cron 表达式，脚本执行时间，如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
