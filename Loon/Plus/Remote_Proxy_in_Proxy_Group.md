@@ -52,4 +52,6 @@
 
 - 仅当策略类型选择 `select` 时才可以从 `订阅节点` 列表下选择，其余策略类型都严厉禁止从 `订阅节点` 列表中选择
 
+- 用户对 `代理策略组` 感兴趣的话，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md) 跳转到 `代理策略组` 教程
+
 
