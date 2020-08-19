@@ -69,3 +69,7 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 正确的写法如下图所示，确定无误后点击 `保存` 即可完成操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_10_2.jpg)
+
+# 多说几句
+
+- 更推荐使用此方法添加单个脚本，因为远程链接中的脚本文件内容发生修改，用户可以第一时间体验到脚本带来的新功能
