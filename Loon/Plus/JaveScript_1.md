@@ -78,15 +78,17 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 阅读脚本文件开头说明，寻找与 `Loon配置` 等相关字眼，明晰 Loon 内配置文件该如何写入语句
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 阅读脚本文件开头说明，寻找与 `Loon配置` 等相关字眼，明晰 Loon 内配置文件该如何写入哪些语句
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 寻找与 `使用说明` 等相关字眼，方便后续操作
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 寻找与 `使用说明` 等相关字眼，方便用户将脚本配置代码写入 Loon 配置后继续操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_4.jpg)
 
 # 多说几句
+
+- 如果用户不清楚什么是脚本语句，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程
 
 - 阅读完此教程后，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) 跳转到 `高级 —— 如何将脚本配置代码写入 Loon 内发挥作用` 教程，正式进入 Loon 配置文件内相关位置写入脚本配置的相关代码
 
