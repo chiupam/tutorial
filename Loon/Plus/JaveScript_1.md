@@ -90,7 +90,7 @@
 
 - 如果用户不清楚什么是脚本语句，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程
 
-- 阅读完此教程后，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) 跳转到 `高级 —— 如何将脚本配置代码写入 Loon 内发挥作用` 教程，正式进入 Loon 配置文件内相关位置写入脚本配置的相关代码
+- 阅读完此教程后，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) 跳转到 `中级 —— 如何将脚本配置代码写入 Loon 内发挥作用` 教程，正式进入 Loon 配置文件内相关位置写入脚本配置的相关代码
 
 - 对于签到类脚本，用户是**一定、肯定、必须、必然**需要把一段 `cron` 语句添加到 `[Script]` 下，或者通过 UI 添加到配置内，此脚本才会执行签到任务
 
