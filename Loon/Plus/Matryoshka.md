@@ -12,7 +12,7 @@
 
 ## 步骤
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如若想让 `手动选择` 策略组嵌套在 `Proxy` 策略组下，即 `Proxy` >>> `手动选择` 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如若想让 `手动选择` 策略组嵌套在 `Proxy` 策略组下，即 `Proxy` >>> `手动选择` ，如果用户没有创建 `Proxy` 策略组，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) 跳转到 `新建策略组` 教程
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `策略组`
 
