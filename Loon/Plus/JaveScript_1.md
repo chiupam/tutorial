@@ -68,9 +68,9 @@
   
 - 对于一些配置方法较为复杂的脚本，需要根据具体脚本内配置方法说明在 Loon 的配置文件中写入相关代码
 
-## 初步了解脚本文件内使用说明和配置
+## 初步了解脚本文件内使用说明和配置代码
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，该脚本为 NobyDa(野比) 开发，由于脚本配置说明写在脚本文件内，所以首先打开脚本文件
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以京东京豆签到脚本为例，该脚本为 NobyDa(野比) 开发，由于脚本配置说明写在脚本文件内，所以首先打开[脚本文件](https://github.com/NobyDa/Script/tree/master/JD-DailyBonus)
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_1.jpg)
 
