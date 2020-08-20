@@ -4,7 +4,7 @@
 
 ## 关于订阅脚本中对 URL 的要求及内容格式要求
 
-关于订阅脚本中对 URL 的要求、内容格式要求、其他一系列问题，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md) 跳转到 `订阅脚本中对 URL 的要求及内容格式要求` 教程
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 关于订阅脚本中对 URL 的要求、内容格式要求、其他一系列问题，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md) 跳转到 `订阅脚本中对 URL 的要求及内容格式要求` 教程
 
 ## 订阅脚本
 
