@@ -16,7 +16,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `URL` 栏粘贴用户获取的正确的 URL 链接
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `URL` 栏粘贴用户获取的正确的 URL 链接，如若用户不清楚如何获取，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md) 跳转到 `订阅脚本中对 URL 的要求及内容格式要求` 教程并查看第四步操作
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_2.jpg)
 
