@@ -132,7 +132,7 @@
 
 #### MITM
 
-- [域名](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)（添加域名 { `hostname` } 的两种方法）
+- [域名](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)（添加域名的两种方法）
 
 - [证书管理](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Certificate.md)（出现关于证书类弹窗的原因以及解决方法）
 
