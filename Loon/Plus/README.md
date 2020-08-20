@@ -78,7 +78,7 @@
  
 #### 复写
 
-- 订阅复写（暂时不出此类教程，因为日常没有用到）
+- [订阅复写](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rewrite.md)（主要功能为去除各类 APP 广告，但是不确保完全去除广告）
 
 #### 脚本
 
@@ -122,11 +122,13 @@
 
 #### 插件
 
-- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（在写）（强大的用户自定义配置神器）
+- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（强大的自定义配置神器）
 
 - [添加插件中中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（必看，否则新手用户极易出现各种奇怪的错误情况）
 
-- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（未写）（如何添加一个插件，要求）
+- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（如何添加一个插件）
+
+- [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手用户整理的实用性插件，教程内提供 URL 地址）
 
 #### MITM
 
