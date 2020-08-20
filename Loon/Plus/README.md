@@ -140,6 +140,10 @@
 
 - [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（Loon 配置文件）
 
+#### 更多
+
+- [网络共享](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md)（未写）（可为处于同一 WiFi 下的设备实现科学上网）
+
 ---
 
 ### 作者声明
