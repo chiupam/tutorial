@@ -20,7 +20,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果不需要修改 cron 表达式，则此时不需要改动任何设置，直接点击 `保存` 即可完成操作，在订阅脚本内的此脚本就会被自动禁用
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如果不需要修改 `别名` 或者 `cron 表达式` ，则此时不需要改动任何设置，直接点击 `保存` 即可完成操作，在订阅脚本内的此脚本就会被自动禁用
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_4.jpg)
 
