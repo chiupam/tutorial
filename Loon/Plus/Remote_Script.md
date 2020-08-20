@@ -72,6 +72,8 @@ https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Remote_Script_Exampl
 
 # 多说几句
 
+- 如若 URL 内容中脚本语句出现错误，Loon 不会读取此条语句，而是直接略过读取
+
 - 个人认为订阅脚本内只订阅一个脚本会显得有点折腾
 
   - 例如：[错误的订阅脚本方式](https://t.me/Loon0x00/350684)
