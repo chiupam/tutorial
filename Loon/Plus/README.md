@@ -108,6 +108,8 @@
 
 - 订阅脚本（懒人神器）
 
+  - [订阅脚本中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md)（必看，否则新手用户极易出现订阅脚本返回无脚本的错误情况）
+
   - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（了解订阅脚本功能的作用，以及订阅的 URL 的链接要求和内容要求）
 
   - [创建单个本地分支](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md)（将订阅脚本内需要的脚本移到本地脚本中，不可修改本地脚本内容，仅可修改 cron 表达式）
