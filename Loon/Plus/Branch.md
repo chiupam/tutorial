@@ -8,7 +8,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击脚本所在的订阅脚本，**此处以上一个教程订阅的实例订阅为例**
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击脚本所在的订阅脚本，**此处以上一个教程订阅的示例订阅为例**
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_1.jpg)
 
