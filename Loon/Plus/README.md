@@ -103,6 +103,8 @@
   - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（脚本位置选择 `Local` ，需要搭配 `添加脚本文件 —— 从 URL 下载` 教程学习）
   
   - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（脚本位置选择 `Remote` ）
+  
+- [修改本地脚本设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Modify.md)（修改本地脚本的别名、cron表达式、脚本位置等系列操作）
 
 - 订阅脚本（懒人神器）
 
