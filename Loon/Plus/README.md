@@ -124,6 +124,8 @@
 
 - [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（在写）（强大的用户自定义配置神器）
 
+- [订阅脚本中对 URL 的要求及内容格式要求]https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（必看，否则新手用户极易出现各种奇怪的错误情况）
+
 - [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（未写）（如何添加一个插件，要求）
 
 #### MITM
