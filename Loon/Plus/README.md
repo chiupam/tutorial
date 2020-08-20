@@ -118,9 +118,9 @@
 
 #### 插件
 
-- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_1.md)（未写）（强大的用户自定义配置神器）
+- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（未写）（强大的用户自定义配置神器）
 
-- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_2.md)（未写）（如何添加一个插件，要求）
+- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（未写）（如何添加一个插件，要求）
 
 #### MITM
 
