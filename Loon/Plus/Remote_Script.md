@@ -1,6 +1,6 @@
 # 订阅脚本
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 订阅脚本通过读取 URL 内容，自动识别脚本语句和 hostname ，批量在 Loon 内添加脚本
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 订阅脚本通过读取 URL 内容，自动识别脚本语句和域名，批量在 Loon 内添加脚本
 
 ## 对 URL 格式及内容的要求
 
