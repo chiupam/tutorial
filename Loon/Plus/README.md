@@ -104,7 +104,7 @@
   
   - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（脚本位置选择 `Remote` ）
 
-- 订阅脚本
+- 订阅脚本（懒人神器）
 
   - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（未写）（懒人必备，或者动手能力强的用户可高度自定义脚本合集{需要搭配 `github` 使用}）
 
@@ -118,7 +118,9 @@
 
 #### 插件
 
-- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（未写）（一个强大的功能，特别对于频繁使用 `Tiktok` 的用户）
+- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_1.md)（未写）（强大的用户自定义配置神器）
+
+- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_2.md)（未写）（如何添加一个插件，要求）
 
 #### MITM
 
