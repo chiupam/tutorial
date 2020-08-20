@@ -24,7 +24,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_4.jpg)
 
-## 二、查看已经创建单个本地分支的脚本（此步骤是用户按需操作）
+## 二、查看已经创建单个本地分支的脚本（此步骤是用户按意愿操作，非必要操作）
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `本地脚本`
 
@@ -33,26 +33,6 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 即可在` 本地脚本` 界面内见到第一步操作中创建单个本地分支的脚本
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_5.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如若用户需要修改脚本执行时间，请看下一步操作
-
-## 三、修改 cron 表达式（此步骤是用户按需操作）
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `本地脚本`
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `本地脚本` 界面内点击在第一步中创建单个本地分支的脚本
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_5.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `表达式` 右侧区域，即可修改 cron 表达式
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_6.jpg)
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 修改完成后点击右上角 `保存` 即可完成操作
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_7.jpg)
 
 # 多说几句
 
