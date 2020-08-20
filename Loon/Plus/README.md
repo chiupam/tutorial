@@ -106,9 +106,9 @@
 
 - 订阅脚本（懒人神器）
 
-  - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（未写）（懒人必备，或者动手能力强的用户可高度自定义脚本合集{需要搭配 `github` 使用}）
+  - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（懒人必备，或者动手能力强的用户可高度自定义脚本合集{需要搭配 `github` 使用}）
 
-  - [创建单个本地分支](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md)（未写）（将订阅脚本内需要的脚本移到本地脚本中，不可修改本地脚本内容，仅可修改 cron 表达式）
+  - [创建单个本地分支](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md)（在写）（将订阅脚本内需要的脚本移到本地脚本中，不可修改本地脚本内容，仅可修改 cron 表达式）
   
   - [创建单个本地分支并拷贝js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md)（未写）（将订阅脚本内需要的脚本移到本地脚本中，可修改脚本内容，也可修改 cron 表达式）
 
