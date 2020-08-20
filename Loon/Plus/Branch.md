@@ -24,13 +24,13 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_4.jpg)
 
-## 二、查看已经创建单个本地分支的脚本（此步骤是用户按意愿操作，非必要操作）
+## 二、查看已经创建单个本地分支的本地脚本（此步骤是用户按意愿操作，非必要操作）
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `本地脚本`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 即可在` 本地脚本` 界面内见到第一步操作中创建单个本地分支的脚本
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 即可在` 本地脚本` 界面内见到第一步操作中创建单个本地分支的本地脚本
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Branch_5.jpg)
 
