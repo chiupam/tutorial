@@ -86,9 +86,9 @@
 
 - 在 Loon 中使用脚本（从入门到放弃）
 
-  - [入门 —— 如何看懂三种脚本语句的必备格式](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md)（请初次使用脚本功能的用户认真阅读并充分理解）
+  - [入门 —— 如何看懂三种脚本语句的必备格式](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md)（必看，初次使用脚本功能的用户认真阅读并充分理解）
 
-  - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（认真阅读并充分理解，对解决关于脚本的问题有巨大的帮助）
+  - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（解开用户对于脚本问题的困惑）
 
   - [中级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（让 Loon 真正执行脚本的必备操作）
   
@@ -138,7 +138,7 @@
 
 #### 编辑
 
-- [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（Loon 配置文件）
+- [文本编辑](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md)（Loon 的配置文件）
 
 #### 更多
 
