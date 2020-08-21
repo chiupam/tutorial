@@ -24,7 +24,7 @@
 
 - [淘宝、京东历史价格脚本 —— 弹窗版](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price_Lite.plugin)
 
-- [更多请加入 Loon 官方群并发送"找插件"即可](t.me/Loon0x00)
+- [更多请加入 Loon 官方群并发送"找插件"即可](https://t.me/Loon0x00)
 
 # 鸣谢
 
