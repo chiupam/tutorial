@@ -142,7 +142,7 @@
 
 #### 更多
 
-- [网络共享](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md)（未写）（可为处于同一 WiFi 下的设备实现科学上网）
+- [网络共享](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md)（可为处于同一 WiFi 下的设备实现科学上网）
 
 ---
 
