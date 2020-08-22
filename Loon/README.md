@@ -4,6 +4,10 @@
 
 ------
 
+### 建议
+
+- 此教程仅适合小白用户、懒癌患者阅读，如果用户有时间及精力、喜欢自定义配置，推荐全面阅Plus教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md) 跳转到 Plus 教程
+
 ### 免责声明
 
 - 此教程仅供正版购买 Loon 的用户学习如何使用 Loon 这款软件，chiupam 从未提供机场服务或教唆大陆用户擅自建立、使用非法定信道进行国际联网
