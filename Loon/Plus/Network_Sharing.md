@@ -42,7 +42,7 @@ A：可以通过 `网络共享` 功能实现。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 完成开启 `网络共享` 的操作，务必将 `网络共享` 卡片下的 `灰色ip地址（即服务器）` 记录下来，且此处没有出现 `⛔️` 表情包
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 务必将 `网络共享` 卡片下的 `灰色ip地址（即服务器）` 记录下来，且此处没有出现 `⛔️` 表情包
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_4.jpg)
 
