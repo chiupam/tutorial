@@ -36,7 +36,7 @@ A：可以通过 `网络共享` 功能实现。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Loon 界面的 `网络共享` 的卡片开关，开启 `网络共享` 功能
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Loon 界面的 `网络共享` 的卡片开关，开启 `网络共享` 功能且卡片下方保证没有出现 `⛔️` 表情包
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_3.jpg)
 
@@ -87,5 +87,7 @@ A：可以通过 `网络共享` 功能实现。
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_8.jpg)
 
 # 多说几句
+
+- 对于 A设备 开启 `网络共享` 功能后，在 `网络共享` 卡片下方出现 `⛔️` 表情包，请开启  无线局域网 / Wi-Fi 功能并连接一个 Wi-Fi
 
 - 对于 B设备 不能通过此功能在某些软件上实现科学上网的，可能是这类软件上使用的是 SOCKET5代理，请自行在这类软件内设置内手动配置 SOCKET5 代理的服务器和端口
