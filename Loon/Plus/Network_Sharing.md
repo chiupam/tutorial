@@ -76,11 +76,11 @@ A：可以通过 `网络共享` 功能实现。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_5.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `服务器` 栏填写 A设备的 Loon 中 `网络共享` 卡片下的 `灰色ip地址`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `服务器` 栏填写 A设备 Loon 中 `网络共享` 卡片下的 `灰色ip地址`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_6.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `端口` 栏填写 A设备的 Loon 中 `网络共享` 卡片内的 `HTTP代理端口`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `端口` 栏填写 A设备 Loon 中 `网络共享` 卡片内的 `HTTP代理端口`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_7.jpg)
 
