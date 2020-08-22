@@ -22,7 +22,7 @@ A：可以通过 `网络共享` 功能实现。
   
   - 手动设置 HTTP 代理配置
   
-## 在已经下载 Loon 的 A设备 的操作步骤
+## 添加 `网络共享` 快捷方式至 Loon 的`仪表` 栏界面内
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 界面并点击 `快捷方式` 右侧指定区域
 
@@ -35,6 +35,8 @@ A：可以通过 `网络共享` 功能实现。
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确定 `可见` 列表出现 `网络共享` ，然后点击 `返回`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_2.jpg)
+
+## 在已经下载 Loon 的 A设备 的操作步骤
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 Loon 界面的 `网络共享` 的卡片开关，开启 `网络共享` 功能
 
@@ -54,7 +56,7 @@ A：可以通过 `网络共享` 功能实现。
 
 ## 在没有下载 Loon 的 B设备 的操作步骤
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开设备 `设置` ，点击 无线局域网 / Wi-Fi ，开启 无线局域网 / Wi-Fi 功能
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 B设备内 `设置` ，点击 无线局域网 / Wi-Fi ，开启 无线局域网 / Wi-Fi 功能
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_1.jpg)
 
