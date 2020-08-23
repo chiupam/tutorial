@@ -6,7 +6,7 @@
 
 ### 建议
 
-- 此教程仅适合小白用户、懒癌患者阅读，如果用户有时间及精力、喜欢自定义配置，推荐全面阅读 Plus 教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md) 跳转
+此教程仅适合小白用户、懒癌患者阅读，如果用户有时间及精力、喜欢自定义配置，推荐全面阅读 Plus 教程，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md) 跳转
 
 ### 免责声明
 
