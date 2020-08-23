@@ -53,9 +53,9 @@
 
 - 为了读者的方便，禁止将此教程 `链接` 或 `内容` 转发至大陆内任何社交平台上，如果发现，chiupam 将删库处理
 
-- 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并 @chiupam 提出，chiupam 会安排时间加快写出教程
+- 教程编写中，确有高度需求的教程请前往 [Telegram Loon 官方群](https://t.me/Loon0x00) 并 @chiupam 提出，chiupam 会安排时间加快写出教程
 
-- 非专业人员，如果用户查阅教程后仍不能解决用户的问题，可以前往 [Telegram Loon 官方群](https://t.me/Loon0x00)并进行友好交流
+- 非专业人员，如果用户查阅教程后仍不能解决用户的问题，可以前往 [Telegram Loon 官方群](https://t.me/Loon0x00) 并进行友好交流
 
 - 精力有限，义务编写教程，不可能即时更新用户需要的教程
 
