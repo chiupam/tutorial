@@ -48,7 +48,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.选择需要的节点操作后，点击 `确认`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Sub-Store/Local_esolution_4Local_esolution_.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Sub-Store/Local_esolution_4.jpg)
 
 ### 二、选择节点操作
 
