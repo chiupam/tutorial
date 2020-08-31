@@ -30,4 +30,4 @@
 
 ## 下一节
 
-[本地解析]](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Local_resolution.md)
+- [本地解析]](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Local_resolution.md)

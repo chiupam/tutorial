@@ -68,4 +68,4 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin
 
 ## 下一节
 
-[单个订阅](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Single_subscription.md)
+- [单个订阅](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Single_subscription.md)
