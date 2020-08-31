@@ -2,7 +2,7 @@
 
 Loon 目前的脚本语句只有三种，即 `http-request` 、 `http-response` 以及 `cron` 语句，小白理解了这三种语句，对于通过 UI 添加脚本或者直接在 Loon 内配置写入脚本语句都有极大的提高
 
-
+- TF 2.1.13(199) 更新：新增network-changed类型脚本，会在网络环境发生变化是触发脚本，增加获取配置以及设置策略、运行模式脚本API
 
 ## `http-request` 语句
 
@@ -89,3 +89,26 @@ cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
 小白理解：
 
 cron "cron 表达式" script-path=脚本路径,tag = 脚本名称,enable=脚本状态（写 `true` 为启用，`false` 为禁用）
+
+
+## `network-changed` 语句
+
+实例：
+
+```
+network-changed script-path=https://raw.githubusercontent.com/Loon0x00/LoonExampleConfig/master/Script/netChanged.js, tag=changeModel,enable=true
+```
+
+拆解：
+
+ - `network-changed` <===> 固定格式，不可修改，表明语句类型
+  
+ - `script-path=` <===> 固定格式，不可修改，后接脚本路径
+  
+ - `tag =` <===> 固定格式，不可修改，意思为：标签，即用户将该语句自定义名称
+  
+ - `enable=` <===> 启用状态，按照用户需求自行修改， `=` 后接 `true` 为启用，`false` 为禁用
+  
+小白理解：
+
+network-changed script-path=脚本路径, tag=脚本名称,enable=脚本状态（写 `true` 为启用，`false` 为禁用）
