@@ -26,7 +26,13 @@ Loon 和 Surge 的订阅管理神器，可以在本地对机场订阅进行各�
 
 - [初次使用](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Configuration.md)
 
-- [单个订阅](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Single_subscription.md)
+- 完成下列三个基本操作，开始使用 Sub-Store 订阅管理器
+
+  - [单个订阅](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Single_subscription.md)
+
+  - [本地解析](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Configuration.md)
+
+  - [在 Loon 中订阅节点](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Configuration.md)
 
 ### 注意事项
 

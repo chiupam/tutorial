@@ -122,4 +122,4 @@
 
 ## 下一节
 
-[订阅至Loon中](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Loon_remote.md)
+[在 Loon 中订阅节点](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Loon_remote.md)
