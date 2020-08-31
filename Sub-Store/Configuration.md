@@ -65,3 +65,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 自动跳转至用户主屏幕，可以看到 Sub-Store 出现在主屏幕中
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Sub-Store/Configuration_9.jpg)
+
+## 下一节
+
+[单个订阅](https://github.com/chiupam/tutorial/blob/master/Sub-Store/Single_subscription.md)
