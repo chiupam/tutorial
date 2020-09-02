@@ -1,5 +1,3 @@
-
-
 # 申请彩云天气令牌：(审核通过需要2-3天，留意注册邮箱)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 下图：先打开右侧这串地址：https://dashboard.caiyunapp.com/user/sign_up/ 并注册账号
