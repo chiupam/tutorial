@@ -1,6 +1,6 @@
 # 保姆级别教程
 
-以下是我一直关注的大佬，感谢他们的辛勤付出
+以下是我一直关注的大佬，感谢他们为社区的辛勤付出。
 
 ## 脚本系列作者 (排名不分先后)
 
@@ -20,7 +20,7 @@
 
 - [vinewx](https://ooxx.be/js) 
 
-- [Peng-YM](https://github.com/Peng-YM/QuanX)  （彩云天气）
+- [Peng-YM](https://github.com/Peng-YM/QuanX)  （[彩云天气](https://github.com/chiupam/tutorial/blob/master/caiyun/README.md)）（[Sub-Store](https://www.notion.so/chiupam/Sub-Store-6eb9cec645454f1e9f2305773b775f18)）
 
 - [songyangzz](https://github.com/songyangzz/QxScripts) 
 
