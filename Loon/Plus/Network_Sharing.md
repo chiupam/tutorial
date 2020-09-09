@@ -92,7 +92,7 @@ A：可以通过 `网络共享` 功能实现。
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Windows 10 的 `开始` 按钮
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_1.png)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `设置` 按钮
 
@@ -108,11 +108,11 @@ A：可以通过 `网络共享` 功能实现。
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `手动设置代理` 列表下的 `地址` 栏填入 `ip地址` ， `端口` 栏填入 `HTTP代理端口`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_5.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_5.png)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_6.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_6.png)
 
 # 多说几句
 
