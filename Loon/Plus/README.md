@@ -116,9 +116,11 @@
   
   - [创建单个本地分支并拷贝js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md)（将订阅脚本内需要的脚本移到本地脚本中，可修改脚本内容，也可修改 cron 表达式）
 
-#### DNS
+#### DNS（本人不懂，直接跳过此教程）
 
-- DNS服务器（本人不知道 `DNS服务器` 有什么作用，而且日常中很少接触此类问题，因此略过关于 `DNS服务器` 的教程）
+- DNS服务器
+
+- DNS映射
 
 #### 插件
 
