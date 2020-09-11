@@ -14,7 +14,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_Raw_China_2.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 长按地址栏，并复制/拷贝地址
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `拷贝`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_Raw_China_3.jpg)
 
