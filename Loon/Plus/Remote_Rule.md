@@ -33,7 +33,7 @@
 因为 `China.list` 是中国规则，所以这里策略选择为 `DIRECT`（直连），策略选择为 `REJECT` 、 `代理策略组` 、 `母策略组` 时是类似操作，这里不再阐述
 
 
-## 二、进入 Loon 内订阅规则
+## 三、进入 Loon 内订阅规则
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 点击下方 `配置` 栏，点击 `订阅规则`
 
@@ -59,7 +59,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_China_6.jpg)
 
-## 三、订阅规则的位次规定
+## 四、订阅规则的位次规定
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 订阅规则的位次是有规定的，顺序由上到下的顺序应该为
 
