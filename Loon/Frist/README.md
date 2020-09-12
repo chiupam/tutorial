@@ -34,3 +34,7 @@
 2、[新建策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Second.md)
 
 3、[订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Third.md)
+
+4、[安装证书并信任](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Fourth.md)
+
+5、[开启连接](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Fifth.md)
