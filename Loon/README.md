@@ -30,3 +30,9 @@
     - 理解 Loon 的代理逻辑
 
     - 自定义配置
+
+## 跳转至对应教程的使用说明
+
+- [Frist](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/README.md)
+
+- [Plus](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md)
