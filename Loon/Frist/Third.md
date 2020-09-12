@@ -38,4 +38,4 @@
 
 ### 下一节
 
-- [安装证书并信任](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Fourth.md)
+- [开启连接](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Fourth.md)
