@@ -23,3 +23,7 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 6、变成 `Stop` 即可实现代理功能
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Frist/Fourth_6.jpg)
+
+### 最后
+
+恭喜您已经成功完成设置基本代理的功能，如果您希望可以进阶学习，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md) 跳转到 Plus 教程
