@@ -24,7 +24,7 @@
 
 ### 设置步骤（请用户严格按步骤进行操作！）
 
-1、[订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Frist.md)
+1、[订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/First.md)
 
 2、[新建策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/Second.md)
 
