@@ -66,7 +66,7 @@
   
 #### 规则
 
-- [何为规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ruld_Summary.md)（代理软件中设计规则的原因）
+- [何为规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md)（代理软件中设计规则的原因）
 
 - [单个规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md)（通过 UI 手动添加一个本地规则）
 
