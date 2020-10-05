@@ -114,9 +114,9 @@
   
   - [创建单个本地分支并拷贝js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md)（将订阅脚本内需要的脚本移到本地脚本中，可修改脚本内容，也可修改 cron 表达式）
 
-#### DNS（本人不懂，直接跳过此教程）
+#### DNS
 
-- DNS服务器
+- [DNS](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/DNS.md)
 
 - DNS映射
 
@@ -131,6 +131,8 @@
 - [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手用户整理的实用性插件，教程内提供 URL 地址）
 
 #### MITM
+
+- [MITM](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/MITM.md)（中间人攻击）
 
 - [域名](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)（添加域名的两种方法）
 
