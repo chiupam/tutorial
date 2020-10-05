@@ -16,8 +16,6 @@
 
 - [去人人视频广告](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/rrsp.plugin)
 
-- [去优酷广告](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/youku.plugin)
-
 - [BoxJs For TestFlight](https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin)
 
 - [淘宝、京东历史价格脚本 —— 内值版](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price.plugin)

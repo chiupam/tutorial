@@ -62,7 +62,7 @@
   
   - [PCC 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md)（相同主机名锁定同一节点）
   
-  - SSID策略组（不写此教程是因为SSID策略组在 Loon 有逻辑问题，需要等待开发者修改逻辑关系）
+  - [SSID策略组](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢 [Peng-YM](https://t.me/PengYM) 大佬，请勿私聊噢！）
   
 #### 规则
 
