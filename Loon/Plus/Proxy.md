@@ -49,18 +49,24 @@
 ```
 [Proxy]
 # 内置 DIRECT、REJECT 策略
-# 节点名称 = 协议，服务器地址，服务器端口，用户名，密码⼁
-5 = http, 1.2.3.4, 443, username, "password"
-# 节点名称 = 协议，服务器地址，服务器端口，加密协议，密码，
+
+# http(s)
+# 节点名称 = 协议，服务器地址，服务器端口，用户名，密码
+1 = http, 1.2.3.4, 443, username, "password"
+2 = https, 1.2.3.4, 443, username, "password"
+
+# ss(r)
+# 节点名称 = 协议，服务器地址，服务器端口，加密协议，密码
 1 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, "password"
 2 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, "password"
 3 = ShadowsocksR, 1.2.3.4, 443, aes-256-cfb,"password",auth_aes128_md5,{},tls1.2_ticket_auth,{}
 4 = ShadowsocksR, 1.2.3.4, 10076, aes-128-cfb,"password",auth_aes128_md5,{},tls1.2_ticket_auth,{}
-5 = http, 1.2.3.4, 443, username, "password"
+
 # vmess
 # 节点名称 = 协议，服务器地址，端口，加密方式，UUID，传输方式:(tcp/ws),path：websocket握手header中的path，host：websocket握手header中的path，over-tls:是否tls，tls-name：tls名字，skip-cert-verify：是否跳过证书校验（默认否）
 6 = vmess, 1.2.3.4, 10086, aes-128-gcm,"uuid",transport:ws,path:/,host:icloud.com,over-tls:true,tls-name:youtTlsServerName.com,skip-cert-verify:false
-#trojan
+
+# trojan
 #节点名称 = 协议，服务器地址，端口，密码，tls-name：tls名字，skip-cert-verify：是否跳过证书校验（默认否）
 7 = trojan, 1.2.3.4, 443,password,tls-name:youtTlsServerName.com,skip-cert-verify:false
 ```
