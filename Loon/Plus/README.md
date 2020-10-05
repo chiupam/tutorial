@@ -90,7 +90,7 @@
 
   - [中级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（让 Loon 真正执行脚本的必备操作）
   
-  - [高级 —— 脚本示例] (https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md)（高阶玩家）
+  - [高级 —— API 文档参考](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md)（高阶玩家）
   
   - [放弃 —— 如果用户仍然不懂如何操作](https://t.me/chiupam)（天知道哪个大佬能救得了这种用户，亲们，这边提供有偿代写配置，收费标准：150元/次）
 
