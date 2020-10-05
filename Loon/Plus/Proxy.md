@@ -49,6 +49,8 @@
 ```
 [Proxy]
 # 内置 DIRECT、REJECT 策略
+# 节点名称 = 协议，服务器地址，服务器端口，用户名，密码⼁
+5 = http, 1.2.3.4, 443, username, "password"
 # 节点名称 = 协议，服务器地址，服务器端口，加密协议，密码，
 1 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, "password"
 2 = Shadowsocks, 1.2.3.4, 443, aes-128-gcm, "password"
