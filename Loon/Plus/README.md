@@ -92,7 +92,7 @@
   
   - [高级 —— API 文档参考](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md)（高阶玩家）
   
-  - [放弃 —— 如果用户仍然不懂如何操作](https://t.me/chiupam)（天知道哪个大佬能救得了这种用户，亲们，这边提供有偿代写配置，收费标准：150元/次）
+  - [放弃 —— 仍然执行脚本失败](https://t.me/chiupam)（有偿代写脚本部分配置，收费标准：150元/次）
 
 - [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
 
@@ -117,8 +117,6 @@
 #### DNS
 
 - [DNS](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/DNS.md)
-
-- DNS映射
 
 #### 插件
 
