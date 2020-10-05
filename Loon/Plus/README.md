@@ -76,7 +76,7 @@
  
 #### 复写
 
-- [订阅复写](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rewrite.md)（未写）（主要功能为去除各类 APP 广告，但是不确保完全去除广告）
+- [复写](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rewrite.md)
 
 #### 脚本
 
