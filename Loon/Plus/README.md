@@ -42,7 +42,7 @@
 
 - 没有默认代理策略组的 Loon 
 
-  - [代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)（理解什么是代理策略组，搭配 `对全局策略的理解` 教程）
+  - [代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)（理解什么是代理策略组，搭配 [对全局策略的理解](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) 教程）
 
   - [对全局策略的理解](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md)（全局代理必须需要搭配全局策略使用的原因）
   
@@ -52,17 +52,17 @@
 
   - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
 
-  - 理解 `俄罗斯套娃` 的小把戏 —— [子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md)
+  - [俄罗斯套娃 —— 子母策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md)
 
 - 常用的三种自动策略组 
 
-  - [URL-Test 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md)（优选最低延迟）
+  - [设置 URL-Test 策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md)（优选最低延迟）
   
-  - [Fallback 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md)（健康检测）
+  - [设置 Fallback 策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md)（健康检测）
   
-  - [PCC 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md)（相同主机名锁定同一节点）
+  - [设置 PCC 策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md)（相同主机名锁定同一节点）
   
-  - [SSID策略组](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢 [Peng-YM](https://t.me/PengYM) 大佬，请勿私聊噢！）
+  - [设置 SSID策略组](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬，请勿私聊！）
   
 #### 规则
 
@@ -94,11 +94,11 @@
   
   - [放弃 —— 仍然执行脚本失败](https://t.me/chiupam)（有偿代写脚本部分配置，收费标准：150元/次）
 
-- [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用 `从URL下载脚本` 功能并将脚本下载存储在 `iCloud` 中）
+- [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用此功能并将脚本下载存储在 `iCloud` 中）
 
 - 本地脚本（通过 UI 方法添加脚本）
 
-  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（脚本位置选择 `Local` ，需要搭配 `添加脚本文件 —— 从 URL 下载` 教程学习）
+  - [添加本地路径脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md)（脚本位置选择 `Local` ，需要搭配 [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) 教程学习）
   
   - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（脚本位置选择 `Remote` ）
   
