@@ -42,13 +42,13 @@
 
 - 没有默认代理策略组的 Loon 
 
-  - [代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)（理解什么是代理策略组，搭配 [对全局策略的理解](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) 教程）
+  - [代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)（理解代理策略组，搭配 [对全局策略的理解](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) 教程）
 
   - [对全局策略的理解](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md)（全局代理必须需要搭配全局策略使用的原因）
   
-- [新建策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（手动添加一个策略组，注意此处是子策略组）
+- [新建策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md)（手动添加一个子策略组）
 
-- 母策略组与子策略组之间的逻辑关系
+- 母策略组与子策略组
 
   - [正确分辨母策略组和子策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
 
@@ -72,7 +72,7 @@
 
 - [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（订阅一个规则合集并选择母策略组）
 
-- [Final规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（本地规则与远程规则都无法匹配访问请求所走规则情况下的兜底条款）
+- [Final规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（规则的兜底条款）
  
 #### 复写
 
@@ -84,17 +84,17 @@
 
 - 在 Loon 中使用脚本（从入门到放弃）
 
-  - [入门 —— 如何看懂三种脚本语句的必备格式](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md)（必看，初次使用脚本功能的用户认真阅读并充分理解）
+  - [入门 —— 如何看懂三种脚本语句的必备格式](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md)（新手必看）
 
-  - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（解开用户对于脚本问题的困惑）
+  - [初级 —— 如何看懂一个脚本配置代码](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md)（解开配置脚本的困惑）
 
-  - [中级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（让 Loon 真正执行脚本的必备操作）
+  - [中级 —— 如何将脚本配置代码写入 Loon 内发挥作用](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md)（执行脚本的必备操作）
   
   - [高级 —— API 文档参考](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md)（高阶玩家）
   
   - [放弃 —— 仍然执行脚本失败](https://t.me/chiupam)（有偿代写脚本部分配置，收费标准：150元/次）
 
-- [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（利用此功能并将脚本下载存储在 `iCloud` 中）
+- [添加脚本文件 —— 从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md)（将脚本下载并存储在 `iCloud`）
 
 - 本地脚本（通过 UI 方法添加脚本）
 
@@ -102,17 +102,17 @@
   
   - [添加远程链接脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md)（脚本位置选择 `Remote` ）
   
-- [修改本地脚本设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Modify.md)（修改本地脚本的别名、cron表达式、脚本位置等系列操作）
+  - [修改本地脚本设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Modify.md)（修改本地脚本的别名、cron表达式、脚本位置等系列操作）
 
 - 订阅脚本（懒人神器）
 
-  - [订阅脚本中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md)（必看，否则新手用户极易出现订阅脚本返回无脚本的错误情况）
+  - [订阅脚本中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md)（新手必看）
 
-  - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（了解订阅脚本功能的作用，以及订阅的 URL 的链接要求和内容要求）
+  - [添加订阅脚本](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md)（订阅脚本功能的作用，订阅的 URL 的链接要求和内容要求）
 
-  - [创建单个本地分支](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md)（将订阅脚本内需要的脚本移到本地脚本中，不可修改本地脚本内容，仅可修改 cron 表达式）
+  - [创建单个本地分支](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md)（将订阅脚本内脚本移到本地脚本中，不可修改本地脚本内容，仅可修改 cron 表达式）
   
-  - [创建单个本地分支并拷贝js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md)（将订阅脚本内需要的脚本移到本地脚本中，可修改脚本内容，也可修改 cron 表达式）
+  - [创建单个本地分支并拷贝js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md)（将订阅脚本内脚本移到本地脚本中，可修改脚本内容，也可修改 cron 表达式）
 
 #### DNS
 
@@ -122,11 +122,11 @@
 
 - [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（强大的自定义配置神器）
 
-- [添加插件中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（必看，否则新手用户极易出现各种奇怪的错误情况）
+- [添加插件中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（新手必看）
 
-- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（如何添加一个插件）
+- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（添加一个插件）
 
-- [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手用户整理的实用性插件，教程内提供 URL 地址）
+- [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手整理较实用性插件）
 
 #### MITM
 
