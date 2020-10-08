@@ -74,6 +74,8 @@
 
 - [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md)（订阅一个规则合集并选择母策略组）
 
+- [推荐规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Recommend.md)（为新手推荐较常用规则）
+
 - [Final规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（规则的兜底条款）
  
 #### 复写
