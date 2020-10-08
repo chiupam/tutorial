@@ -29,6 +29,10 @@
 基于IP定为国家编码|GEOIP|CN中国
 兜底匹配|FINAL|如果没有匹配的规则，默认使用的匹配
 
+## GeoiP
+
+基于 IP 的位置信息来源于 GeoLite2 Country 。GeoLiteZ 数据库是由 MaxMind 创建的基于 IP 的地理位置信息数据库。可从 www.maxmind.com 获得。 
+
 ## 实例示范理解规则的作用
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图中的用户发起对 `www.google.com` 的一个访问请求中
