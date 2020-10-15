@@ -30,4 +30,4 @@ loon://LogLists
 
 若用户想导入配置，可以使用 loon://import?sub=url （URL为 Urlencode 之后的字符串）
 
-loon://import
+loon://import?sub=https%3A%2F%2Floon.now.sh%2Flazy-config%2Fdefault
