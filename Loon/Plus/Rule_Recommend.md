@@ -8,6 +8,8 @@
 
 - DivineEngine：https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 
+- blackmatrix7: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon
+
 - [更多请加入 Loon 官方群并发送"找规则"即可](https://t.me/Loon0x00)
 
 ## 订阅步骤
@@ -19,3 +21,5 @@
 - [lhie1](https://github.com/lhie1)
 
 - [DivineEngines](https://github.com/DivineEngine)
+
+- [blackmatrix7](https://github.com/blackmatrix7)
