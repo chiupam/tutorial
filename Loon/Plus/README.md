@@ -64,8 +64,12 @@
   
   - [设置 PCC 策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md)（相同主机名锁定同一节点）
   
-  - [设置 SSID策略组](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬，请勿私聊！）
-  
+- 设置 SSID策略组
+
+  - [方法一：内置 ssid 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md)（此教程需要理解较多概念）
+
+  - [方法二：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬，请勿私聊！）
+
 #### 规则
 
 - [何为规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md)（代理软件中设计规则的原因）
