@@ -48,7 +48,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
 
-点击蜂窝数据
+点击 `蜂窝数据`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_9.jpg)
 
@@ -56,7 +56,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_10.jpg)
 
-点击添加
+点击 `添加`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_11.jpg)
 
