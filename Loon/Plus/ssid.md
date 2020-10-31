@@ -43,7 +43,24 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 点击 `默认`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_7.jpg)
-名称
+
+推荐选择代理策略组
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
+
+点击蜂窝数据
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_9.jpg)
+
+推荐选择代理策略组
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_10.jpg)
+
+点击添加
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_11.jpg)
+
+输入用户已扶墙的路由器名称
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_12.jpg)
 
