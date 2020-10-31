@@ -76,3 +76,38 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_15.jpg)
 
+### 更改订阅规则的策略组选择
+
+打开Loon，点击下方配置栏
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_1.jpg)
+
+点击订阅规则
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_2.jpg)
+
+选择需要代理的分流，例如图示中的Global分流，至于为什么是这个分流，请看本教程下面的解析
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_3.jpg)
+
+左滑该规则
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_4.jpg)
+
+点击编辑
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_5.jpg)
+
+点击策略
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_6.jpg)
+
+选择刚刚创建的ssid策略组，即名为SSID的策略组
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_7.jpg)
+
+点击右上角保存即可
+
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_8.jpg)
+
+## 多说几句
