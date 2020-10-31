@@ -66,7 +66,9 @@
   
 - 设置 SSID策略组
 
-  - [方法一：内置 ssid 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md)（此教程需要理解较多概念）(未完成)
+  - [方法一：内置 ssid 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md)（此教程需要理解较多概念，而且较为单一，不够灵活）
+  
+  - [进阶操作：ssid 策略组的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_Plus.md)（操作极其繁琐，但是满足需求，只是较难理解，新手、无耐心用户请绕道）（未完成）
 
   - [方法二：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬，请勿私聊！）
 
