@@ -44,7 +44,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_7.jpg)
 
-推荐选择代理策略组
+推荐选择代理策略组，原因请看本教程下面的解析
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
 
@@ -86,7 +86,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_2.jpg)
 
-选择需要代理的分流，例如图示中的Global分流，至于为什么是这个规则，请看本教程下面的解析
+选择需要代理的分流，例如图示中的Global分流，原因请看本教程下面的解析
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_3.jpg)
 
@@ -112,12 +112,16 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ## 多说几句
 
-- 如果用户想设置某些 APP ，例如 YouTube ，在使用路由器扶墙的时候走直连，方法是类似的，只是在第二步的操作中选择的规则是 YouTube 的订阅规则
+- 解析一下：
 
-- 每一个需要使用代理节点的订阅规则都需要进行第二步操作，否则很可能起不到用户想要的效果
-
+  - `默认` 中选择代理策略组是因为当用户连接到一个没有设置到的而且没有路由器扶墙的 WiFi 时，Loon 还是需要用分流模式，否则用户无法代理
+  
+  - `Global` 订阅规则是需要代理才可以访问成功的规则，所以每一个需要使用代理节点的订阅规则都需要进行第二步操作，否则很可能起不到用户想要的效果
+  
   - 在懒人配置文本中，代理策略组的名字一般会命名为 Proxy
   
   - 如果用户使用自定义的配置文本，请根据自身情况选择代理策略组
+
+- 如果用户想设置某些 APP ，例如 YouTube ，在使用路由器扶墙的时候走直连，方法是类似的，只是在第二步的操作中选择的规则是 YouTube 的订阅规则
 
 - 如果订阅规则下的策略组为 DIRECT(直连) 或者 REJECT(拒绝)时，不要进行第二步，理由是：举个例子，大陆内用户在使用微信时，总不会使用代理节点吧？
