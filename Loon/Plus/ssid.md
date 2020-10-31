@@ -43,24 +43,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 点击 `默认`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_7.jpg)
-
-推荐选择代理策略组
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
-
-点击 `蜂窝数据`
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_9.jpg)
-
-推荐选择代理策略组
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_10.jpg)
-
-点击下方 `添加`
-
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_11.jpg)
-
-输入用户已扶墙的路由器名称
+名称
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_12.jpg)
 
@@ -86,7 +69,7 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_2.jpg)
 
-选择需要代理的分流，例如图示中的Global分流，至于为什么是这个分流，请看本教程下面的解析
+选择需要代理的分流，例如图示中的Global分流，至于为什么是这个规则，请看本教程下面的解析
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_3.jpg)
 
@@ -111,3 +94,9 @@ Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_8.jpg)
 
 ## 多说几句
+
+- 如果用户想设置某些 APP ，例如 YouTube ，在使用路由器扶墙的时候走直连，方法是类似的，只是在第二步的操作中选择的规则是 YouTube 的订阅规则
+
+- 每一个需要使用代理节点的订阅规则都需要进行第二步操作，否则很可能起不到用户想要的效果
+
+- 如果订阅规则下的策略组为 DIRECT(直连) 或者 REJECT(拒绝)时，不要进行第二步，理由是：举个例子，大陆内用户在使用微信时，总不会使用代理节点吧？
