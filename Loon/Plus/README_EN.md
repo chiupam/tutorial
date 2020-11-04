@@ -120,7 +120,7 @@ The purpose is to improve the user's ability to customize the Loon configuration
   
   - [Advanced-API Document Reference](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md) (high-level players)
   
-  - [Abandon —— Script execution still fails](https://t.me/chiupam) (Partial configuration of paid script writing, charging standard: 150 yuan/time)
+  - Abandon —— Script execution still fails (Sorry, I do not provide help in foreign languages.)
 
 - [Add script file-download from URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) (download and store the script in ʻiCloud`)
 
