@@ -32,9 +32,7 @@
 
 - [Peng-YM](https://github.com/Peng-YM/QuanX)  （Telegram 彭于晏）
 
-  - [Sub-Store](https://www.notion.so/chiupam/Sub-Store-6eb9cec645454f1e9f2305773b775f18)
-
-  - [彩云天气](https://github.com/chiupam/tutorial/blob/master/caiyun/README.md)
+  - [代表作品：Sub-Store 本地订阅解析器](https://t.me/cool_scripts/200) [文字教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)&[视频教程](https://t.me/cool_scripts/242)
 
 - [lxk0301](https://github.com/lxk0301/scripts) （京东系列小游戏）
 
