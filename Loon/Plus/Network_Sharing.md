@@ -12,6 +12,8 @@ A：可以通过 `网络共享` 功能实现。
 
 - A设备（已经下载 Loon 的设备）
 
+  - 必须在此设备的设置中关闭 个人热点 功能
+
   - 必须开启 无线局域网 / Wi-Fi 功能并连接一个 Wi-Fi
   
   - Loon 中必须开启 `网络共享` 功能
@@ -115,6 +117,8 @@ A：可以通过 `网络共享` 功能实现。
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_6.png)
 
 # 多说几句
+
+- A 设备开启热点给 B 设备，然后在 A 设备上使用网络共享的方式给 B 设备科学上网，这是行不通的！
 
 - 请 MacBook 用户自行摸索笔记本设置代理的教程，此教程不再赘述
 
