@@ -4,9 +4,9 @@
 
 - Loon's Plus tutorial is stored in this folder.
 
-- Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+- Please read the following **DISCLAIMER** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
 
-### Disclaimer
+### DISCLAIMER
 
 - This tutorial is only for users who purchased the genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
 
@@ -168,9 +168,9 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
 ---
 
-### Author statement
+### Author STATEMENT
 
-- For the convenience of readers, it is forbidden to forward this tutorial **link** or **content** to any social platform in the mainland. If found, chiupam will delete the library for processing
+- For the convenience of readers, it is forbidden to forward this tutorial **LINK** or **CONTENT** to any social platform in the mainland. If found, chiupam will delete the library for processing
 
 - In the course of writing tutorials, please go to the [Telegram Loon official group](https://t.me/Loon0x00) and @[chiupam](https://t.me/chiupam) if there are really highly demanded tutorials. Chiupam will Schedule time to speed up writing tutorials
 
