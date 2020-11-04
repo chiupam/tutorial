@@ -10,7 +10,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `select` 
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `load-balance` 
 

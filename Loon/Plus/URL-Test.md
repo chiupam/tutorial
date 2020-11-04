@@ -14,23 +14,23 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `select` 
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `url-test`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按用户个人喜爱填入策略组别名，测试间隔单位为 `秒` ，按用户个人使用习惯修改，一般也不需要修改
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_3.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `容差` 栏根据用户个人喜爱和机场一般延迟自行设置，计算方法上边已有介绍，自行理解自行设置
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_9.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_9.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Test-URL` 一般不需要修改
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_4.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_4.jpg)
 
 ## 三、添加代理节点
 
@@ -38,19 +38,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 承接第一步的后面，点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_5.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_6.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `储存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_7.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/URL-Test_8.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_8.jpg)
 
 # 多说几句
 

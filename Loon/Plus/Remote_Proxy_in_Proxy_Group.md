@@ -18,7 +18,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击并设置 `策略类型` ，分成 4种情况 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击并设置 `策略类型` ，分成 4 种情况 
 
 - 用户希望手动选择节点时，策略类型选择 `select` ，请直接本教程下面的 `二`
 
