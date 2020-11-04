@@ -90,6 +90,16 @@
 
 - [Final规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md)（规则的兜底条款）
  
+#### 插件
+
+- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（强大的自定义配置神器）
+
+- [添加插件中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（新手必看）
+
+- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（添加一个插件）
+
+- [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手整理较实用性插件）
+
 #### 复写
 
 - [复写](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rewrite.md)
@@ -133,16 +143,6 @@
 #### DNS
 
 - [DNS](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/DNS.md)
-
-#### 插件
-
-- [初步了解插件功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md)（强大的自定义配置神器）
-
-- [添加插件中对 URL 的要求及内容格式要求](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md)（新手必看）
-
-- [添加插件](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md)（添加一个插件）
-
-- [推荐插件 URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md)（为新手整理较实用性插件）
 
 #### MITM
 
