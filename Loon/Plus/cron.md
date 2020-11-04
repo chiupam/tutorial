@@ -6,7 +6,7 @@
 
 1、cron 6位表达式
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/cron_6.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/cron_6.png)
 
 - 从左到右依次
 
@@ -24,7 +24,7 @@
   
 2、cron 5位表达式
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/cron_5.png)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/cron_5.png)
 
 - 从左到右依次
   
