@@ -1,10 +1,10 @@
 ## Loon Tutorial
 
+- **The README_EN.md document is a simple translation of the README.md document. The operation of the hyperlink in this tutorial is still the Chinese illustration. The reader can set the iPhone language to Chinese and then operate.**
+
 - Loon's Plus tutorial is stored in this folder.
 
 - Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
-
-- The README_EN.md document is a simple translation of the README.md document. The operation of the hyperlink in this tutorial is still the Chinese illustration. The reader can set the iPhone language to Chinese and then operate.
 
 ### Disclaimer
 
