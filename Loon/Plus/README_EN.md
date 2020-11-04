@@ -150,7 +150,7 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
 - [MITM](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/MITM.md) (Man in the middle attack)
 
-- [Domain name](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md) (two ways to add a domain name)
+- [Domain name](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md) (two ways to add a hostname)
 
 - [Certificate Management](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA.md) (causes and solutions about certificate pop-ups appear)
 
