@@ -24,7 +24,19 @@
 
 - [nzw9314](https://github.com/nzw9314/QuantumultX/tree/master) （脚本合集，作者宣布于2020.08.09正式停止更新）
 
-- [chavyleung](https://github.com/chavyleung/scripts)  （签到狂魔）
+- [Tartarus2014](https://github.com/Tartarus2014)  （队长整理 Surge、Loon 的脚本合集）
+
+- [NobyDa](https://github.com/NobyDa/Script/tree/master) （野比大神）
+
+- [chavyleung](https://github.com/chavyleung/scripts)  （C神，签到狂魔）
+
+- [Peng-YM](https://github.com/Peng-YM/QuanX)  （Telegram 彭于晏）
+
+  - [Sub-Store](https://www.notion.so/chiupam/Sub-Store-6eb9cec645454f1e9f2305773b775f18)
+
+  - [彩云天气](https://github.com/chiupam/tutorial/blob/master/caiyun/README.md)
+
+- [lxk0301](https://github.com/lxk0301/scripts) （京东系列小游戏）
 
 - [lowking](https://github.com/lowking/Scripts/tree/master) 
 
@@ -34,15 +46,9 @@
 
 - [toulanboy](https://github.com/toulanboy/scripts/tree/master) 
 
-- [lxk0301](https://github.com/lxk0301/scripts)  （京东系列小游戏）
-
 - [vinewx](https://ooxx.be/js) 
 
-- [Peng-YM](https://github.com/Peng-YM/QuanX)  （[彩云天气](https://github.com/chiupam/tutorial/blob/master/caiyun/README.md)）（[Sub-Store](https://www.notion.so/chiupam/Sub-Store-6eb9cec645454f1e9f2305773b775f18)）
-
 - [songyangzz](https://github.com/songyangzz/QxScripts) 
-
-- [NobyDa](https://github.com/NobyDa/Script/tree/master) （野比大神）
 
 - [chouchoui](https://github.com/chouchoui/QuanX) 
 
@@ -50,7 +56,7 @@
 
 ### 规则/分流系列作者 (排名不分先后)
 
-- [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)（利用 python 将各路大神的规则合并、去重，实用度较高）
+- [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)  （利用 python 将各路大神的规则合并、去重，实用度较高）
 
 - [eHpo1](https://github.com/eHpo1/Rules)
 
