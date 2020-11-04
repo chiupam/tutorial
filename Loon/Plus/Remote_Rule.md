@@ -8,15 +8,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以订阅 `China.list` (国内规则) 规则为例，点击 `China.list`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_Raw_China_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `Raw`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_Raw_China_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `拷贝`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_Raw_China_3.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_3.jpg)
 
 ## 二、确定 `订阅规则` 所选策略
 
@@ -37,27 +37,27 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 点击下方 `配置` 栏，点击 `订阅规则`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（+）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将上面复制/拷贝下来的地址粘贴到 `URL` 处，填写分流别名
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_China_3.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_China_4.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `DIRECT` 
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_China_5.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Rule_remote_China_6.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_6.jpg)
 
 ## 四、订阅规则的位次规定
 

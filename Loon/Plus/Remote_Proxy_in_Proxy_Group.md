@@ -34,19 +34,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以策略类型选择 `select` 为例，点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_1.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `订阅节点` 或者 `筛选订阅节点` 的列表下选择需要的`订阅节点` 或者 `筛选订阅节点` ，点击名称
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_2.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `储存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_3.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Select_4.jpg)
+![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_4.jpg)
 
 # 多说几句
 
