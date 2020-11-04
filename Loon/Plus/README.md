@@ -38,6 +38,12 @@
 
   - [筛选类型为 `NameRegex` 的筛选方法](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md)（利用正则表达式筛选订阅节点）
 
+- 利用 Sub-Store 筛选订阅节点（简单、高效、方便）
+
+  - [文字教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)
+
+  - [视频教程](https://www.youtube.com/watch?v=VXlQ4kDgqSE&t=171s)
+
 - [节点与策略组之间的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md)（将代理节点添加到策略组下）
 
 #### 策略
