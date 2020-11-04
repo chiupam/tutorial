@@ -40,7 +40,7 @@
 
 - 利用 Sub-Store 筛选订阅节点（简单、高效、方便）
 
-  - [文字教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)
+  - [图文教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)（学习耗时较长，推荐先看视频教程再看图文教程）
 
   - [视频教程](https://www.youtube.com/watch?v=VXlQ4kDgqSE&t=171s)
 
