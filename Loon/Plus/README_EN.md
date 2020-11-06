@@ -102,11 +102,11 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
 - [Recommended plug-in URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md) (organize more practical plug-ins for novices)
 
-#### Copy
+#### Rewrite
 
 - [Rewrite](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rewrite.md)
 
-#### Script
+#### Scripts
 
 - [Learning basic cron expressions](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) (modify the execution time of the timing script)
 
@@ -154,7 +154,7 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
 - [Certificate Management](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA.md) (causes and solutions about certificate pop-ups appear)
 
-#### edit
+#### Edit
 
 - [Text Edit](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) (Loon’s configuration file)
 

@@ -6,6 +6,20 @@
 
 - **Foreign friends can read this [README_EN.md](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README_EN.md) description.**
 
+---
+
+### Loon 官方
+
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
+
+- [Telegram：Loon0x00](https://t.me/Loon0x00)
+
+- [Twitter：Loon0x00](https://twitter.com/loon0x00)
+
+- [App Store 下载地址](https://itunes.apple.com/us/app/loon/id1373567447)
+
+---
+
 ### 免责声明
 
 - 此教程仅供正版购买 Loon 的用户学习如何使用此款软件，本人从未提供机场服务或教唆大陆用户擅自建立、使用非法定信道进行国际联网。
@@ -173,18 +187,6 @@
 - [YouTuber Hell Cell 系列视频教程](https://www.youtube.com/channel/UCgjdfJbXYaFfC3Wxump37Mg)
 
 - [YouTuber 北纬37度的大飛 系列视频教程](https://www.youtube.com/channel/UCXdlywuMV_a8jEZ4wV6669g)
-
----
-
-### Loon 官方
-
-- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
-
-- [Telegram：Loon0x00](https://t.me/Loon0x00)
-
-- [Twitter：Loon0x00](https://twitter.com/loon0x00)
-
-- [App Store 下载地址](https://itunes.apple.com/us/app/loon/id1373567447)
 
 ---
 
