@@ -29,3 +29,7 @@ https?://(www.)?g.cn https://www.google.com 302
 - 307 
 
   - 返回307响应
+
+# 参考
+
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)

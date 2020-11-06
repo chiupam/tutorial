@@ -78,7 +78,7 @@
   
   - [进阶操作：ssid 策略组的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_Plus.md)（操作极其繁琐，但是满足需求，只是较难理解，新手、无耐心用户请绕道）（未完成）
 
-  - [方法二：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬，请勿私聊！）
+  - [方法二：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬）
 
 #### 规则
 
@@ -175,6 +175,20 @@
 - [YouTuber 北纬37度的大飛 系列视频教程](https://www.youtube.com/channel/UCXdlywuMV_a8jEZ4wV6669g)
 
 ---
+
+### Loon 官方
+
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
+
+- [Telegram:Loon0x00](https://t.me/Loon0x00)
+
+- [Twitter:Loon0x00](https://twitter.com/loon0x00)
+
+- App Store 下载地址
+
+  - [United States](https://itunes.apple.com/us/app/loon/id1373567447)
+
+  - [Hong Kong](https://apps.apple.com/hk/app/loon/id1373567447)
 
 ### 作者声明
 

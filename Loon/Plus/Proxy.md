@@ -1,6 +1,6 @@
 # 单个节点
 
-用户可以通过 `单个节点` 按钮添加自行搭建的服务器
+用户可以通过 `单个节点` 按钮添加自行搭建的服务器，一个节点代表一个代理服务器，代理服务器可以实现流量的中转。
 
 - 目前支持的协议有
 
@@ -77,4 +77,6 @@
 
 # 参考
 
-[Loon 不完全教程 - 节点导入](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
+- [Loon 不完全教程 - 节点导入](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
+
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
