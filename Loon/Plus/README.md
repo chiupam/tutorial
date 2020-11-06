@@ -184,11 +184,9 @@
 
 - [Twitter:Loon0x00](https://twitter.com/loon0x00)
 
-- App Store 下载地址
+- [App Store 下载地址](https://itunes.apple.com/us/app/loon/id1373567447)
 
-  - [United States](https://itunes.apple.com/us/app/loon/id1373567447)
-
-  - [Hong Kong](https://apps.apple.com/hk/app/loon/id1373567447)
+---
 
 ### 作者声明
 
