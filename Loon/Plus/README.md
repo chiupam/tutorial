@@ -4,6 +4,8 @@
 
 - 请仔细阅读以下**免责声明**，任何一经点击教程内文档的阅读者便视为您已接受此免责声明。
 
+- **Foreign friends can read this [README_EN.md](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README_EN.md) description.**
+
 ### 免责声明
 
 - 此教程仅供正版购买 Loon 的用户学习如何使用此款软件，本人从未提供机场服务或教唆大陆用户擅自建立、使用非法定信道进行国际联网。
