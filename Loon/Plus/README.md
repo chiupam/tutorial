@@ -168,6 +168,14 @@
 
 ---
 
+### 友情链接
+
+- [YouTuber Hell Cell 系列视频教程](https://www.youtube.com/channel/UCgjdfJbXYaFfC3Wxump37Mg)
+
+- [YouTuber 北纬37度的大飛 系列视频教程](https://www.youtube.com/channel/UCXdlywuMV_a8jEZ4wV6669g)
+
+---
+
 ### 作者声明
 
 - 为了读者的方便，禁止将此教程 **链接** 或 **内容** 转发至大陆内任何社交平台上，如果发现，chiupam 将删库处理
