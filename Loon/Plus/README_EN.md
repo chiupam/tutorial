@@ -40,7 +40,7 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
   - [Filter method with filter type `NameRegex`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md) (Use regular expression to filter subscription nodes)
 
--Use Sub-Store to filter subscription nodes (simple, efficient and convenient)
+- Use Sub-Store to filter subscription nodes (simple, efficient and convenient)
 
   - [Text Tutorial](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)
 
