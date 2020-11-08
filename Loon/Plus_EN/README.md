@@ -1,24 +1,38 @@
 ## Loon Tutorial
 
-- **The README_EN.md document is a simple translation of the README.md document. The operation of the hyperlink in this tutorial is still the Chinese illustration. The reader can set the iPhone language to Chinese and then operate.**
+-Loon's Plus tutorial is stored in this folder.
 
-- Loon's Plus tutorial is stored in this folder.
+-Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
 
-- Please read the following **DISCLAIMER** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+---
 
-### DISCLAIMER
+### Loon official
 
-- This tutorial is only for users who purchased the genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
 
-- Through this tutorial, users use Loon to use illegal channels for international networking and conduct behaviors that violate the laws and regulations of mainland China and its regions. I am not responsible for the consequences of such users.
+- [Telegram: Loon0x00](https://t.me/Loon0x00)
 
-- This tutorial only teaches how to configure script functions, and will never provide any specific scripts that harm the legitimate interests of natural persons, legal persons, and unincorporated organizations, such as cracking scripts.
+- [Twitter: Loon0x00](https://twitter.com/loon0x00)
 
-- Please do not use the script for any commercial or illegal purposes. I am not responsible for any consequences caused by such actions.
+- [App Store download address](https://itunes.apple.com/us/app/loon/id1373567447)
 
-- Anyone who reads this tutorial in any way, directly or indirectly operates the steps in this tutorial, should read this statement carefully.
+---
 
-- I have the right to modify and supplement this disclaimer. Any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+### Disclaimer
+
+-This tutorial is only for users who have purchased genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
+
+-Through this tutorial, users use Loon to use illegal channels for international networking and conduct behaviors that violate the laws and regulations of mainland China and its regions. I am not responsible for the consequences of such users.
+
+-This tutorial only teaches how to configure script functions, and will never provide any specific scripts that harm the legitimate interests of natural persons, legal persons, and unincorporated organizations, such as cracking scripts.
+
+-Please do not use the script for any commercial or illegal purposes. I am not responsible for any consequences caused by such actions.
+
+-Anyone who reads this tutorial in any way, directly or indirectly operates the steps in this tutorial, should read this statement carefully.
+
+-I have the right to modify and supplement this disclaimer. Any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+
+---
 
 ### Configuration column
 
