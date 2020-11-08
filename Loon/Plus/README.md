@@ -4,7 +4,7 @@
 
 - 请仔细阅读以下**免责声明**，任何一经点击教程内文档的阅读者便视为您已接受此免责声明。
 
-- **Foreign friends can read this [README_EN.md](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README.md) description.**, or access [this documents](https://github.com/chiupam/tutorial/tree/master/Loon/Plus_EN) in this folder.
+- **Foreign friends can read this [README_EN.md](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README.md) description., or access [this documents](https://github.com/chiupam/tutorial/tree/master/Loon/Plus_EN) in this folder.**
 
 ---
 
