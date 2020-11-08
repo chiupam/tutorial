@@ -1,8 +1,10 @@
 ## Loon Tutorial
 
--Loon's Plus tutorial is stored in this folder.
+ -Loon's Plus tutorial is stored in this folder.
 
--Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+- Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+
+- **When users read this document for operation, please switch the language in Loon to Chinese.**
 
 ---
 
