@@ -37,3 +37,5 @@
 - [Frist](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/README.md)
 
 - [Plus](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md)
+
+- [Plus_EN](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README.md)
