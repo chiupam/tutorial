@@ -40,11 +40,11 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
   - [Filter method with filter type `NameRegex`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/Remote_Filter_EN.md) (Use regular expression to filter subscription nodes)
 
-- Use Sub-Store to filter subscription nodes (simple, efficient and convenient)
+- Use Sub-Store to filter subscription nodes (simple, efficient and convenient) (There is no English translation in this tutorial)
 
-  - [Text Tutorial](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)
+  - [Text Tutorial](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46) (There is no English translation in this tutorial)
 
-  - [Video Tutorial](https://www.youtube.com/watch?v=VXlQ4kDgqSE&t=171s)
+  - [Video Tutorial](https://www.youtube.com/watch?v=VXlQ4kDgqSE&t=171s) (There is no English translation in this tutorial)
 
 - [Nesting between node and policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/Remote_Proxy_in_Proxy_Group_EN.md) (add proxy node under the policy group)
 
