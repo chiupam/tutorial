@@ -22,13 +22,13 @@
 
 There are three types of policy options for subscription rules, namely
 
--`DIRECT`
+- `DIRECT`
 
--`REJECT`
+- `REJECT`
 
--`Agent Strategy Group`
+- `Agent Strategy Group`
 
--`Mother Strategy Group`
+- `Mother Strategy Group`
 
 Because `China.list` is a Chinese rule, the strategy selection here is `DIRECT` (direct connection), and the strategy selection is `REJECT`, `agent strategy group`, and `parent strategy group. The similar operations are not explained here.
 
@@ -63,24 +63,24 @@ Because `China.list` is a Chinese rule, the strategy selection here is `DIRECT` 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The order of the subscription rules is specified, and the order from top to bottom should be
 
--Go to the advertising category (strategy select `REJECT`)
+- Go to the advertising category (strategy select `REJECT`)
 
--Domestic direct connection (strategy selection `DIRECT`)
+- Domestic direct connection (strategy selection `DIRECT`)
 
--Foreign specific APP proxy (policy selection `agent strategy group` or `parent strategy group` {The name of this strategy may not be the same for each user, it depends on the name set by the user})
+- Foreign specific APP proxy (policy selection `agent strategy group` or `parent strategy group` {The name of this strategy may not be the same for each user, it depends on the name set by the user})
 
--Foreign agent class (strategy select `agent strategy group` or `parent strategy group` {The name of this strategy may not be the same for each user, it depends on the name set by the user})
+- Foreign agent class (strategy select `agent strategy group` or `parent strategy group` {The name of this strategy may not be the same for each user, it depends on the name set by the user})
 
 # Say a few more words
 
--Ad rules recommend subscribing to NobyDa’s ad rules, please click [here](https://github.com/NobyDa/Script/tree/master/Surge) to jump
+- Ad rules recommend subscribing to NobyDa’s ad rules, please click [here](https://github.com/NobyDa/Script/tree/master/Surge) to jump
 
--Streaming media rules recommend subscribing to Conners Hua's rules, please click [here](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) to jump to the github library
+- Streaming media rules recommend subscribing to Conners Hua's rules, please click [here](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) to jump to the github library
 
--Why is the name of `agent strategy group` or `parent strategy group" not necessarily the same for each user. It depends on the name set by the user. If you want to know the reason, please click [here](https://github.com/chiupam /tutorial/blob/master/Loon/Global_Policy.md) Jump and read `Three, proxy policy`
+- Why is the name of `agent strategy group` or `parent strategy group" not necessarily the same for each user. It depends on the name set by the user. If you want to know the reason, please click [here](https://github.com/chiupam /tutorial/blob/master/Loon/Global_Policy.md) Jump and read `Three, proxy policy`
 
 # Thanks
 
--[Conners Hua](https://github.com/ConnersHua?tab=repositories)
+- [Conners Hua](https://github.com/ConnersHua?tab=repositories)
 
--[NobyDa](https://github.com/NobyDa)
+- [NobyDa](https://github.com/NobyDa)

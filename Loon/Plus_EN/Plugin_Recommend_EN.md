@@ -4,28 +4,28 @@
 
 ## URL (directly long press the blue part and select copy)
 
--Unlock the international version of Tiktok (because it may involve illegal intrusion of computer systems and criminal offenses, this tutorial is not taught here)
+- Unlock the international version of Tiktok (because it may involve illegal intrusion of computer systems and criminal offenses, this tutorial is not taught here)
 
--Unlock NetEase Cloud Music's copyright-free music (because it may involve illegal intrusion of computer systems and criminal offenses, this tutorial is not taught here)
+- Unlock NetEase Cloud Music's copyright-free music (because it may involve illegal intrusion of computer systems and criminal offenses, this tutorial is not taught here)
 
--[Go Advertising](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Advertising.plugin)
+- [Advertising](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/Advertising.plugin)
 
--[Go to YouTube Ads](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/YouTubeAds.plugin)
+- [YouTube Ads](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/YouTubeAds.plugin)
 
--[Go Zhihu Advertising](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/ZhiHu.plugin)
+- [Zhihu Advertising](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/ZhiHu.plugin)
 
--[Go Renren Video Ads](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/rrsp.plugin)
+- [Renren Video Ads](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Loon/Plugin/rrsp.plugin)
 
--[BoxJs For TestFlight](https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin)
+- [BoxJs For TestFlight](https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin)
 
--[Taobao, Jingdong Historical Price Script-Intrinsic Version](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price.plugin)
+- [Taobao, Jingdong Historical Price Script-Intrinsic Version](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price.plugin)
 
--[Taobao, Jingdong historical price script-pop-up version](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price_Lite.plugin)
+- [Taobao, Jingdong historical price script-pop-up version](https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Loon_Price_Lite.plugin)
 
--[For more, please join the official Loon group and send "Find Plugins"](https://t.me/Loon0x00)
+- [For more, please join the official Loon group and send "Find Plugins"](https://t.me/Loon0x00)
 
 # Thanks
 
--[Tartarus2014](https://github.com/Tartarus2014/For-own-use/tree/master/Loon/Plugin)
+- [Tartarus2014](https://github.com/Tartarus2014/For-own-use/tree/master/Loon/Plugin)
 
--[chavyleung](https://chavyleung.gitbook.io/boxjs/)
+- [chavyleung](https://chavyleung.gitbook.io/boxjs/)

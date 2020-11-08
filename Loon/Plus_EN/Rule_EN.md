@@ -42,4 +42,4 @@
 
 # Say a few more words
 
--There are known minor issues. When the matching type of the rule added by the user is `DOMAIN`, there is no need to click `Type` and select `DOMAIN`, otherwise there will be a situation where `Match Type` is not selected after selecting `DOMAIN`
+- There are known minor issues. When the matching type of the rule added by the user is `DOMAIN`, there is no need to click `Type` and select `DOMAIN`, otherwise there will be a situation where `Match Type` is not selected after selecting `DOMAIN`

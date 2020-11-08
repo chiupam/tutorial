@@ -42,8 +42,8 @@
 
 # Thanks
 
--[NobyDa](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+- [NobyDa](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 
--[lxk0301](https://github.com/lxk0301/scripts/blob/master/jd_fruit.js)
+- [lxk0301](https://github.com/lxk0301/scripts/blob/master/jd_fruit.js)
 
--[chavyleung](https://github.com/chavyleung/scripts/tree/master/wmmeituan)
+- [chavyleung](https://github.com/chavyleung/scripts/tree/master/wmmeituan)

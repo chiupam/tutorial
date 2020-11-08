@@ -4,13 +4,13 @@
 
 ## URL
 
--lhie1: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203
+- lhie1: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203
 
--DivineEngine: https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
+- DivineEngine: https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 
--blackmatrix7: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon
+- blackmatrix7: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon
 
--[For more, please join the Loon official group and send "Find Rules"](https://t.me/Loon0x00)
+- [For more, please join the Loon official group and send "Find Rules"](https://t.me/Loon0x00)
 
 ## Subscription steps
 
@@ -18,8 +18,8 @@
 
 # Thanks
 
--[lhie1](https://github.com/lhie1)
+- [lhie1](https://github.com/lhie1)
 
--[DivineEngines](https://github.com/DivineEngine)
+- [DivineEngines](https://github.com/DivineEngine)
 
--[blackmatrix7](https://github.com/blackmatrix7)
+- [blackmatrix7](https://github.com/blackmatrix7)

@@ -4,15 +4,15 @@
 
 ## 1. Requirements for URL format and content
 
--Requirements for URL format
+- Requirements for URL format
 
-  -For files uploaded to the github library, the subscription address URL must start with `http://raw`
+  - For files uploaded to the github library, the subscription address URL must start with `http://raw`
   
--Requirements for URL content
+- Requirements for URL content
 
-  -Must contain one or more script statements
+  - Must contain one or more script statements
   
-  -You can write statements with `hostname =`
+  - You can write statements with `hostname =`
   
 ## 2. URL content demonstration
 

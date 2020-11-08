@@ -50,18 +50,18 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 # Say a few more words
 
--The newly added `PCC` strategy group according to this tutorial has no substantive effect. It is necessary to nest the `PCC` strategy group as a sub-strategy group into the surrogate parent strategy group to play a substantial role
+- The newly added `PCC` strategy group according to this tutorial has no substantive effect. It is necessary to nest the `PCC` strategy group as a sub-strategy group into the surrogate parent strategy group to play a substantial role
 
--It must be noted that other sub-strategy groups cannot be nested under the `PCC` strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
+- It must be noted that other sub-strategy groups cannot be nested under the `PCC` strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
 
--When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
+- When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
 
--It is not allowed to have too many nodes in `Screening Subscription Nodes`, it is recommended to be less than `10`, otherwise it is easy to appear Loon warnings, even proxy server provider bans and other serious consequences
+- It is not allowed to have too many nodes in `Screening Subscription Nodes`, it is recommended to be less than `10`, otherwise it is easy to appear Loon warnings, even proxy server provider bans and other serious consequences
 
--If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions
+- If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions
 
 # Classic Case
 
--Regarding the situation that the policy type in the policy group is `PCC` and the available nodes under the policy group are `0`, it may be because the parent policy group did not select the `PCC` policy group as the proxy policy group
+- Regarding the situation that the policy type in the policy group is `PCC` and the available nodes under the policy group are `0`, it may be because the parent policy group did not select the `PCC` policy group as the proxy policy group
 
-  -[Operation](https://t.me/Loon0x00/350123)
+  - [Operation](https://t.me/Loon0x00/350123)

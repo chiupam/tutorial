@@ -54,6 +54,6 @@ If there is no subscription node, please click [here](https://github.com/chiupam
 
 # Say a few more words
 
--Fill in the name of the `filter subscription node` in the `alias` column, and name it according to the user's personal preference, but it is never allowed to be the same as the name of the `subscription node`, otherwise a loop error will occur
+- Fill in the name of the `filter subscription node` in the `alias` column, and name it according to the user's personal preference, but it is never allowed to be the same as the name of the `subscription node`, otherwise a loop error will occur
 
--This tutorial only allows users to filter subscription nodes. To allow the filter subscription nodes to function as an agent, the operation of `Russian doll` is required
+- This tutorial only allows users to filter subscription nodes. To allow the filter subscription nodes to function as an agent, the operation of `Russian doll` is required

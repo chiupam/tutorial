@@ -2,7 +2,7 @@
 
 Loon currently has only three kinds of script statements, namely `http-request`, `http-response` and `cron` statements. Xiaobai understands these three statements. For adding scripts through the UI or directly configuring and writing scripts in Loon The sentences have been greatly improved
 
--TF 2.1.13(199) update: Added network-changed type scripts, which will trigger scripts when the network environment changes, and add access to configuration and setting strategies, operating mode script APIs
+- TF 2.1.13(199) update: Added network-changed type scripts, which will trigger scripts when the network environment changes, and add access to configuration and setting strategies, operating mode script APIs
 
 ## `http-request` statement
 
@@ -14,19 +14,19 @@ http-request ^https?:\/\/(www.)?(example)\.com script-path=localscript.js,tag = 
 
 Dismantling:
 
- -`http-request` <===> fixed format, cannot be modified, indicating the type of statement
+ - `http-request` <===> fixed format, cannot be modified, indicating the type of statement
   
- -`^https?:\/\/(www.)?(example)\.com` <===> Execute the script when the regular expression matches the address, and cannot be modified
+ - `^https?:\/\/(www.)?(example)\.com` <===> Execute the script when the regular expression matches the address, and cannot be modified
   
- -`script-path=` <===> Fixed format, cannot be modified, followed by script path
+ - `script-path=` <===> Fixed format, cannot be modified, followed by script path
   
- -`localscript.js` <===> script path, it is recommended not to modify it during remote linking, select the script according to the actual situation in the local location
+ - `localscript.js` <===> script path, it is recommended not to modify it during remote linking, select the script according to the actual situation in the local location
   
- -`tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
+ - `tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
   
- -`requestScript` <===> Script name, which can be modified, just name it according to user's preference
+ - `requestScript` <===> Script name, which can be modified, just name it according to user's preference
   
- -ʻEnable=` <===> Script status, which can be modified and modified according to user needs, `=` followed by `true` to enable, and `false` to disable
+ - `Enable=` <===> Script status, which can be modified and modified according to user needs, `=` followed by `true` to enable, and `false` to disable
   
  understanding:
  
@@ -74,17 +74,17 @@ cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
 
 Dismantling:
 
- -`cron` <===> fixed format, cannot be modified, indicating the type of statement
+ - `cron` <===> fixed format, cannot be modified, indicating the type of statement
   
- -`"0 8 * * *"` <===> cron expression, script execution time, modify according to user needs, if you don’t know `cron expression`, please click [here](https://github. com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) Jump to the `Basic cron expression learning` tutorial
+ - `"0 8 * * *"` <===> cron expression, script execution time, modify according to user needs, if you don’t know `cron expression`, please click [here](https://github. com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) Jump to the `Basic cron expression learning` tutorial
   
- -`script-path=` <===> Fixed format, cannot be modified, followed by script path
+ - `script-path=` <===> Fixed format, cannot be modified, followed by script path
   
- -`tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
+ - `tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
   
- -`requestScript` <===> script name, just name it according to the user's personal preference
+ - `requestScript` <===> script name, just name it according to the user's personal preference
   
- -ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
+ - ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
   
 Xiaobai understands:
 
@@ -101,13 +101,13 @@ network-changed script-path=https://raw.githubusercontent.com/Loon0x00/LoonExamp
 
 Dismantling:
 
- -`network-changed` <===> fixed format, cannot be modified, indicating the type of statement
+ - `network-changed` <===> fixed format, cannot be modified, indicating the type of statement
   
- -`script-path=` <===> Fixed format, cannot be modified, followed by script path
+ - `script-path=` <===> Fixed format, cannot be modified, followed by script path
   
- -`tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
+ - `tag =` <===> Fixed format, cannot be modified, meaning: tag, that is, the user defines the name of the sentence
   
- -ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
+ - ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
   
 Xiaobai understands:
 

@@ -4,9 +4,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In layman’s terms, Loon automatically tests the delay of nodes in the ʻURL-Test` strategy group at intervals and automatically selects them for users Lowest latency node
 
--[TestFilght 2.14(215)](https://t.me/LoonNews/287) Update: Added tolerance parameter, used to compare the tolerance when switching nodes, the calculation method is as follows: the optimal node time in the previous speed measurement -Subtract the current speed measurement optimal node when the time is greater than tolerance, the node will be switched, the default is 100
+- [TestFilght 2.14(215)](https://t.me/LoonNews/287) Update: Added tolerance parameter, used to compare the tolerance when switching nodes, the calculation method is as follows: the optimal node time in the previous speed measurement -Subtract the current speed measurement optimal node when the time is greater than tolerance, the node will be switched, the default is 100
 
-  -In Loon's update instructions, the description of this part as "less than" is wrong, and correct should be "greater than"
+  - In Loon's update instructions, the description of this part as "less than" is wrong, and correct should be "greater than"
 
 ## 1. Enter `Strategy Group` to add a strategy group
 
@@ -56,12 +56,12 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 # Say a few more words
 
--The newly added ʻURL-Test` strategy group according to this tutorial has no substantive effect. It is necessary to nest the ʻURL-Test` strategy group as a sub-strategy group into the proxy parent strategy group to play a substantial role
+- The newly added ʻURL-Test` strategy group according to this tutorial has no substantive effect. It is necessary to nest the ʻURL-Test` strategy group as a sub-strategy group into the proxy parent strategy group to play a substantial role
 
--It must be noted that other sub-strategy groups cannot be nested under the URL-Test strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
+- It must be noted that other sub-strategy groups cannot be nested under the URL-Test strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
 
--When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
+- When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
 
--It is not allowed to have too many nodes in `Screening Subscription Nodes`, it is recommended to be less than `10`, otherwise it is easy to appear Loon warnings, even proxy server provider bans and other serious consequences
+- It is not allowed to have too many nodes in `Screening Subscription Nodes`, it is recommended to be less than `10`, otherwise it is easy to appear Loon warnings, even proxy server provider bans and other serious consequences
 
--If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions
+- If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions

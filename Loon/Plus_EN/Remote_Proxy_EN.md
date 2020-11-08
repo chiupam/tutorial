@@ -28,6 +28,6 @@
 
 # Say a few more words
 
--Important reminder: Fill in the name of the server provider in the `Alias` column and cannot be the same as the name of `Filter subscription node` or `Policy group`! ! !
+- Important reminder: Fill in the name of the server provider in the `Alias` column and cannot be the same as the name of `Filter subscription node` or `Policy group`! ! !
 
--This method of subscribing to nodes generally adds more nodes. It is recommended to use the following function of `filter subscription nodes` to filter the required nodes
+- This method of subscribing to nodes generally adds more nodes. It is recommended to use the following function of `filter subscription nodes` to filter the required nodes

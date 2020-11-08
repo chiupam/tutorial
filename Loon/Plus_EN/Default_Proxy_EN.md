@@ -16,4 +16,4 @@ In fact, it is the operation method in the `Nesting between Nodes and Policy Gro
 
 # Say a few more words
 
--`Policy group`, `Subscription node` and `Filter subscription node` The names of the three are not allowed to have the same name, users need to pay attention
+- `Policy group`, `Subscription node` and `Filter subscription node` The names of the three are not allowed to have the same name, users need to pay attention

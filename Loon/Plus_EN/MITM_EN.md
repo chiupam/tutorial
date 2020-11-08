@@ -8,8 +8,8 @@
 
 # Say a few more words
 
--Portal
+- Portal
 
-  -[CA Certificate](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA_EN.md)
+ - [CA Certificate](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA_EN.md)
 
-  -[hostname](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname_EN.md)
+ - [hostname](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname_EN.md)

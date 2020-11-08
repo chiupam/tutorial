@@ -4,13 +4,13 @@
 
 ## 1. Requirements for URL format and content
 
--Requirements for URL format
+- Requirements for URL format
 
-  -For files uploaded to the github library, the subscription address URL must start with `http://raw`
+  - For files uploaded to the github library, the subscription address URL must start with `http://raw`
   
--Requirements for URL content
+- Requirements for URL content
 
-  -Must have a Loon configuration file format, currently supports `[Rule]`, `[URL Rewrite]`, `[Script]`, `[MITM]` modules for the time being, and more modules will be expanded later
+  - Must have a Loon configuration file format, currently supports `[Rule]`, `[URL Rewrite]`, `[Script]`, `[MITM]` modules for the time being, and more modules will be expanded later
   
 ## 2. URL content demonstration
 
@@ -52,6 +52,6 @@ https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Plugin_Example.conf
 
 # Say a few more words
 
--Although the `[Script]` module is supported, it is not recommended to write the script configuration code of the **check-in script** into the plug-in file, because adding scripts in this way does not allow users to modify the script execution time
+- Although the `[Script]` module is supported, it is not recommended to write the script configuration code of the **check-in script** into the plug-in file, because adding scripts in this way does not allow users to modify the script execution time
 
--It is recommended to write script configuration code similar to `Jingdong, Taobao historical price script` into the plug-in file, because such scripts will not have pop-up reminders, and there is no need to modify the execution time
+- It is recommended to write script configuration code similar to `Jingdong, Taobao historical price script` into the plug-in file, because such scripts will not have pop-up reminders, and there is no need to modify the execution time

@@ -14,22 +14,22 @@ https?://(www.)?g.cn https://www.google.com 302
 
 ## Support type
 
--header
+- header
 
-   -The matching host field in the request header will be replaced by the replacement content
+   - The matching host field in the request header will be replaced by the replacement content
 
--reject
+- reject
 
-   -Directly reject the request
+   - Directly reject the request
 
--302
+- 302
   
-   -Return 302 response
+   - Return 302 response
 
--307
+- 307
 
-   -Return 307 response
+   - Return 307 response
 
 # Reference
 
--[LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)

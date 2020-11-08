@@ -22,8 +22,8 @@ Correctly identifying the `mother strategy group` will help a lot to understand 
 
 # Say a few more words
 
--Except for `DIRECT` and `REJECT`, the reason is: Loon has built-in `DIRECT` and `REJECT` strategy groups, so it is impossible to have a strategy named `DIRECT` or `REJECT` in the `Strategy Group` panel group
+- Except for `DIRECT` and `REJECT`, the reason is: Loon has built-in `DIRECT` and `REJECT` strategy groups, so it is impossible to have a strategy named `DIRECT` or `REJECT` in the `Strategy Group` panel group
 
--A strategy group named `DIRECT` or `REJECT` with a special font can appear, for example a strategy group named `𝐃𝐈𝐑𝐄𝐂𝐓`
+- A strategy group named `DIRECT` or `REJECT` with a special font can appear, for example a strategy group named `𝐃𝐈𝐑𝐄𝐂𝐓`
 
--`Subscription rules` can only select a strategy group as a `parent strategy group`, not a `child strategy group`, but the `parent strategy group` is nested in other `parent strategy groups` to become a `child strategy group' `Outside the case
+- `Subscription rules` can only select a strategy group as a `parent strategy group`, not a `child strategy group`, but the `parent strategy group` is nested in other `parent strategy groups` to become a `child strategy group' `Outside the case

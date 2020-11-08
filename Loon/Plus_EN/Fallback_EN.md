@@ -46,12 +46,12 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 # Say a few more words
 
--The newly added `Fallback` strategy group according to this tutorial has no substantive effect, and the `Fallback` strategy group needs to be nested as a sub-strategy group into the surrogate parent strategy group to play a substantive effect
+- The newly added `Fallback` strategy group according to this tutorial has no substantive effect, and the `Fallback` strategy group needs to be nested as a sub-strategy group into the surrogate parent strategy group to play a substantive effect
 
--It must be noted that other sub-strategy groups cannot be nested under the `Fallback` strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
+- It must be noted that other sub-strategy groups cannot be nested under the `Fallback` strategy group, because the strategy group is not a node, and the strategy group does not delay testing.
 
--When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
+- When adding a proxy node, it is strictly forbidden to select from the list of `subscribe nodes`, otherwise there will be a Loon warning, or even a proxy server provider’s ban.
 
--It is not allowed to have too many nodes in `Filtering Subscription Nodes`, it is recommended to be less than `5`, otherwise it is prone to Loon warnings and even proxy server provider bans and other serious consequences
+- It is not allowed to have too many nodes in `Filtering Subscription Nodes`, it is recommended to be less than `5`, otherwise it is prone to Loon warnings and even proxy server provider bans and other serious consequences
 
--If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions
+- If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions

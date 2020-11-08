@@ -4,15 +4,15 @@
 
 ## Two ways to open text editing
 
--The first method: Open Loon and click the `Configuration` column below, and click `Text Edit`
+- The first method: Open Loon and click the `Configuration` column below, and click `Text Edit`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_UI.jpg)
 
--The second method: Open Loon and find the shortcut of `Profile`, click the card of `Profile`
+- The second method: Open Loon and find the shortcut of `Profile`, click the card of `Profile`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_Module.jpg)
 
-  -If you can't find the shortcut of `Configuration File`, please see the next tutorial
+  - If you can't find the shortcut of `Configuration File`, please see the next tutorial
   
 ## Add shortcut of `profile` to Loon `instrument` bar
 

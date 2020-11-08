@@ -38,4 +38,4 @@
 
 # Say a few more words
 
--For the relationship between `parent strategy group` and `child strategy group`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md) to jump to details
+- For the relationship between `parent strategy group` and `child strategy group`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md) to jump to details

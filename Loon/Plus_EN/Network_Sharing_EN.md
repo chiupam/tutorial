@@ -10,19 +10,19 @@ A: It can be achieved through the `Network Sharing` function.
 
 ## Necessary conditions for enabling this feature
 
--A device (the device that has downloaded Loon)
+- A device (the device that has downloaded Loon)
 
-  -Personal hotspot must be turned off in the settings
+  - Personal hotspot must be turned off in the settings
 
-  -The wireless LAN/Wi-Fi function must be turned on and connected to a Wi-Fi
+  - The wireless LAN/Wi-Fi function must be turned on and connected to a Wi-Fi
   
-  -The `Network Sharing` function must be turned on in Loon
+  - The `Network Sharing` function must be turned on in Loon
   
--B device (the device that did not download Loon)
+- B device (the device that did not download Loon)
 
-  -The wireless LAN/Wi-Fi function must be turned on and connected to the same Wi-Fi as the A device
+  - The wireless LAN/Wi-Fi function must be turned on and connected to the same Wi-Fi as the A device
   
-  -Manually set the HTTP proxy configuration
+  - Manually set the HTTP proxy configuration
   
 ## 1. Add the shortcut of `Network Sharing` to Loon's `Instrument` bar interface
 
@@ -118,18 +118,18 @@ A: It can be achieved through the `Network Sharing` function.
 
 # Say a few more words
 
--Device A turns on the hotspot to device B, and then uses network sharing on device A to connect to device B scientifically. This will not work!
+- Device A turns on the hotspot to device B, and then uses network sharing on device A to connect to device B scientifically. This will not work!
 
-  -[Questions from enthusiastic netizens](https://t.me/Loon0x00/481366)
+  - [Questions from enthusiastic netizens](https://t.me/Loon0x00/481366)
 
--MacBook users are asked to find out the tutorial for setting up the proxy for the notebook by themselves. This tutorial will not go into details
+- MacBook users are asked to find out the tutorial for setting up the proxy for the notebook by themselves. This tutorial will not go into details
 
--The reason that the user is required to perform the first step is that there is no `Network Sharing` UI in the `Configuration` column of Loon. Currently, the `Network Sharing` function can only be enabled in the following two ways
+- The reason that the user is required to perform the first step is that there is no `Network Sharing` UI in the `Configuration` column of Loon. Currently, the `Network Sharing` function can only be enabled in the following two ways
 
-  -`Network Sharing` card
+  - `Network Sharing` card
   
-  -Write relevant code in `text configuration` (this method is obsolete)
+  - Write relevant code in `text configuration` (this method is obsolete)
 
--For device A, after turning on the `Network Sharing` function, there will be a `⛔️` emoticon pack under the `Network Sharing` card, please turn on the wireless LAN / Wi-Fi function and connect to a Wi-Fi
+- For device A, after turning on the `Network Sharing` function, there will be a `⛔️` emoticon pack under the `Network Sharing` card, please turn on the wireless LAN / Wi-Fi function and connect to a Wi-Fi
 
--For device B, you cannot use this function to achieve scientific Internet access on some APPs. It may be that this type of APP uses `SOCKET5 proxy`. Please manually configure the SOCKET5 proxy server and port in the settings of this type of APP.
+- For device B, you cannot use this function to achieve scientific Internet access on some APPs. It may be that this type of APP uses `SOCKET5 proxy`. Please manually configure the SOCKET5 proxy server and port in the settings of this type of APP.

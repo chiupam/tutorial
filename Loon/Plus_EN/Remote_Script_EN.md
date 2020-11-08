@@ -34,16 +34,16 @@
 
 # Say a few more words
 
--If there is an error in the script statement in the URL content, Loon will not read this statement, but skip it directly
+- If there is an error in the script statement in the URL content, Loon will not read this statement, but skip it directly
 
--Personally think that subscribing to only one script in the subscription script will seem a bit tossing oneself
+- Personally think that subscribing to only one script in the subscription script will seem a bit tossing oneself
 
-  -For example: [Wrong way to subscribe script](https://t.me/Loon0x00/350684)
+  - For example: [Wrong way to subscribe script](https://t.me/Loon0x00/350684)
   
 # Thanks
 
--[NobyDa](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+- [NobyDa](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
 
--[lxk0301](https://github.com/lxk0301/scripts/blob/master/jd_fruit.js)
+- [lxk0301](https://github.com/lxk0301/scripts/blob/master/jd_fruit.js)
 
--[chavyleung](https://github.com/chavyleung/scripts/tree/master/wmmeituan)
+- [chavyleung](https://github.com/chavyleung/scripts/tree/master/wmmeituan)

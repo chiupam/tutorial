@@ -14,17 +14,17 @@
 
 **If the user does not understand the three script statement formats, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format_EN.md) to jump to `Getting Started—— How to understand the necessary format of the three script statements `Tutorial**
 
--Items and locations that users cannot modify by themselves
+- Items and locations that users cannot modify by themselves
 
-  -`http-request` <===> script type
+  - `http-request` <===> script type
 
-  -`https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean` <===> expression
+  - `https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean` <===> expression
   
-  -`https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js` <===> Script remote link
+  - `https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js` <===> Script remote link
 
--User can modify the items and fill in the location
+- User can modify the items and fill in the location
 
-  -`Get Jingdong cookie` <===> alias
+  - `Get Jingdong cookie` <===> alias
 
 ## Add script via UI
 
@@ -72,4 +72,4 @@
 
 # Say a few more words
 
--It is more recommended to use this method to add a single script, because the content of the script file in the remote link is modified, and the user can experience the new features brought by the script for the first time
+- It is more recommended to use this method to add a single script, because the content of the script file in the remote link is modified, and the user can experience the new features brought by the script for the first time

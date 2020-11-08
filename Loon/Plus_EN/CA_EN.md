@@ -80,6 +80,6 @@
 
 # Say a few more words
 
--The number after the certificate is very important, users need to check it accurately, and whether there is a word "installed but not trusted by the system". To determine if the user needs to **reinstall the certificate** or **trust the certificate**
+- The number after the certificate is very important, users need to check it accurately, and whether there is a word "installed but not trusted by the system". To determine if the user needs to **reinstall the certificate** or **trust the certificate**
 
--The time of making the tutorial is 1 am, so the certificate numbers in most screenshots in the tutorial are not strictly the same. The user needs to determine whether to perform the operation of **reinstalling the certificate** or **trusting the certificate** according to the actual situation.
+- The time of making the tutorial is 1 am, so the certificate numbers in most screenshots in the tutorial are not strictly the same. The user needs to determine whether to perform the operation of **reinstalling the certificate** or **trusting the certificate** according to the actual situation.

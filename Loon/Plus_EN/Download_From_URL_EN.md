@@ -4,21 +4,21 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Please note that this tutorial is only suitable for users with the following types of needs**
 
--The script requires the user to **fill in information**
+- The script requires the user to **fill in information**
 
--Users are fond of using **local script path**
+- Users are fond of using **local script path**
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If you are not the user with the above requirements, please do not continue browsing, after all, the user’s time is also precious
 
 ## Two necessary conditions for using this function
 
--URL requirements
+- URL requirements
 
-  -URLs starting with `http://raw.` and suffixed with `.js`
+  - URLs starting with `http://raw.` and suffixed with `.js`
 
--Requirements for Loon
+- Requirements for Loon
 
-  -Automatic synchronization must be turned on in Loon >>> `More` >>> ʻiCloud Drive`
+  - Automatic synchronization must be turned on in Loon >>> `More` >>> ʻiCloud Drive`
 
 ## Steps
 
@@ -72,6 +72,6 @@
 
 # Say a few more words
 
--The first case is relatively rare at present, because script developers are actively cooperating with `BoxJs` to use scripts that require users to **fill in data types**
+- The first case is relatively rare at present, because script developers are actively cooperating with `BoxJs` to use scripts that require users to **fill in data types**
 
--I personally think that the second type of users is just a joke.
+- I personally think that the second type of users is just a joke.

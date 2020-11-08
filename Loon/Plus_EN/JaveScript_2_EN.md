@@ -2,9 +2,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Finally came the most urgent tutorial for novice users. This tutorial uses two scripts as examples
 
--The configuration is written in the `script file`: Jingtokyo bean sign-in script
+- The configuration is written in the `script file`: Jingtokyo bean sign-in script
 
--The configuration is written in the `REAMED.md` file: Taobao historical price script
+- The configuration is written in the `REAMED.md` file: Taobao historical price script
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) This allows users to learn how to manually add any scripts they want to add in Loon
 
@@ -87,10 +87,10 @@
 
 # Say a few more words
 
--The configuration methods are as described above. If there are other APP or web operations in the script description, please follow the script description.
+- The configuration methods are as described above. If there are other APP or web operations in the script description, please follow the script description.
 
 # Thanks
 
--[NobyDa](https://github.com/NobyDa)
+- [NobyDa](https://github.com/NobyDa)
 
--[yichahucha](https://github.com/yichahucha)
+- [yichahucha](https://github.com/yichahucha)

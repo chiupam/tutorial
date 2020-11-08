@@ -6,9 +6,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Loon's built-in ssid strategy group nesting is difficult to understand. This tutorial requires users to understand the role of rules and proxy strategies Group concept, tutorial link is provided below
 
--[What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary_EN.md)
+- [What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary_EN.md)
 
--[Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy_EN.md)
+- [Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy_EN.md)
 
 ## Steps
 
@@ -112,16 +112,16 @@ The operation steps are divided into two steps. The first step is to create a ne
 
 ## Say a few more words
 
--Analyze:
+- Analyze:
 
-  -The proxy policy group is selected in `default` because when the user connects to a WiFi that is not set to and does not have a router to support the wall, Loon still needs to use the split mode, otherwise the user cannot proxy
+  - The proxy policy group is selected in `default` because when the user connects to a WiFi that is not set to and does not have a router to support the wall, Loon still needs to use the split mode, otherwise the user cannot proxy
   
-  -The `Global` subscription rule is a rule that requires an agent to be able to access successfully, so every subscription rule that needs to use an agent node needs to perform the second step, otherwise it may not have the effect that the user wants
+  - The `Global` subscription rule is a rule that requires an agent to be able to access successfully, so every subscription rule that needs to use an agent node needs to perform the second step, otherwise it may not have the effect that the user wants
   
-  -In the lazy configuration text, the name of the proxy policy group will generally be named Proxy
+  - In the lazy configuration text, the name of the proxy policy group will generally be named Proxy
   
-  -If the user uses customized configuration text, please select the proxy policy group according to your own situation
+  - If the user uses customized configuration text, please select the proxy policy group according to your own situation
 
--If the user wants to set up some APP, such as YouTube, when using the router to support the wall, the method is similar, except that the rule selected in the second step is the YouTube subscription rule
+- If the user wants to set up some APP, such as YouTube, when using the router to support the wall, the method is similar, except that the rule selected in the second step is the YouTube subscription rule
 
--If the policy group under the subscription rule is DIRECT (direct connection) or REJECT (reject), do not proceed to the second step. The reason is: For example, when users in mainland China use WeChat, they will never use proxy nodes, right?
+- If the policy group under the subscription rule is DIRECT (direct connection) or REJECT (reject), do not proceed to the second step. The reason is: For example, when users in mainland China use WeChat, they will never use proxy nodes, right?

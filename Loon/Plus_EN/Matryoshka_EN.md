@@ -6,9 +6,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) This tutorial only allows users to nest between policy groups and policy groups, if you want Loon to use nodes in the sub-policy group , The parent policy group and the child policy group need to be nested correctly. The two correct examples are as follows:
 
--Subscription Rules >>> Parent Policy Group >>> Child Policy Group >>> Subscription Node/Filter Subscription Node
+- Subscription Rules >>> Parent Policy Group >>> Child Policy Group >>> Subscription Node/Filter Subscription Node
 
--Subscription rules >>> parent policy group >>> child policy group >>> secondary child policy group >>> subscription node/filter subscription node
+- Subscription rules >>> parent policy group >>> child policy group >>> secondary child policy group >>> subscription node/filter subscription node
 
 ## Step
 
@@ -44,6 +44,6 @@
 
 # Say a few more words
 
--In order to fully understand the steps of `Correct Nesting Demonstration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md) Learn` to distinguish between parent policy group and child policy group correctly Strategy Group`
+- In order to fully understand the steps of `Correct Nesting Demonstration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md) Learn` to distinguish between parent policy group and child policy group correctly Strategy Group`
 
--The `policy type` in the nesting between policy groups only allows the selection of `select`
+- The `policy type` in the nesting between policy groups only allows the selection of `select`

@@ -8,9 +8,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Modify the script settings in the `local script` interface. Through the combination, it can be concluded that there are six combinations. The operation is similar, this tutorial only describes two combinations
 
--Modify the alias, regular expression and script location of the script type to http-request/http-response
+- Modify the alias, regular expression and script location of the script type to http-request/http-response
 
--Modify the alias, expression and script location of the script type to cron
+- Modify the alias, expression and script location of the script type to cron
 
 ## Modify the regular expression of the script type as http-request/http-response and the script location
 
@@ -50,4 +50,4 @@
 
 # Say a few more words
 
--Because there is too much information for modification here, this tutorial will not repeat it. Users can study the script sentence format by themselves to clarify what information should be modified. For users who are not clear about the script format, please click [here](https: //github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) Jump to the `Getting Started-How to Understand the Essential Formats of Three Script Statements` tutorial
+- Because there is too much information for modification here, this tutorial will not repeat it. Users can study the script sentence format by themselves to clarify what information should be modified. For users who are not clear about the script format, please click [here](https: //github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) Jump to the `Getting Started-How to Understand the Essential Formats of Three Script Statements` tutorial

@@ -79,10 +79,10 @@ Users can add a self-built server through the `single node` button. A node repre
 
 # Say a few more words
 
--Due to different protocols, users need to write the configuration by themselves, this tutorial will not describe in detail
+- Due to different protocols, users need to write the configuration by themselves, this tutorial will not describe in detail
 
 # Reference
 
--[Loon Incomplete Tutorial-Node Import](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
+- [Loon Incomplete Tutorial-Node Import](https://www.notion.so/1-9809ce5acf524d868affee8dd5fc0a6e#d8572e22c34e483589a445b174eec2bb)
 
--[LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
+- [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)

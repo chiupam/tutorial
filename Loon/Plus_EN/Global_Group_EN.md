@@ -28,4 +28,4 @@
 
 # Say a few more words
 
--The strategy group with `subscription node` or `filter subscription node` nested in the strategy group is called `agent strategy group`
+- The strategy group with `subscription node` or `filter subscription node` nested in the strategy group is called `agent strategy group`

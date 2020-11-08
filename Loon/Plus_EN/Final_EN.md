@@ -20,33 +20,33 @@
 
 `FIANL` is a necessary format requirement in Loon configuration, while `Fianl` is actually a strategy, and `Final` can be replaced with
 
--`DIRECT`
+- `DIRECT`
 
--~~REJECT~~ (It is indeed possible to write this, but it is tossing users, so it is not recommended)
+- ~~REJECT~~ (It is indeed possible to write this, but it is tossing users, so it is not recommended)
 
--`Agent Strategy Group`
+- `Agent Strategy Group`
 
--`Mother Strategy Group`
+- `Mother Strategy Group`
 
 ## Understanding of the three situations of replacement
 
--`DIRECT`
+- `DIRECT`
 
-  -That is, if the local rules and subscription rules are not matched, the direct connection strategy is used for the network request initiated by the user
+  - That is, if the local rules and subscription rules are not matched, the direct connection strategy is used for the network request initiated by the user
   
-  -For example: `FINAL,DIRECT` <===> directly select direct access
+  - For example: `FINAL,DIRECT` <===> directly select direct access
   
--`Agent Strategy Group`
+- `Agent Strategy Group`
 
-  -That is, if the local rules and subscription rules are not matched, use the `proxy node` for the network request initiated by the user
+  - That is, if the local rules and subscription rules are not matched, use the `proxy node` for the network request initiated by the user
   
-  -For example: `FINAL, manual selection` <===> Manual selection >>> Proxy node (here, `manual selection` is just an example name, in fact, the proxy policy group name and node are set according to the user's needs)
+  - For example: `FINAL, manual selection` <===> Manual selection >>> Proxy node (here, `manual selection` is just an example name, in fact, the proxy policy group name and node are set according to the user's needs)
   
--`Mother Strategy Group`
+- `Mother Strategy Group`
 
-  -That is, if the local rules and subscription rules do not match, the network request initiated by the user requires the user to choose
+  - That is, if the local rules and subscription rules do not match, the network request initiated by the user requires the user to choose
   
-  -For example: `FINAL,Final` <===> Final >>> DIRECT / Proxy (here `Fianl` is just an example name of the strategy group, in fact the name of the strategy group is set according to the user's needs)
+  - For example: `FINAL,Final` <===> Final >>> DIRECT / Proxy (here `Fianl` is just an example name of the strategy group, in fact the name of the strategy group is set according to the user's needs)
   
 ## Deep understanding of the third situation
 
@@ -56,10 +56,10 @@ When the configuration says `FINAL,Final`, the following types of `parent policy
 
 As shown in the figure above, the user needs to manually preset the strategy to go when a fish slipping through the net appears. If the user chooses
 
--`DIRECT` built-in strategy group, namely directly select direct access
+- `DIRECT` built-in strategy group, namely directly select direct access
 
--`Proxy` parent policy group, the nesting situation is: Proxy >>> manually select >>> proxy node, that is, use proxy node to access
+- `Proxy` parent policy group, the nesting situation is: Proxy >>> manually select >>> proxy node, that is, use proxy node to access
 
 # Reference
 
--[Mind Map](https://t.me/Loon0x00/350927) from enthusiastic netizens, to understand the specific direction of the rules logically
+- [Mind Map](https://t.me/Loon0x00/350927) from enthusiastic netizens, to understand the specific direction of the rules logically

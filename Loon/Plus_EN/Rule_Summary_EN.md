@@ -6,7 +6,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Because when using proxy software, the user does not need to go through the proxy node to access the website inside the firewall, and when the user tries to access outside the firewall When you need to go through a proxy node to access
 
-   -For example, users in Mainland China who directly connect to `www.baidu.com` will succeed, but will fail if they directly connect to `www.google.com`, but after setting the rules, using proxy nodes to access `www.google.com` will succeed
+   - For example, users in Mainland China who directly connect to `www.baidu.com` will succeed, but will fail if they directly connect to `www.google.com`, but after setting the rules, using proxy nodes to access `www.google.com` will succeed
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In the `auto-distribution` mode, in order for Loon to use proxy nodes on demand, rules must be set for Loon
 
@@ -14,7 +14,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The rule is divided into three parts, namely: match type, match content, and strategy name
 
-   -Such as: `DOMAIN-SUFFIX,twimg.com,PROXY`
+   - Such as: `DOMAIN-SUFFIX,twimg.com,PROXY`
 
 ## Match type
 
@@ -47,8 +47,8 @@ It means that the user initiates an access request to `www.google.com`, and the 
 
 # Say a few more words
 
--Bottom matching, FINAL rule, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final_EN.md) to jump to the `Final rule` tutorial
+- Bottom matching, FINAL rule, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final_EN.md) to jump to the `Final rule` tutorial
 
 # Reference
 
--[Loon Incomplete Tutorial-Rules-Rule](https://www.notion.so/2-967c1a07462c43ab88906162bec475a4)
+- [Loon Incomplete Tutorial-Rules-Rule](https://www.notion.so/2-967c1a07462c43ab88906162bec475a4)
