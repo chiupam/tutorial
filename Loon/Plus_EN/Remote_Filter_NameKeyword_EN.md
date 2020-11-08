@@ -6,7 +6,7 @@
 
 ## One, subscribe node
 
-If there is no subscription node, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md) to jump to the `subscription node` tutorial
+If there is no subscription node, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_EN.md) to jump to the `subscription node` tutorial
 
 ## Two, filter subscription nodes
 

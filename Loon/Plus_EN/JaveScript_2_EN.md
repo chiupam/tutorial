@@ -14,7 +14,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) as shown in the figure below, where `[Script]` means that the user needs to be in the Loon configuration file by himself`[Script] Write the relevant code under `, if you don’t know how to open Loon `Configuration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) to jump to `Text Editing` Tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) as shown in the figure below, where `[Script]` means that the user needs to be in the Loon configuration file by himself`[Script] Write the relevant code under `, if you don’t know how to open Loon `Configuration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration_EN.md) to jump to `Text Editing` Tutorial
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2.jpg)
 
@@ -57,7 +57,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) as shown in the figure below, where `[Script]` means that the user needs to be in the Loon configuration file by himself`[Script] Write the relevant code under `, if you don’t know how to open Loon `Configuration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) to jump to `Text Editing` Tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) as shown in the figure below, where `[Script]` means that the user needs to be in the Loon configuration file by himself`[Script] Write the relevant code under `, if you don’t know how to open Loon `Configuration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration_EN.md) to jump to `Text Editing` Tutorial
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_2_2_4.jpg)
 

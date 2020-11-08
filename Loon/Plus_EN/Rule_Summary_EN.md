@@ -47,7 +47,7 @@ It means that the user initiates an access request to `www.google.com`, and the 
 
 # Say a few more words
 
--Bottom matching, FINAL rule, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md) to jump to the `Final rule` tutorial
+-Bottom matching, FINAL rule, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final_EN.md) to jump to the `Final rule` tutorial
 
 # Reference
 

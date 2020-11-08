@@ -4,7 +4,7 @@
 
 ## Download script file from URL to icloud/Loon/Script
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ Download_From_URL.md) Jump to the `Add script file-download from URL` tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ Download_From_URL_EN.md) Jump to the `Add script file-download from URL` tutorial
 
 ## Fully understand the configuration code in the script file
 
@@ -16,7 +16,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Disassemble this configuration code according to the three script statement formats, ** clarify where you can modify and where you cannot. modify**
 
-**If the user does not understand the three script statement formats, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) to jump to `Getting Started—— How to understand the necessary format of the three script statements `Tutorial**
+**If the user does not understand the three script statement formats, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format_EN.md) to jump to `Getting Started—— How to understand the necessary format of the three script statements `Tutorial**
 
 -Items and locations that users cannot modify by themselves
 
@@ -80,4 +80,4 @@
 
 -Loon is an open remote script link. If users do not need to modify the code in the script file, it is highly recommended to learn the `Add remote link script` tutorial and use the `Add remote link script` function, please click [here](https://github .com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md) Jump to the `Add remote link script` tutorial
 
--Again, the premise of this tutorial is that the user needs to download the script to the icloud/Loon/Script folder through the `download from URL` function in advance and enable the `automatic synchronization` function in Loon. If the user has not done this step yet, Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) to jump to the `Add script file-download from URL` tutorial
+-Again, the premise of this tutorial is that the user needs to download the script to the icloud/Loon/Script folder through the `download from URL` function in advance and enable the `automatic synchronization` function in Loon. If the user has not done this step yet, Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL_EN.md) to jump to the `Add script file-download from URL` tutorial

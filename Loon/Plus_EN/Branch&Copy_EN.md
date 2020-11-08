@@ -36,7 +36,7 @@
 
 # Say a few more words
 
--If you don’t know `cron expression`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) to jump to `Basic cron expression learning `Tutorial
+-If you don’t know `cron expression`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron_EN.md) to jump to `Basic cron expression learning `Tutorial
 
 # Thanks
 

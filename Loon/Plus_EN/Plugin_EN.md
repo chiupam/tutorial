@@ -16,7 +16,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Plugin_1.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Paste the correct URL link obtained by the user in the ʻURL` field. If the user is not sure how to obtain it, please click [here] (https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md) Jump to the `Add plug-in URL requirements and content format requirements` tutorial and see the fourth step
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Paste the correct URL link obtained by the user in the ʻURL` field. If the user is not sure how to obtain it, please click [here] (https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format_EN.md) Jump to the `Add plug-in URL requirements and content format requirements` tutorial and see the fourth step
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Plugin_2.jpg)
 

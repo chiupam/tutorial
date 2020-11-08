@@ -12,7 +12,7 @@ Proxy policy group, that is, the policy group nested in the policy group `subscr
 
 ## Add a `Proxy Policy Group`
 
-In fact, it is the operation method in the `Nesting between Nodes and Policy Groups` tutorial, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md) Jump to the `Nesting between nodes and policy groups` tutorial
+In fact, it is the operation method in the `Nesting between Nodes and Policy Groups` tutorial, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_EN.md) Jump to the `Nesting between nodes and policy groups` tutorial
 
 # Say a few more words
 

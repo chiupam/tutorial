@@ -1,8 +1,8 @@
 # Add rule
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Manually add a local rule through the UI. Note that this is a rule. If users need to add rules in batches, please use `Subscribe Rules` function, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md) to jump to the `Subscription Rules` tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Manually add a local rule through the UI. Note that this is a rule. If users need to add rules in batches, please use `Subscribe Rules` function, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule_EN.md) to jump to the `Subscription Rules` tutorial
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If users still don’t know what a rule is, what is the format of the rule, and can’t understand the format of the rule, please click [here] (https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md) Jump to the `What is a rule` tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If users still don’t know what a rule is, what is the format of the rule, and can’t understand the format of the rule, please click [here] (https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary_EN.md) Jump to the `What is a rule` tutorial
 
 ## Steps
 

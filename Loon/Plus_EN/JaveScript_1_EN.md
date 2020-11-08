@@ -88,9 +88,9 @@ Currently, there are mainly the following script developers sorted out, in no pa
 
 # Say a few more words
 
--If the user does not know what a script statement is, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) to jump to `Getting Started-How to understand The necessary format of three script statements` tutorial
+-If the user does not know what a script statement is, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format_EN.md) to jump to `Getting Started-How to understand The necessary format of three script statements` tutorial
 
--After reading this tutorial, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) to jump to `Intermediate-How to write script configuration code Enter into Loon to play a role` tutorial, officially enter the relevant position in the Loon configuration file to write the relevant code of the script configuration
+-After reading this tutorial, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2_EN.md) to jump to `Intermediate-How to write script configuration code Enter into Loon to play a role` tutorial, officially enter the relevant position in the Loon configuration file to write the relevant code of the script configuration
 
 -For sign-in scripts, the user needs to add a `cron` statement under `[Script]`, or add it to the configuration through the UI, only if the user is **definite, affirmative, necessary, necessary**, this script will execute the sign-in task
 

@@ -12,7 +12,7 @@
 
 ## Step
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If you want the `manual selection` policy group to be nested under the `Proxy` policy group, that is, `Proxy` >>> `Manual selection`, if the user has not created a `Proxy` policy group, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) to jump to `New Strategy Group` Tutorial
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) If you want the `manual selection` policy group to be nested under the `Proxy` policy group, that is, `Proxy` >>> `Manual selection`, if the user has not created a `Proxy` policy group, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group_EN.md) to jump to `New Strategy Group` Tutorial
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Strategy Group`
 
@@ -44,6 +44,6 @@
 
 # Say a few more words
 
--In order to fully understand the steps of `Correct Nesting Demonstration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md) Learn` to distinguish between parent policy group and child policy group correctly Strategy Group`
+-In order to fully understand the steps of `Correct Nesting Demonstration`, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md) Learn` to distinguish between parent policy group and child policy group correctly Strategy Group`
 
 -The `policy type` in the nesting between policy groups only allows the selection of `select`

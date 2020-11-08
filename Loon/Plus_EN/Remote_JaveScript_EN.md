@@ -12,7 +12,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Disassemble this configuration code according to the three script statement formats, ** clarify where you can modify and where you cannot. modify**
 
-**If the user does not understand the three script statement formats, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) to jump to `Getting Started—— How to understand the necessary format of the three script statements `Tutorial**
+**If the user does not understand the three script statement formats, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format_EN.md) to jump to `Getting Started—— How to understand the necessary format of the three script statements `Tutorial**
 
 -Items and locations that users cannot modify by themselves
 

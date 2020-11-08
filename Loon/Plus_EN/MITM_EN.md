@@ -16,6 +16,6 @@
 
 -Portal
 
-  -[CA Certificate](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA.md)
+  -[CA Certificate](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA_EN.md)
 
-  -[hostname](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)
+  -[hostname](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname_EN.md)

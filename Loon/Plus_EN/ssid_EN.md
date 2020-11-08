@@ -6,9 +6,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Loon's built-in ssid strategy group nesting is difficult to understand. This tutorial requires users to understand the role of rules and proxy strategies Group concept, tutorial link is provided below
 
--[What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md)
+-[What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary_EN.md)
 
--[Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)
+-[Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy_EN.md)
 
 ## Steps
 

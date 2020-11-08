@@ -26,19 +26,19 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
 #### Node
 
-- [Single node](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Proxy.md) (add proxy node manually)
+- [Single node](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Proxy_EN.md) (add proxy node manually)
 
-- [Subscription Node](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md) (subscribe to a collection of nodes, usually provided by the airport the user purchased)
+- [Subscription Node](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_EN.md) (subscribe to a collection of nodes, usually provided by the airport the user purchased)
 
 - Screening subscription nodes (screening subscription nodes into proxy nodes that users need, reducing too many proxy nodes to appear in the policy group, and making it easy for users to choose the proxy nodes they need)
 
-  - [Regular expression](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex.md) (Master the basic regular expression writing)
+  - [Regular expression](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) (Master the basic regular expression writing)
 
-  - [Filter method with filter type `NodeSelect`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NodeSelect.md) (manually filter nodes)
+  - [Filter method with filter type `NodeSelect`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NodeSelect_EN.md) (manually filter nodes)
   
-  - [Filtering method with the filter type `NameKeyword`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NameKeyword.md) (Use keywords to filter subscription nodes, but nodes cannot be excluded)
+  - [Filtering method with the filter type `NameKeyword`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_NameKeyword_EN.md) (Use keywords to filter subscription nodes, but nodes cannot be excluded)
 
-  - [Filter method with filter type `NameRegex`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter.md) (Use regular expression to filter subscription nodes)
+  - [Filter method with filter type `NameRegex`](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Filter_EN.md) (Use regular expression to filter subscription nodes)
 
 - Use Sub-Store to filter subscription nodes (simple, efficient and convenient)
 
@@ -46,125 +46,125 @@ The purpose is to improve the user's ability to customize the Loon configuration
 
   - [Video Tutorial](https://www.youtube.com/watch?v=VXlQ4kDgqSE&t=171s)
 
-- [Nesting between node and policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md) (add proxy node under the policy group)
+- [Nesting between node and policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_EN.md) (add proxy node under the policy group)
 
 #### Strategy
 
 - Loon without default proxy policy group
 
-  - [Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md) (Understand the proxy policy group, with [understanding of global policy](https:// github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) tutorial)
+  - [Proxy Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy_EN.md) (Understand the proxy policy group, with [understanding of global policy](https:// github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) tutorial)
 
-  - [Understanding of the global strategy](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group.md) (the reason why the global agent must be used with the global strategy)
+  - [Understanding of the global strategy](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Group_EN.md) (the reason why the global agent must be used with the global strategy)
   
-- [New Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) (manually add a sub-policy group)
+- [New Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group_EN.md) (manually add a sub-policy group)
 
 - Parent strategy group and child strategy group
 
-  - [Correctly distinguish between parent policy group and child policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy.md)
+  - [Correctly distinguish between parent policy group and child policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/TOP_Policy_EN.md)
 
-  - [Russian dolls-nesting between child and mother strategy groups](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md)
+  - [Russian dolls-nesting between child and mother strategy groups](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka_EN.md)
 
 - Three commonly used automatic strategy groups
 
-  - [Set URL-Test Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md) (preferably the lowest latency)
+  - [Set URL-Test Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test_EN.md) (preferably the lowest latency)
   
-  - [Set Fallback Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) (health check)
+  - [Set Fallback Policy Group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback_EN.md) (health check)
   
-  - [Set PCC policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md) (the same host name locks the same node)
+  - [Set PCC policy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC_EN.md) (the same host name locks the same node)
   
 - Set SSID policy group
 
-  - [Method 1: Setting of built-in ssid strategy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md) (This tutorial needs to understand more concepts and is relatively simple, Not flexible enough)
+  - [Method 1: Setting of built-in ssid strategy group](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_EN.md) (This tutorial needs to understand more concepts and is relatively simple, Not flexible enough)
   
-  - [Advanced Operation: Nesting of ssid Strategy Groups](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_Plus.md) (The operation is extremely cumbersome, but it is difficult to meet the requirements Understand, novices, users who are impatient, please detour) (unfinished)
+  - [Advanced Operation: Nesting of ssid Strategy Groups](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_Plus_EN.md) (The operation is extremely cumbersome, but it is difficult to meet the requirements Understand, novices, users who are impatient, please detour) (unfinished)
 
   - [Method 2: Script method](https://t.me/cool_scripts/141) (SSID script is recommended, thanks to Peng-YM, please do not chat privately!)
 
 #### Rules
 
-- [What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md) (the reason for the design rule in the agent software)
+- [What is a rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary_EN.md) (the reason for the design rule in the agent software)
 
-- [Single Rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule.md) (Add a local rule manually through the UI)
+- [Single Rule](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_EN.md) (Add a local rule manually through the UI)
 
-- [Subscription Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md) (Subscribe to a collection of rules and select the parent policy group)
+- [Subscription Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule_EN.md) (Subscribe to a collection of rules and select the parent policy group)
 
-- [Recommendation Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Recommend.md) (recommend common rules for novices)
+- [Recommendation Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Recommend_EN.md) (recommend common rules for novices)
 
-- [Final Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md) (the rules of the rules)
+- [Final Rules](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final_EN.md) (the rules of the rules)
  
 #### Plugins
 
-- [Preliminary understanding of plug-in functions](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary.md) (Powerful custom configuration artifact)
+- [Preliminary understanding of plug-in functions](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Summary_EN.md) (Powerful custom configuration artifact)
 
-- [Add URL requirements and content format requirements in the plug-in](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format.md) (a must-see for newbies)
+- [Add URL requirements and content format requirements in the plug-in](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Format_EN.md) (a must-see for newbies)
 
-- [Add a plugin](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin.md) (add a plugin)
+- [Add a plugin](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_EN.md) (add a plugin)
 
-- [Recommended plug-in URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend.md) (organize more practical plug-ins for novices)
+- [Recommended plug-in URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Plugin_Recommend_EN.md) (organize more practical plug-ins for novices)
 
 #### Rewrite
 
-- [Rewrite](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rewrite.md)
+- [Rewrite](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rewrite_EN.md)
 
 #### Scripts
 
-- [Learning basic cron expressions](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) (modify the execution time of the timing script)
+- [Learning basic cron expressions](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron_EN.md) (modify the execution time of the timing script)
 
 - Use scripts in Loon (from getting started to giving up)
 
-  - [Getting Started-How to understand the necessary format of the three script statements](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) (a must-see for novices)
+  - [Getting Started-How to understand the necessary format of the three script statements](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format_EN.md) (a must-see for novices)
 
-  - [Elementary-How to understand a script configuration code](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1.md) (Resolve the confusion of configuration scripts)
+  - [Elementary-How to understand a script configuration code](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_1_EN.md) (Resolve the confusion of configuration scripts)
 
-  - [Intermediate-How to write script configuration code into Loon to play a role](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2.md) (required for script execution)
+  - [Intermediate-How to write script configuration code into Loon to play a role](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_2_EN.md) (required for script execution)
   
-  - [Advanced-API Document Reference](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3.md) (high-level players)
+  - [Advanced-API Document Reference](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_3_EN.md) (high-level players)
   
   - Abandon —— Script execution still fails (Sorry, I do not provide help in foreign languages.)
 
-- [Add script file-download from URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) (download and store the script in ʻiCloud`)
+- [Add script file-download from URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL_EN.md) (download and store the script in ʻiCloud`)
 
 - Local script (add script via UI method)
 
-  - [Add local path script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript.md) (Select `Local` as the script location, need to match [Add script file-from URL Download](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) tutorial study)
+  - [Add local path script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Local_JaveScript_EN.md) (Select `Local` as the script location, need to match [Add script file-from URL Download](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL_EN.md) tutorial study)
   
-  - [Add remote link script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md) (Select `Remote` as the script location)
+  - [Add remote link script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript_EN.md) (Select `Remote` as the script location)
   
-  - [Modify local script settings](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Modify.md) (Modify local script alias, cron expression, script location, etc. series of operations)
+  - [Modify local script settings](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Modify_EN.md) (Modify local script alias, cron expression, script location, etc. series of operations)
 
 - Subscription script (lazy artifact)
 
-  - [URL requirements and content format requirements in the subscription script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md) (a must-see for newbies)
+  - [URL requirements and content format requirements in the subscription script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format_EN.md) (a must-see for newbies)
 
-  - [Add subscription script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script.md) (the role of the subscription script function, the link requirements and content requirements of the subscription URL)
+  - [Add subscription script](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_EN.md) (the role of the subscription script function, the link requirements and content requirements of the subscription URL)
 
-  - [Create a single local branch](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch.md) (Move the script in the subscription script to the local script, and you cannot modify the content of the local script. Only cron expressions can be modified)
+  - [Create a single local branch](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch_EN.md) (Move the script in the subscription script to the local script, and you cannot modify the content of the local script. Only cron expressions can be modified)
   
-  - [Create a single local branch and copy js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy.md) (Move the script in the subscription script to the local script, you can modify the script Content, cron expression can also be modified)
+  - [Create a single local branch and copy js](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Branch&Copy_EN.md) (Move the script in the subscription script to the local script, you can modify the script Content, cron expression can also be modified)
 
 #### DNS
 
-- [DNS](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/DNS.md)
+- [DNS](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/DNS_EN.md)
 
 #### MITM
 
-- [MITM](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/MITM.md) (Man in the middle attack)
+- [MITM](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/MITM_EN.md) (Man in the middle attack)
 
-- [Domain name](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md) (two ways to add a hostname)
+- [Domain name](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname_EN.md) (two ways to add a hostname)
 
-- [Certificate Management](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA.md) (causes and solutions about certificate pop-ups appear)
+- [Certificate Management](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA_EN.md) (causes and solutions about certificate pop-ups appear)
 
 #### Edit
 
-- [Text Edit](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration.md) (Loon’s configuration file)
+- [Text Edit](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Configuration_EN.md) (Loon’s configuration file)
 
-- [Download from URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Download.md) (Download a complete set of configuration files from URL)
+- [Download from URL](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Download_EN.md) (Download a complete set of configuration files from URL)
 
 #### More
 
-- [Network Sharing](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md) (Scientific Internet access can be achieved for devices under the same WiFi)
+- [Network Sharing](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing_EN.md) (Scientific Internet access can be achieved for devices under the same WiFi)
 
-- [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Schemes.md)
+- [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Schemes_EN.md)
 
 ---
 

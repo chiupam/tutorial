@@ -10,7 +10,7 @@
 
 ## 1. Enter `Strategy Group` to add a strategy group
 
-Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) to jump to the `Manually add a policy group` tutorial, and return to the settings ʻURL- Test` tutorial
+Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group_EN.md) to jump to the `Manually add a policy group` tutorial, and return to the settings ʻURL- Test` tutorial
 
 ## Two, set `strategy type`
 
@@ -64,4 +64,4 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 -It is not allowed to have too many nodes in `Screening Subscription Nodes`, it is recommended to be less than `10`, otherwise it is easy to appear Loon warnings, even proxy server provider bans and other serious consequences
 
--If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex.md) to learn regular expressions
+-If you do not use regular expressions to filter suitable nodes, please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex_EN.md) to learn regular expressions
