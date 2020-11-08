@@ -2,19 +2,19 @@
 
 Users can add a self-built server through the `single node` button. A node represents a proxy server, and the proxy server can realize the transfer of traffic.
 
--Currently supported protocols are
+- Currently supported protocols are
 
-  -HTTP
+  - HTTP
   
-  -HTTPS
+  - HTTPS
   
-  -SS
+  - SS
   
-  -SSR
+  - SSR
   
-  -V2ray
+  - V2ray
   
-  -Trojan
+  - Trojan
 
 # Add method
 
