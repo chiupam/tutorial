@@ -1,6 +1,6 @@
 # Basic understanding of Loon script statement format
 
-Loon currently has only three kinds of script statements, namely `http-request`, `http-response` and `cron` statements. Xiaobai understands these three statements. For adding scripts through the UI or directly configuring and writing scripts in Loon The sentences have been greatly improved
+Loon currently has only three kinds of script statements, namely `http-request`, `http-response` and `cron` statements. Popular understanding these three statements. For adding scripts through the UI or directly configuring and writing scripts in Loon The sentences have been greatly improved
 
 - TF 2.1.13(199) update: Added network-changed type scripts, which will trigger scripts when the network environment changes, and add access to configuration and setting strategies, operating mode script APIs
 
@@ -60,7 +60,7 @@ Dismantling:
   
  -ʻEnable=` <===> Script status, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
   
-Xiaobai understands:
+Popular understanding:
 
 http-response regular expression script-path= script path, timeout= time (in seconds), requires-body = whether to include Body (write `true` for yes, `false` for no), tag = script name, enable =Script status (write `true` to enable, `false` to disable)
   
@@ -86,7 +86,7 @@ Dismantling:
   
  - ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
   
-Xiaobai understands:
+Popular understanding:
 
 cron "cron expression" script-path=script path,tag=script name,enable=script status (write `true` to enable, `false` to disable)
 
@@ -109,6 +109,6 @@ Dismantling:
   
  - ʻEnable=` <===> Enable state, modify according to user needs, `=` followed by `true` to enable, and `false` to disable
   
-Xiaobai understands:
+Popular understanding:
 
 network-changed script-path= script path, tag= script name, enable= script status (write `true` to enable, `false` to disable)

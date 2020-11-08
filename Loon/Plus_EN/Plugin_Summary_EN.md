@@ -7,7 +7,7 @@
   - [TestFlight(193)](https://t.me/LoonNews/194): Support the `[Rule]` module, the strategy can be set to DIRECT, REJECT, PROXY, where PROXY is the strategy manually mapped by the user in the app , Without following the policy after the rule, PROXY is used by default. For the related sample configuration, please refer to: [format](https://raw.githubusercontent.com/Loon0x00/LoonExampleConfig/master/Plugin/Plugin_Example2.plugin)
   
   
-- Xiaobai understands: The plug-in can be understood as a disabled version of the configuration file, by reading the URL content, the code snippets under the corresponding module are automatically recognized, and a large number of code snippets are inserted into the Loon configuration file in batches, and the execution priority is the highest
+- Popular understanding: The plug-in can be understood as a disabled version of the configuration file, by reading the URL content, the code snippets under the corresponding module are automatically recognized, and a large number of code snippets are inserted into the Loon configuration file in batches, and the execution priority is the highest
 
 ## Regarding URL requirements and content format requirements in adding plugins
 
