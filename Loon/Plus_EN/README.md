@@ -1,8 +1,10 @@
 ## Loon Tutorial
 
--Loon's Plus tutorial is stored in this folder.
+- Loon's Plus tutorial is stored in this folder.
 
--Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+- Please read the following **Disclaimer** carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+
+- **When users read this document for operation, please switch the language in Loon to Chinese.**
 
 ---
 
@@ -20,17 +22,17 @@
 
 ### Disclaimer
 
--This tutorial is only for users who have purchased genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
+- This tutorial is only for users who have purchased genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
 
--Through this tutorial, users use Loon to use illegal channels for international networking and conduct behaviors that violate the laws and regulations of mainland China and its regions. I am not responsible for the consequences of such users.
+- Through this tutorial, users use Loon to use illegal channels for international networking and conduct behaviors that violate the laws and regulations of mainland China and its regions. I am not responsible for the consequences of such users.
 
--This tutorial only teaches how to configure script functions, and will never provide any specific scripts that harm the legitimate interests of natural persons, legal persons, and unincorporated organizations, such as cracking scripts.
+- This tutorial only teaches how to configure script functions, and will never provide any specific scripts that harm the legitimate interests of natural persons, legal persons, and unincorporated organizations, such as cracking scripts.
 
--Please do not use the script for any commercial or illegal purposes. I am not responsible for any consequences caused by such actions.
+- Please do not use the script for any commercial or illegal purposes. I am not responsible for any consequences caused by such actions.
 
--Anyone who reads this tutorial in any way, directly or indirectly operates the steps in this tutorial, should read this statement carefully.
+- Anyone who reads this tutorial in any way, directly or indirectly operates the steps in this tutorial, should read this statement carefully.
 
--I have the right to modify and supplement this disclaimer. Any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
+- I have the right to modify and supplement this disclaimer. Any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer.
 
 ---
 
