@@ -32,7 +32,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_4.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_5.jpg)
 
@@ -50,8 +50,8 @@
 
 - 一定要注意的是 `Fallback` 策略组下不可以嵌套其他子策略组，因为策略组不是节点，策略组没有延迟测试一说
 
-- 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
+- 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
-- `筛选订阅节点` 内也不允许有过多的节点，建议低于 `5` 个，否则也容易出现 Loon 警告，甚至是机场封号等严重后果
+- `筛选订阅节点` 内也不允许有过多的节点，建议低于 `5` 个，否则也容易出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
 - 如果不会利用正则表达式筛选适合的节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex.md) 跳转学习正则表达式

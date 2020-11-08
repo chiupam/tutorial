@@ -1,6 +1,8 @@
 # URL-Test
 
-`URL-Test` 策略组可以通俗理解成 Loon 间隔一段时间自动测试 `URL-Test` 策略组下节点延迟，并自动为用户选择最低延迟的节点
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `URL-Test` 策略组，默认每隔 600s 向配置的 url 发出 http 请求，选择最快返回数据的节点（注：url-test不支持策略组为其子策略）
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 通俗理解为， Loon 间隔一段时间自动测试 `URL-Test` 策略组下节点延迟，并自动为用户选择最低延迟的节点
 
 - [TestFilght 2.14(215)](https://t.me/LoonNews/287) 更新：添加 tolerance 参数，用于对比切换节点内时的容差，计算方式如下：前一次测速最优节点耗时-减去当前测速最优节点耗时大于 tolerance 时才会进行节点切换，默认100
 
@@ -24,7 +26,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `容差` 栏根据用户个人喜爱和机场一般延迟自行设置，计算方法上边已有介绍，自行理解自行设置
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `容差` 栏根据用户个人喜爱和代理服务器提供商一般延迟自行设置，计算方法上边已有介绍，自行理解自行设置
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_9.jpg)
 
@@ -40,7 +42,7 @@
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_5.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `筛选订阅节点` 列表下选择筛选后的节点，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_6.jpg)
 
@@ -58,8 +60,8 @@
 
 - 一定要注意的是 `URL-Test` 策略组下不可以嵌套其他子策略组，因为策略组不是节点，策略组没有延迟测试一说
 
-- 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是机场封号等严重后果
+- 添加代理节点时，严厉禁止从 `订阅节点` 列表下选择，否则会出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
-- `筛选订阅节点` 内也不允许有过多的节点，建议低于 `10` 个，否则也容易出现 Loon 警告，甚至是机场封号等严重后果
+- `筛选订阅节点` 内也不允许有过多的节点，建议低于 `10` 个，否则也容易出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
 - 如果不会利用正则表达式筛选适合的节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex.md) 跳转学习正则表达式
