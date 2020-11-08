@@ -8,12 +8,6 @@
 
 # Say a few more words
 
--Learn more about MITM
-
-  -[Wikipedia-MTIM](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87% BB)
-
-  -[Baidu Encyclopedia-MITM](https://baike.baidu.com/item/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87% BB/1739730?fr=aladdin)
-
 -Portal
 
   -[CA Certificate](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA_EN.md)
