@@ -44,7 +44,7 @@ A：可以通过 `网络共享` 功能实现。
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_3.jpg)
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 务必将 `网络共享` 卡片下的 **灰色ip地址（即服务器）** 记录下来，且此处没有出现 `⛔️` 表情包
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 务必将 `网络共享` 卡片下的 **灰色ip地址（即服务器）** 记录下来，且此处没有出现 `⛔️` 表情包，若出现请连接 Wi-Fi
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_4.jpg)
 
@@ -131,5 +131,7 @@ A：可以通过 `网络共享` 功能实现。
   - `文本配置` 内写入相关代码（此方法已过时）
 
 - 对于 A设备 开启 `网络共享` 功能后，在 `网络共享` 卡片下方出现 `⛔️` 表情包，请开启  无线局域网 / Wi-Fi 功能并连接一个 Wi-Fi
+
+  - [好家伙说啥来啥](https://t.me/Loon0x00/497696)
 
 - 对于 B设备 不能通过此功能在某些 APP 上实现科学上网的，可能是这类 APP 上使用的是 ` SOCKET5代理` ，请自行在这类 APP 内设置功能内手动配置 SOCKET5 代理的服务器和端口
