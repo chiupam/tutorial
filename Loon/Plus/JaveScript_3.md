@@ -3,6 +3,8 @@
 JaveScript API example
 
 
+### 可以查看大神写的[教程](https://jidesheng6.github.io/loonapidoc.html)，感谢这位大神！
+
 ### 一、
 
 ```
