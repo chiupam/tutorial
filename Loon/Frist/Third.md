@@ -1,6 +1,6 @@
 ### 操作步骤
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1、点击 [这里](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Loon/Proxy/Proxy.list) 跳转到浏览器
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1、点击 [这里](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Proxy/Proxy.list) 跳转到浏览器
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Frist/Third_1.jpg)
 
