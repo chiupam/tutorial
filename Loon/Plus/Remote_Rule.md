@@ -77,7 +77,7 @@
 
 - 流媒体规则推荐订阅 Conners Hua 的规则，github 库请点击 [这里](https://github.com/ConnersHua/Profiles/tree/master/Surge/Ruleset) 跳转
 
-- 为什么说  `代理策略组` 或者 `母策略组`  名称每个用户不一定相同，需要看用户具体设置的名称而定，想了解原因请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Global_Policy.md) 跳转并阅读 `三、代理策略`
+- 为什么说  `代理策略组` 或者 `母策略组`  名称每个用户不一定相同，需要看用户具体设置的名称而定，想了解原因请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Global_Policy.md) 跳转并阅读 `三、代理策略`
 
 # 鸣谢
 
