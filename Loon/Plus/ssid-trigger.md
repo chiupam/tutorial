@@ -22,6 +22,8 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 复制以下代码
 
+> 代码意思为：默认情况下使用规则分流模式，蜂窝数据情况下使用规则分流模式，连接 SSID_1 无线网络情况下使用全局直连模式
+
 ```
 ssid-trigger="default":rule,"cellular":rule,"SSID_1":direct
 ```
