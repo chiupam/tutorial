@@ -88,13 +88,15 @@
   
   - [设置 PCC 策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md)（相同主机名锁定同一节点）
   
-- 设置 SSID策略组
+- 设置 SSID 策略组
 
-  - [方法一：内置 ssid 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md)（此教程需要理解较多概念，而且较为单一，不够灵活）
+  - [方法一：指定 ssid 下流量模式自动切换](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid-trigger.md)（最简单快捷的方法，推荐新手使用）
+
+  - [方法二：内置 ssid 策略组的设置](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid.md)（此教程需要理解较多概念，而且较为单一，不够灵活）
   
-  - [进阶操作：ssid 策略组的嵌套](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/ssid_Plus.md)（操作极其繁琐，但是满足需求，只是较难理解，新手、无耐心用户请绕道）（未完成）
+  - [进阶操作：ssid 策略组的嵌套](https://github.com/ArriettyQAQ/loon_tutorial)（操作极其繁琐，但是满足需求，只是较难理解，新手、无耐心用户请绕道，鸣谢ArriettyQAQ大佬）
 
-  - [方法二：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬）
+  - [方法三：脚本的方法](https://t.me/cool_scripts/141)（推荐使用 SSID 脚本，鸣谢Peng-YM大佬）
 
 #### 规则
 
