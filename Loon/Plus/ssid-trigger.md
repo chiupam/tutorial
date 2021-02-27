@@ -56,11 +56,11 @@ ssid-trigger="default":rule,"cellular":rule,"SSID_1":direct
 
 - 使用此方法的设置在连接指定 Loon 使用全局直连模式的无线网络时，用户在 Loon 中预设的特定 APP 策略组也会走直连，请注意以下 APP
 
- - Netflix
+  - Netflix
 
- - Disney
+  - Disney
 
- - ...
+  - ...
 
 - 如果家中有多台路由器扶墙，请参考以下规律自行修改
 
