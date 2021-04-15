@@ -20,9 +20,9 @@
 
 匹配名称|匹配类型|说明
 -|-|-
-基于域名后缀|DOMAIN-SUFFIX|无
-基于域名完整匹配|DOMAIN|无
-基于域名关键字|DOMAIN-KEYWORD|无
+基于域名后缀|DOMAIN-SUFFIX|域名后面相同就行，例如`b.com`可匹配到`a.b.com`
+基于域名完整匹配|DOMAIN|严格匹配域名
+基于域名关键字|DOMAIN-KEYWORD|检测到关键词就会被匹配
 基于用户代理串|USER-AGENT|根据 Http 的 user-agent 值来进行匹配，支持带有 \* , ? 的通配符匹配
 基于URL正则|URL-REGEX|无
 基于请求IP范围|IP-CIDR|通常用作局域网匹配
