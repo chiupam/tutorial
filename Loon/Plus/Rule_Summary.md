@@ -49,6 +49,8 @@
 
 - 兜底匹配，FINAL规则，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md) 跳转到 `Final规则` 教程
 
+- [一个动图明白规则分流的作用](https://t.me/Loon0x00/705007)
+
 # 参考
 
 - [Loon 不完全教程 —— 规则-Rule](https://www.notion.so/2-967c1a07462c43ab88906162bec475a4)
