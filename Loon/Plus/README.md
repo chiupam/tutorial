@@ -12,9 +12,9 @@
 
 - [LoonManual](https://github.com/Loon0x00/LoonManual/blob/master/README.md)
 
-- [Telegram：Loon0x00](https://t.me/Loon0x00)
+- Telegram：[Loon0x00](https://t.me/Loon0x00)
 
-- [Twitter：Loon0x00](https://twitter.com/loon0x00)
+- Twitter：[Loon0x00](https://twitter.com/loon0x00)
 
 - App Store 下载地址 [美区](https://itunes.apple.com/us/app/loon/id1373567447) [港区](https://itunes.apple.com/hk/app/loon/id1373567447)
 
