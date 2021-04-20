@@ -196,6 +196,8 @@
 
 - [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Schemes.md)
 
+---
+
 ### 新功能
 
 - [内置代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Built-in_Proxy.md)（极度便利新手用户首次使用）
