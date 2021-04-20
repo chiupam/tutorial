@@ -8,15 +8,15 @@
 
 ### 一、通过修改配置
 
-打开 Loon 并点击下方的 `配置` 栏
+1. 打开 Loon 并点击下方的 `配置` 栏
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_1_1.jpg)
 
-点击 `文本编辑`
+2. 点击 `文本编辑`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_1_2.jpg)
 
-找到 `[Proxy Group]` 下的策略组并在后方添加以下代码
+3. 找到 `[Proxy Group]` 下的策略组并在后方添加以下代码
 
 ```
 ,img-url = https://example/example.png
@@ -26,19 +26,19 @@
 
 ## 二、通过 UI 操作
 
-打开 Loon 并点击下方的 `配置` 栏
+1. 打开 Loon 并点击下方的 `配置` 栏
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_2_1.jpg)
 
-点击 `策略组`
+2. 点击 `策略组`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_2_2.jpg)
 
-点击需要添加图标的策略组
+3. 点击需要添加图标的策略组
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_2_3.jpg)
 
-添加图标链接后点击 `保存`
+4. 添加图标链接后点击 `保存`
 
 ![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Custom_Icon_2_4.jpg)
 
