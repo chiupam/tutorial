@@ -49,7 +49,6 @@
 [DNS](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#dns)
 [Mitm](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#mitm)
 [编辑](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E7%BC%96%E8%BE%91)
-[更多](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E6%9B%B4%E5%A4%9A)
 [新功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md#%E6%96%B0%E5%8A%9F%E8%83%BD)
 
 #### 节点
@@ -190,15 +189,13 @@
 
 - [从URL下载](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Download.md)（从 URL 下载一套完整的配置文件）
 
-#### 更多
+---
+
+### 新功能
 
 - [网络共享](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md)（可为处于同一 WiFi 下的设备实现科学上网）
 
 - [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Schemes.md)
-
----
-
-### 新功能
 
 - [内置代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Built-in_Proxy.md)（极度便利新手用户首次使用）
 
