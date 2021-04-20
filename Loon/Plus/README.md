@@ -40,6 +40,18 @@
 
 目的在于提高用户自定义 Loon 配置的能力，按 `配置` 栏面板顺序编写教程
 
+[节点](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E8%8A%82%E7%82%B9)
+[策略](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E7%AD%96%E7%95%A5)
+[规则](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E8%A7%84%E5%88%99)
+[插件](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E6%8F%92%E4%BB%B6)
+[腹泻](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E5%A4%8D%E5%86%99)
+[脚本](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E8%84%9A%E6%9C%AC)
+[DNS](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#dns)
+[Mitm](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#mitm)
+[编辑](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E7%BC%96%E8%BE%91)
+[更多](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E6%9B%B4%E5%A4%9A)
+[策略](https)
+
 #### 节点
 
 - [单个节点](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Proxy.md)（手动添加代理节点）
