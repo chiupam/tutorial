@@ -46,3 +46,9 @@
 
 - 如果用户不喜欢显示图标，可以选择开启 [简洁模式](https://t.me/LoonNews/411?single)
 
+- 推荐几个大佬的图标仓库 
+
+  - [Orz-3](https://github.com/Orz-3/mini/tree/master/Color) 
+  
+  - [Koolson](https://github.com/Koolson/Qure/tree/master/IconSet/Color)
+
