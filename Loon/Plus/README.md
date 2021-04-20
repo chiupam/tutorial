@@ -44,7 +44,7 @@
 [策略](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E7%AD%96%E7%95%A5)
 [规则](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E8%A7%84%E5%88%99)
 [插件](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E6%8F%92%E4%BB%B6)
-[腹泻](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E5%A4%8D%E5%86%99)
+[复写](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E5%A4%8D%E5%86%99)
 [脚本](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E8%84%9A%E6%9C%AC)
 [DNS](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#dns)
 [Mitm](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#mitm)
