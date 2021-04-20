@@ -50,7 +50,7 @@
 [Mitm](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#mitm)
 [编辑](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E7%BC%96%E8%BE%91)
 [更多](https://github.com/chiupam/tutorial/tree/master/Loon/Plus#%E6%9B%B4%E5%A4%9A)
-[策略](https)
+[新功能](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md#%E6%96%B0%E5%8A%9F%E8%83%BD)
 
 #### 节点
 
