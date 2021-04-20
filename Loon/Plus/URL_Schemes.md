@@ -5,9 +5,13 @@ Loon 支持 URL Schemes，可结合其他工作流使用
 ## URL
 
 ```
-开启或关闭 Loon
+开启 Loon
 
-loon://switch
+loon://on
+
+关闭 Loon
+
+loon://off
 
 导入配置
 
@@ -28,9 +32,11 @@ loon://LogLists
 
 ## 举例
 
-若用户想导入配置，可以使用 loon://import?sub=url （URL为 Urlencode 之后的字符串）
+若用户想导入配置，可以使用 `loon://import?sub=url` （URL为 Urlencode 之后的字符串）
 
+```
 loon://import?sub=https%3A%2F%2Floon.now.sh%2Flazy-config%2Fdefault
+```
 
 # 懒人快捷指令
 
