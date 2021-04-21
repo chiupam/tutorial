@@ -195,7 +195,7 @@
 
 - [网络共享](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Network_Sharing.md)（可为处于同一 WiFi 下的设备实现科学上网）
 
-- [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL Schemes.md)
+- [URL Schemes](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL_Schemes.md)
 
 - [内置代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Built-in_Proxy.md)（极度便利新手用户首次使用）
 
