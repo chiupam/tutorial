@@ -48,7 +48,7 @@
 
 - 推荐几个大佬的图标仓库 
 
-  - [Orz-3](https://github.com/Orz-3/mini/tree/master/Color) 
+  - [Orz-3](https://github.com/Orz-3/mini/tree/master/Color) [贴心教程](https://t.me/Orzmini/604)
   
   - [Koolson](https://github.com/Koolson/Qure/tree/master/IconSet/Color)
 
