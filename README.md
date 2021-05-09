@@ -24,33 +24,17 @@
 
 - [nzw9314](https://github.com/nzw9314/QuantumultX/tree/master) （脚本合集，作者宣布于2020.08.09正式停止更新）
 
-- [Tartarus2014](https://github.com/Tartarus2014)  （队长整理 Surge、Loon 的脚本合集）
+- [Tartarus2014](https://github.com/Tartarus2014)  （队长）
 
 - [NobyDa](https://github.com/NobyDa/Script/tree/master) （野比大神）
 
-- [chavyleung](https://github.com/chavyleung/scripts)  （C神，签到狂魔）
+- [chavyleung](https://github.com/chavyleung/scripts)  （C神）
 
 - [Peng-YM](https://github.com/Peng-YM/QuanX)  （Telegram 彭于晏）
-
-  - [代表作品：Sub-Store 本地订阅解析器](https://t.me/cool_scripts/200) [文字教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)&[视频教程](https://t.me/cool_scripts/242)
-
-- [lxk0301](https://github.com/lxk0301/scripts) （京东系列小游戏）
-
-- [lowking](https://github.com/lowking/Scripts/tree/master) 
 
 - [Sunert](https://github.com/Sunert/Scripts/) 
 
 - [zZpiglet](https://github.com/zZPiglet/Task)  （滴滴打车）
-
-- [toulanboy](https://github.com/toulanboy/scripts/tree/master) 
-
-- [vinewx](https://ooxx.be/js) 
-
-- [songyangzz](https://github.com/songyangzz/QxScripts) 
-
-- [chouchoui](https://github.com/chouchoui/QuanX) 
-
-- [evilbutcher](https://github.com/evilbutcher/Quantumult_X/tree/master) 
 
 ### 规则/分流系列作者 (排名不分先后)
 
